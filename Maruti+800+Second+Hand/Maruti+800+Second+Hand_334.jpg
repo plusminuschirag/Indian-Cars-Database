@@ -1,0 +1,1167 @@
+<!DOCTYPE html>
+<html>
+<head>	
+	<title>BrickandMotor - Market Place to Real-Estate & Used Cars in </title>
+	<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<link rel="shortcut icon" href="images1/bnm_smalllogo.png" />
+<link href="https://use.fontawesome.com/releases/v5.0.6/css/all.css" rel="stylesheet">
+<link rel="stylesheet" href="css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<!-- <script src="https://code.jquery.com/jquery-1.11.1.min.js"></script> -->
+<link href="https://fonts.googleapis.com/css?family=Lato|Open+Sans:300,700,400" rel="stylesheet">
+<link rel="stylesheet" type="text/css" href="css/style.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<script src='https://www.google.com/recaptcha/api.js'></script>
+
+<script src="js/bootstrap.min.js"></script>	<link rel="stylesheet" type="text/css" href="css/mianheader.css">
+	<script type="text/javascript" src="js/mainheaderscript.js"></script>
+	<!-- pagination script starts here -->
+	<!-- <link href="pagination/css/pagination.css" rel="stylesheet" type="text/css" />
+	<link href="pagination/css/A_green.css" rel="stylesheet" type="text/css" /> -->
+	<!-- single select link starts her -->
+  <!-- <link rel="stylesheet" href="css/style1.css"> -->
+	<!-- pagination script ends here -->
+	<!-- multiple select option from anu links -->
+	<!-- <link rel="stylesheet" href="css/chosen.css">
+  <script src="js/chosen.jquery.min.js" type="text/javascript"></script> -->
+  <!-- multiple select option with check box script starts here -->  
+  <!--  <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-multiselect/0.9.13/js/bootstrap-multiselect.js"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-multiselect/0.9.13/css/bootstrap-multiselect.css" /> -->
+  <!-- multiple select option with check box ends here -->
+  <!-- final multi select css link -->
+  <link href="css/multiple-select.css" rel="stylesheet"/>
+  <!-- final select links -->
+	<link rel="stylesheet" href="css2/nice-select.css">
+  <link rel="stylesheet" href="css/common-style.css">
+  <link rel="stylesheet" href="css/mydream_style.css">
+  <script src="js/mydream_function.js"></script>
+  <script src="js/common-js.js"></script>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-101504636-2"></script>
+        <script>
+         window.dataLayer = window.dataLayer || [];
+         function gtag(){dataLayer.push(arguments);}
+         gtag('js', new Date());
+        
+         gtag('config', 'UA-101504636-2');
+        </script>
+    <script>
+    $(document).ready(function() {
+        displayRecords(24, 1);
+         search_submit_load();
+     });
+    function search_submit(){
+            // alert("search_submit");
+          /*var select_property = $('#select_property').val();
+          var city_filter = $('#city_filter').val();
+          var location_get = $('#location_get1').val();
+          var type_property = $('#type_property').val();
+          var budget_res_btn = $('#budget_res_btn').val();
+          var posted_by = $("#posted_by").val();
+          var dir_facing = $("#dir_facing").val();
+          var pro_prefered_for = $('#pro_prefered_for').val();
+          var f_status = $("#f_status").val();
+          var bedroom_button = $("#bedroom_button").val();
+          var baths = $("#baths").val();
+          var min_input = $("#min_input").val();          
+          var max_input = $("#max_input").val();
+          var min_input_rent = $("#min_input_rent").val();
+          var max_input_rent = $("#max_input_rent").val(); 
+          var balcons = $("#balcons").val();
+          var bedsmin_input = $("#bedsmin_input").val();
+          var bed_max_input = $("#bed_max_input").val();*/
+          // $("#loader_display").html("<div class=text-center><i style='color:tomato' class='fa fa-spinner fa-pulse fa-2x i_class'></i>&nbsp;&nbsp;<span style='color:black;font-weight:bold;font-size:14px'>Loading Please Wait ...</span></div>");
+
+          var myDataFilter = $('#desktop_filterform').serialize();
+          $('#loader_display1').show();
+          $('#loader_display1').html('<img class="loading_gif" src="gif/bnm_loader.gif" width="60">');
+          $("body").css("overflow","hidden");
+          $.ajax({
+              type: "POST",
+              url: "redirection_searchresult.php",
+              // data: { "formData" : myData},
+              // data : {"property_val" : property_val},
+              // datatype : 'html',
+              data  : myDataFilter ,
+                datatype : 'html',
+              success: function(result){
+                setTimeout(function(){
+                  $("#result_id").fadeIn(3000).html(result);
+                  $("#page_id").val();
+                  $('#loader_display1').hide();
+                  $("body").css("overflow","visible");
+                },1000);
+                
+
+
+                // alert(result);
+                // $("#result_id").html("<i style='color:tomato' class='fa fa-spinner fa-pulse fa-2x i_class'></i>&nbsp;&nbsp;<span class='text-center' style='color:black;font-weight:bold;font-size:14px'>Loading Please Wait ...</span>");
+                // $("#result_id").fadeIn(3000);
+                // $('html, body').animate({scrollTop: $("#result_id").offset()}, "slow");
+                // // $("#loader_display").html('');
+                // var titile_class1 = $(this).$(".titile_class1").text();
+                // var titile_class1 = $('.titile_class1').text();
+                // alert(titile_class1);
+                // $("#title_model").html(titile_class1);
+              },complete: function (dat) {
+                // $('#loader_display1').hide();
+                $('html, body').animate({scrollTop: $("#result_id").offset()}, "slow");
+                 // $('html, body').animate({ 'scrollTop' : $("#results_start").position().top }, "slow");
+
+              } 
+            });
+        }
+
+          function search_submit_load(){
+            // alert("search_submit_load");
+          /*var select_property = $('#select_property').val();
+          var city_filter = $('#city_filter').val();
+          var location_get = $('#location_get1').val();
+          var type_property = $('#type_property').val();
+          var budget_res_btn = $('#budget_res_btn').val();
+          var posted_by = $("#posted_by").val();
+          var dir_facing = $("#dir_facing").val();
+          var pro_prefered_for = $('#pro_prefered_for').val();
+          var f_status = $("#f_status").val();
+          var bedroom_button = $("#bedroom_button").val();
+          var baths = $("#baths").val();
+          var min_input = $("#min_input").val();          
+          var max_input = $("#max_input").val();
+          var min_input_rent = $("#min_input_rent").val();
+          var max_input_rent = $("#max_input_rent").val(); 
+          var balcons = $("#balcons").val();
+          var bedsmin_input = $("#bedsmin_input").val();
+          var bed_max_input = $("#bed_max_input").val();*/
+          // $("#loader_display").html("<div class=text-center><i style='color:tomato' class='fa fa-spinner fa-pulse fa-2x i_class'></i>&nbsp;&nbsp;<span style='color:black;font-weight:bold;font-size:14px'>Loading Please Wait ...</span></div>"); 
+          $('#loader_display1').html('<img class="loading_gif" src="gif/bnm_loader_bg.gif" width="60">');
+          $("body").css("overflow","hidden");
+          var myDataFilter = $('#desktop_filterform').serialize();
+          $.ajax({
+              type: "POST",
+              url: "redirection_searchresult.php",
+              data  : myDataFilter ,
+              datatype : 'html',
+              success: function(result){
+                setTimeout(function(){
+                  $("#result_id").html(result);
+                  $("#pag_blk").hide();
+                  $("#non_premium").hide();
+                  $("#page_id").val();
+                  $('#loader_display1').hide();
+                  $("body").css("overflow","visible");
+                },1000); 
+
+                  
+                
+
+
+
+                // alert(result);
+                // $("#result_id").html("<i style='color:tomato' class='fa fa-spinner fa-pulse fa-2x i_class'></i>&nbsp;&nbsp;<span class='text-center' style='color:black;font-weight:bold;font-size:14px'>Loading Please Wait ...</span>");
+                // $("#result_id").fadeIn(3000);
+                // $('html, body').animate({scrollTop: $("#result_id").offset()}, "slow");
+                // $("#loader_display").html('');
+                // var titile_class1 = $(this).$(".titile_class1").text();
+                // var titile_class1 = $('.titile_class1').text();
+                // alert(titile_class1);
+                // $("#title_model").html(titile_class1);
+
+
+
+              },complete: function (dat) {
+                // $('#loader_display1').hide();
+                // $('html, body').animate({scrollTop: $("#result_id").offset()}, "slow");
+                 // $('html, body').animate({ 'scrollTop' : $("#results_start").position().top }, "slow");
+
+              } 
+            });
+        }
+    $(document).ready(function(){
+      $("#carousel_click .item").click(function(){
+        window.open(
+          'https://brickandmotor.in/iconica/',
+          '_blank' // <- This is what makes it open in a new window.
+        );
+    });
+});
+  </script>
+</head>
+
+<!-- Check session value -->
+	
+
+  <!-- new header design starts here -->
+<div id="top_popup" style="display:block">
+  <div class="container-fluid container_height">
+    <div class="">
+    		<div class="col-lg-2 col-md-1 col-sm-1 col-xs-12">
+    			&nbsp;
+    		</div>
+	      <div class="col-lg-8 col-md-10 col-sm-10 col-xs-12" id="sel_city_div">
+	      	<div class="city_close" onclick="city_popup_close();"><i class="fa fa-window-close" aria-hidden="true"></i></div>
+	        <div class="text-center" id="warning_msg"></div>
+	        <div class="row">
+	        	<div class="col-lg-3 col-md-3 col-sm-3 col-xs-1">
+	        		&nbsp;
+	        	</div>
+	        	<div class="col-lg-6 col-md-6 col-sm-6 col-xs-10">
+	        		<div class="col-lg-5 col-md-5 col-sm-6 col-xs-6">
+				          <div>
+				            <div class="select_city_css" style="color:#fff">Select Your City</div>
+				          </div>
+	        		</div>
+		          	<div class="col-lg-7 col-md-7 col-sm-6 col-xs-6" id="for_niceselect">
+		          		<div class="city_select_bg">
+			            <select name="city" id="dropdown_cities" class="form-control selectcityname pop_city option_color" onchange="city_session(this.value)"><option value= "">Select</option><option value = Hyderabad >Hyderabad</option><option value = Kakinada >Kakinada</option><option value = Tirupati >Tirupati</option><option value = Visakhapatnam >Visakhapatnam</option><option value = Vizianagaram >Vizianagaram</option><select> 
+			          </div>   
+		          	</div>
+	        	</div>
+	        	<div class="col-lg-3 col-md-3 col-sm-3 col-xs-1">
+	        		&nbsp;
+	        	</div>
+	        </div>
+	      	<center class="search">
+	      			<strong>
+	      				<h2 class="hello_what_css">Hello,What do you want to Search Today??</h2>
+	      			</strong>
+	      	</center>
+	      	<div class="col-lg-2 col-md-2 col-sm-2 col-xs-12">
+	      		&nbsp;
+	      	</div>
+      		<div class="col-lg-4 col-md-4 col-sm-4 col-xs-6">
+	              <div>
+	                <center onclick="select_city('properties');" class="category_cls">
+	                	<img src="images1/property.png" class="img-responsive img-circle img_size">
+	                  	<label class="label1">
+	                  		<p class="property1_style">Properties</p>
+	                  	</label>
+	              	</center>
+	              </div>
+	              <ul class="list-inline text-center padding_0px" id="property_salerent">
+	              	<li>
+	              		<a href="index.php">
+	              			<div class="left_sale_css">SALE</div>
+	              		</a>
+	              	</li>
+	              	<li>
+	              		<a href="link_search_filter.php?city=&amp;p_name=residential&amp;p_type=10019,10003,10021&amp;p_variant=RENT">
+	              			<div class="right_sale_css">RENT</div>
+	              		</a>
+	              	</li>
+	              </ul>
+      		</div>
+      		<div class="col-lg-4 col-md-4 col-sm-4 col-xs-6">
+	              	<div>
+	                	<center onclick="select_city('automobile');" class="category_cls">
+	                		<img src="images1/automobile1.png" class="img-responsive img-circle img_size">
+	              			<label class="label1">
+	              				<p class="automobile1_style">Automobiles</p>
+	              			</label>
+	              		</center>
+	              	</div>
+	              <ul class="list-inline text-center padding_0px" id="automobile_salerent">
+	              	<li>
+	              		<a href="https://brickandmotor.in/automobiles/auto_index.php">
+	              			<div class="left_sale_css">SALE</div>
+	              		</a>
+	              	</li>
+	              	<li>
+	              		<a href="https://brickandmotor.in/site_maintainance.php">
+	              			<div class="right_sale_css">RENT</div>
+	              		</a>
+	              	</li>
+	              </ul>
+      		</div>
+	      	<div class="col-lg-2 col-md-2 col-sm-2 col-xs-12">
+	      		&nbsp;
+	      	</div>
+	      </div>
+	      <!-- col -lg - 4 ends here -->
+  	</div>
+    <!-- row ends here -->
+    <div class="col-lg-2 col-md-1 col-sm-1 col-xs-12">
+    	&nbsp;
+    </div>
+  </div>
+  <!-- container ends here -->
+</div>
+<!-- top_popup id ends here -->
+<!-- new header design ends here -->
+
+
+<div class="banner_image">
+	<div class="background-bg">
+		<div class="hedader_bg">
+			<!-- Header position fixed starts here -->
+			<div id="header_height" class="header_color">
+				<div class="container-fluid">
+					<div class="row logo_block">
+						<!-- top strip code start here -->
+						<div class="col-sm-12 col-xs-12" id="stip_show">
+							<div class="col-sm-6 col-xs-7">
+								<div class="support_css"><!-- <span><i class="far fa-envelope"></i></span> <a style="color:#fff" href="mailto:support@brickandmotor.in"></a> --><!-- <span> | </span> -->
+									<span style="font-size: 9px;"><i class="fas fa-phone fa-rotate-45"></i></span> <a style="color:#fff" href="tel:9097099709">90 9709 9709</a></div>
+							</div>
+							<div class="col-sm-6 col-xs-5">
+								<div class="city_strip" onclick="select_city_header();">
+										<div class="city_strip_css">
+											<input type="hidden" name="city_hide_value" value="1" id="city_hide_value">
+											<span class="fa fa-map-marker famap"></span>
+											<span id='session_value'>
+																						</span>
+										</div>
+								</div>
+							</div>
+						</div>
+						<!-- top strip code ends here -->
+						<div class="col-lg-3 col-md-4 col-sm-4 col-xs-7 remove_pads" id="logo_small">
+							<!-- menu nav starts here -->
+							<div class="navbar-header float_left">
+						          <button data-toggle="collapse-side" data-target=".side-collapse" data-target-2=".side-collapse-container" type="button" class="navbar-toggle pull-left" id="menu_id" style="background-color: rgba(0,0,0,)">
+						          	<span class="icon-bar"></span>
+						          	<span class="icon-bar"></span>
+						          	<span class="icon-bar"></span>
+						          </button>
+						    </div>
+						    <div class="navbar-inverse side-collapse in" id="menu_list">
+						          <nav role="navigation" class="navbar-collapse">
+						            <ul class="nav navbar-nav">
+						            <li class="width_full"><a class="padding_none" href="index.php">Home</a></li>
+						              <li class="width_full"><a class="padding_none" href="about-us.php">About BrickandMotor</a></li>
+						              <li class="width_full"><!-- <a class="padding_none" href="terms_service.php">Properties</a> -->
+						              <a href="https://brickandmotor.in/index.php" style='padding-bottom: 0px'>Properties
+						              </a>
+						              </li>
+						              <li class="width_full"><!-- <a class="padding_none" href="cancellation_refund.php">Automobiles</a> -->
+						              <a href="https://brickandmotor.in/automobiles/auto_index.php" style='padding-bottom: 0px' >Automobiles
+						              </a>
+						              </li>
+						              <!-- <li class="width_full"><a class="padding_none" href="privacy-policy.php">Privacy Policy</a></li>
+						              <li class="width_full"><a class="padding_none" href="careers.php">Careers</a></li> -->
+						              <li class="width_full"><a class="padding_none" href="contact_us.php">Contact Us</a></li>
+						            </ul>
+						          </nav>
+						    </div>
+						<!-- menu nav ends here -->
+							<a href="index.php">
+								<!-- <img src="images1/bnm.png" width="35"> -->
+								<img class="main_logo" src="images1/brickandmotor_logo.png"/>
+							</a>
+						</div><!-- end col-md-8 -->
+						<div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 remove_pads" id="pro_auto_hide">
+							<ul class="list-inline" style="padding-top: 0px">
+								<li>
+									<div class="head_prop" onclick="header_propclick()">Properties <i class="fas fa-angle-down"></i></div>
+									<div class="head_prop_css">
+									<ul class="prop_block">
+					  					<li class="head_prop_css_li"><a target="_blank" href="link_search_filter.php?city=&amp;p_name=residential&amp;p_type=10019,10003,10021&amp;p_variant=SALE">Residential Flats for sale in <span id="city_see"></span><span id="city_dot"></span></a></li>
+					  					<li class="head_prop_css_li"><a target="_blank"  href="link_search_filter.php?city=&amp;p_name=residential&amp;p_type=10019,10003,10021&amp;p_variant=RENT">Residential Flats for Rent in <span id="city_see"></span><span id="city_dot"></span></a></li>
+					  					<li class="head_prop_css_li"><a target="_blank"  href="link_search_filter.php?city=&amp;p_name=commercial&amp;p_type=10007,10008,10018,10011,10013,10091,10006&amp;p_variant=SALE">Commercial space for Sale in <span id="city_see"></span><span id="city_dot"></span></a></li>
+					  					<li class="head_prop_css_li"><a target="_blank"  href="link_search_filter.php?city=&amp;p_name=commercial&amp;p_type=10007,10008,10018,10011,10013,10091,10006&amp;p_variant=RENT">Commercial space for Rent in <span id="city_see"></span><span id="city_dot"></span></a></li>
+					  					<li class="head_prop_css_li"><a target="_blank"  href="link_search_filter.php?city=&amp;p_name=commercial&amp;p_type=10017&amp;p_variant=SALE">Villas for Sale in <span id="city_see"></span><span id="city_dot"></span></a></li>
+					  					<li class="head_prop_css_li"><a target="_blank"  href="link_search_filter.php?city=&amp;p_name=commercial&amp;p_type=10006,10000,10012&amp;p_variant=SALE">Land / Plots in <span id="city_see"></span><span id="city_dot"></span></a></li>
+									</ul>
+									</div>
+								</li>
+								<li>
+									<div class="head_auto" onclick="header_autoclick()">Automobiles <i class="fas fa-angle-down"></i></div>
+									<div class="head_auto_css">
+										<ul class="auto_block">
+						  				<li class="head_auto_css_li"><a href="https://brickandmotor.in/search-results.php?city=&amp;cname=tata-used-cars-for-sale&amp;cat=207">TATA cars for sale in <span id="city_see"></span><span id="city_dot"></span></a></li>
+										<li class="head_auto_css_li"><a href="https://brickandmotor.in/search-results.php?city=&amp;cname=fiat-used-cars-for-sale&amp;cat=209">Fiat cars for sale in <span id="city_see"></span><span id="city_dot"></span></a></li>
+										<li class="head_auto_css_li"><a href="https://brickandmotor.in/search-results.php?city=&amp;cname=honda-used-cars-for-sale&amp;cat=210">Honda cars for sale in <span id="city_see"></span><span id="city_dot"></span></a></li>
+										<li class="head_auto_css_li"><a href="https://brickandmotor.in/search-results.php?city=&amp;cname=ford-used-cars-for-sale&amp;cat=212">FORD cars for sale in <span id="city_see"></span><span id="city_dot"></span></a></li>
+										<li class="head_auto_css_li"><a href="https://brickandmotor.in/search-results.php?city=&amp;cname=diesel-used-cars-for-sale&amp;cat=214">Used diesel cars in <span id="city_see"></span><span id="city_dot"></span></a></li>
+										<li class="head_auto_css_li"><a href="https://brickandmotor.in/search-results.php?city=&amp;cname=petrol-used-cars-for-sale&amp;cat=215">Used petrol cars in <span id="city_see"></span><span id="city_dot"></span></a></li>
+										</ul>
+									</div>
+								</li>
+							</ul>
+						</div>
+						<div class="col-lg-6 col-md-5 col-sm-5 col-xs-5 topul_align remove_pads">
+							<ul class="list-inline top_ul">
+								<li>
+									<div class="city_changed" onclick="select_city_header();">
+										<div class="city_css">
+											<input type="hidden" name="city_hide_value" value="1" id="city_hide_value">
+											<span class="fa fa-map-marker famap"></span>
+											<span id='session_value'>
+																						</span>
+										</div>
+									</div>
+								</li>
+								<li><a href="#" type="button" class="btn btn-post btn btn-md" onclick="show_category()" id="postfree_ad">POST A <span class="">FREE</span> AD</a></li>
+								<!-- <div>
+									<input type="radio" name="Post A Free Ad button" value="Properties">Properties
+									<input type="radio" name="Post A Free Ad button" value="Automobile">Automobile
+
+								</div> -->
+								<!--li><i class="fa fa-map-marker" style="font-size:24px;color:white;"></i></li-->
+								<!-- <li style="color:#fff;"><i class="fa fa-user"></i></li> -->
+								<li>
+																		<div class="login_user" onclick="login_user_click()"><i class="fa fa-user-o size_15" aria-hidden="true"></i><span id="name_hide"> Login </span></div>
+																	</li>
+							</ul>
+						</div><!-- end col-md-4 -->
+					</div><!-- 2nd row for post free radio button starts here -->
+				<div class="row" style="width:100%">
+					<div class="col-md-8 col-sm-8 col-xs-12"></div>
+					<div class="col-md-4 col-sm-4 col-xs-12">
+						<ul class="list-inline Post-AFreeAdClassRadio curvepost_class" id="show_categories">
+								
+									<!-- <input type="radio" name="Post A Free Ad button" style="vertical-align: middle;margin: 0px;" value="Properties"> Properties &nbsp;&nbsp;
+									<input type="radio" name="Post A Free Ad button" style="vertical-align: middle;margin: 0px;" value="Automobile"> Automobile -->
+																		<li>
+									<!-- <a href="http://testing.brickandmotor.in/mainform_properties.php"><img src="images1/smallproperty5.png" height="25" width="25"> <br> Properties
+									</a> -->
+									<a href="mainform_properties.php"><img src="images1/smallproperty5.png" height="25" width="25"> <br> Properties
+									</a>
+									</li>
+									<li>
+									<a href="https://brickandmotor.in/automobiles/post_your_addautomobiles.php"><img src="images1/smallautomobile.png" style="width:42px;"> <br> Automobiles
+										</a>
+									</li>
+						</ul>
+
+						<ul class="curvepost_myaccount" id="show_myaccount" style="list-style-type: none">
+									<li>
+									<a href="car-rental-dashboard.php?id="> <i class="fa fa-user-circle" aria-hidden="true"></i> My Account
+									</a>
+									</li>
+									<li>
+									<a href="logout.php"><i class="fa fa-sign-out" aria-hidden="true"></i> Log-out
+										</a>
+									</li>
+						</ul>
+						
+					</div>
+				</div><!-- end container -->
+			</div>
+			<!-- Header position fixed ends here -->
+		</div><!-- end header bg -->
+		</div><!--end background-bg-->
+	</div><!-- end banner_image-->
+</div>
+<!-- property id search starts here -->
+<div class="search_mainid">
+	<div class="div_pid"><img id="pid_img" src="images1/pid_search1.png" width="35" onclick="pid_img()"></div>
+</div>
+<div class="search_id">
+	<ul class="list-inline pid_ul">
+		<li class="pid_ul_li0" onclick="close_fun()"><i class="fas fa-angle-double-right" style="color:#fff"></i></li>
+		<li class="pid_ul_li2"><input onclick="search_input()" type="text" name="select_proid" id="select_proid"  class="pidimg_css" placeholder="Search by Property ID"></li>
+		<li class="pid_ul_li1"><img id="pid_img" src="images1/pid_search1.png" width="35" onclick="pid_searchclick();"></li>
+	</ul>
+</div>
+<!-- property id search ends here -->
+
+<!-- modal for user login starts here -->
+<div>
+  <!-- <button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal">Open Modal</button> -->
+  <!-- Modal -->
+  <div class="modal fade" id="myuser_modal" role="dialog">
+    <div class="modal-dialog">
+      <!-- Modal content-->
+      <div class="modal-content">
+        <div class="modal-header" style="background-color: #4056A1">
+          <button type="button" class="close" data-dismiss="modal" style="color:#fff;opacity: 1">&times;</button>
+          <div class="container-fluid">
+          	<div class="container-fluid">
+	          	<div class="row text-center">
+		          	<div class="col-lg-6 col-md-6 col-sm-6 col-xs-6" style="border-right:1px solid #fff">
+		          		<div class="login_head_css active_login" onclick="log_in_click();">Log In</div>
+		          	</div>
+		          	<div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+		          		<div class="reg_head_css inactive_login" onclick="reg_click();">Register</div>
+		          	</div>
+	          	</div>
+          	</div>
+          </div>
+        </div>
+        <div class="modal-body text-center" id="login_show">
+        	<div class="row" style="background-color: #fff">
+	        	<div class="col-lg-7 col-md-7 col-sm-8 col-xs-8">
+	        		<form id="user_login_form" name="user_register_form">
+			        	<div class="margin_10">
+			        		<i class="fa fa-phone" aria-hidden="true"></i><input class="login_input validate" id="login_person" type="text" name="login_person" placeholder="Phone Number" maxlength="10">
+			        	</div>
+			        	<div class="margin_10">
+			        		<i class="fa fa-lock" aria-hidden="true"></i><input class="login_input validate" id="login_pwd" type="Password" name="login_pwd" placeholder="Password" maxlength="8">
+			        	</div>
+			        	<div class="margin_10">
+			        		<input class="login_btn" type="button" name="" value="Log In" onclick="main_loginclick();">
+			        	</div>
+			        	<div class="margin_10">
+			        		<div class="forgot_css" onclick="carrent_forgotpwd();">Forgot Password ?</div>
+			        	</div>
+			        	<div class="margin_10">
+			        		<div id="waring_error"></div>
+			        	</div>
+			        </form>
+	        	</div>
+	        	<div class="col-lg-5 col-md-5 col-sm-4 col-xs-4">
+	        		<img src="images1/detailed_logo.png" class="img-responsive">
+	        	</div>
+	        	<!-- col 6 ends here -->
+        	</div>
+        	<!-- row ends here -->
+        </div>
+        <div class="modal-body text-center" id="register_show">
+        	<div class="row">
+        		<div class="col-lg-5 col-md-6 col-sm-6 col-xs-4">
+	        		<img src="images1/detailed_logo.png" class="img-responsive">
+        		</div>
+        		<!-- col 6 end here -->
+        		<div class="col-lg-7 col-md-6 col-sm-6 col-xs-8">
+					<form id="user_register_form" name="user_register_form">
+			        	<div class="margin_10">
+			        		<i class="fa fa-user" aria-hidden="true"></i><input class="login_input validate" id="sign_name" type="text" name="sign_name" placeholder="Name" maxlength="15">
+			        	</div>
+			        	<div class="margin_10">
+			        		<i class="fa fa-envelope" aria-hidden="true"></i><input class="login_input validate" id="sign_email" type="text" name="sign_email" placeholder="Email">
+			        	</div>
+			        	<div class="margin_10">
+			        		<i class="fa fa-phone" aria-hidden="true"></i><input class="login_input validate" id="sign_phone" type="text" name="sign_phone" placeholder="Phone" maxlength="10">
+			        	</div>
+			        	<div class="margin_10">
+			        		<i class="fa fa-lock" aria-hidden="true"></i><input class="login_input validate" id="sign_pwd" type="password" name="sign_pwd" placeholder="Password" maxlength="8 ">
+			        	</div>
+						<div class="sign_css margin_10"><input class="checkbox_css" type="checkbox" id="sign_chk" name="sign_chk">By registering on BrickandMotor, you accept our <span class="terms" onclick="terms_use_click();">Terms of Service</span>
+						</div>
+			        	<div class="margin_10">
+			        		<input class="login_btn" type="button" value="Register" onclick="register_click();">
+			        	</div>
+						<div style="padding-top: 10px">
+							<div id="error_reg"></div>
+						</div>
+					</form>
+        		</div>
+        		<!-- col 7 ends here -->
+        	</div>
+        	<!-- row ends here -->
+        </div>
+        <div class="modal-body text-center" id="otp_show">
+        	<input type="hidden" name="sent_otp15" id="sent_otp15" value="4993">
+        	<div class="margin_10">
+        		<i class="fa fa-lock" aria-hidden="true"></i><input class="login_input" id="enter_otp15" type="text" name="enter_otp15" placeholder="Enter OTP">
+        	</div>
+        	<div class="margin_10">
+        		<input class="login_btn" type="button" name="" value="Verified" onclick="verified_click15();">
+        	</div>
+        	<div class="margin_10">
+        		<div class="forgot_css">Resend OTP ?</div>
+        	</div>
+        </div>
+        <!-- forgot password content -->
+        <div class="modal-body text-center" id="forgot_pwdid">
+        <form id="forgot_form" name="forgot_form">
+        	<div class="row">
+        		<div class="col-lg-2 col-md-1 col-sm-1 col-xs-1">
+        			&nbsp;
+        		</div>
+        		<div class="col-lg-8 col-md-10 col-sm-10 col-xs-10">
+		        	<input type="hidden" name="otp_get_change" id="otp_get_change" value="4993">
+		        	<div id="check_valid_id">
+			        	<div class="margin_10">
+			        		<i class="fa fa-phone" aria-hidden="true"></i><input class="login_input validate" id="regi_phn" type="text" name="regi_phn" placeholder="Registered Number" maxlength="10">
+			        	</div>
+			        	<div class="margin_10">
+			        		<input class="login_btn" type="button" name="" value="Send OTP" onclick="regi_otp_send();">
+			        	</div>
+		        	</div>
+		        	<div id="give_newpwd">
+			        	<div class="margin_10">
+			        		<i class="fa fa-lock" aria-hidden="true"></i><input class="login_input" id="regi_otp_val" type="text" name="regi_otp_val" placeholder="Enter OTP" maxlength="10">
+			        	</div>
+			        	<div class="margin_10">
+			        		<input class="login_btn" type="button" name="" value="Verified" onclick="verified_newpwd();">
+			        	</div>
+			        	<div class="margin_10">
+			        		<div class="forgot_css" onclick="regi_otp_resend();">Resend OTP ?</div>
+			        	</div>
+		        	</div>
+		        	<div id="show_newpwd">
+			        	<div class="margin_10">
+			        		<i class="fa fa-lock" aria-hidden="true"></i><input class="login_input" id="pwd_first_enter" type="password" name="pwd_first_enter" placeholder="Enter New Password" maxlength="8">
+			        	</div>
+			        	<div class="margin_10">
+			        		<i class="fa fa-lock" aria-hidden="true"></i><input class="login_input" id="pwd_second_enter" type="password" name="pwd_second_enter" placeholder="Reenter New Password" maxlength="8">
+			        	</div>
+			        	<div class="margin_10">
+			        		<input class="login_btn" type="button" name="" value="SUBMIT" onclick="submit_new_pwd();">
+			        	</div>
+		        	</div>
+		        	<div class="margin_10">
+		        		<div id="forgot_error"></div>
+		        	</div>
+		        </div>
+		        <!-- forgot password content ends here -->
+        		<div class="col-lg-2 col-md-1 col-sm-1 col-xs-1">
+        			&nbsp;
+        		</div>
+        	</div>
+        </form>
+        	<!-- row ends here -->
+      </div>
+    </div>
+  </div>
+</div>
+<!-- modal for user login ends here -->
+
+
+	<body style="overflow:auto">
+<!-- <button onclick="hi();" class="hi_class">hi</button> -->
+  <div id="loader_display1" class="loader_display1">
+  </div>
+		
+<div style="background: url('images1/maxresdefault.jpg') center center;box-shadow: 0px 0px 30px 0px #000" class="img-responsive">
+	<div class="banner_search">
+		<div class="container s_rblk" id="desktop_none">
+			<div style="background-color: rgba(0,0,0,0.8);border-radius: 3px;">
+				<!-- filter class container starts here -->
+				<div class="row" style="margin-right: 0px;margin-left: 0px">
+					<form id="desktop_filterform" name="desktop_filterform">
+            <input type="hidden" name="pagenum" id="pagenum">
+            <input type="hidden" name="show" id="show">
+						<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 col_padding">
+							<div class="row">
+								<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+									<ul class="list-inline" style="padding-left:4px;padding-top: 0px" id="r_cblk">
+										<li id="res_item" name="res_item" class="res_com_color search_topbutton box_shadow font_size13" onclick="res_com_display('residential');">Residential</li>
+										<li id="com_item" name="com_item" class="res_com_remove search_topbutton box_shadow font_size13" onclick="res_com_display('commercial');">Commercial</li>
+									</ul>
+                  	<input type="hidden" name="ul_ptype_hidden" id="ul_ptype_hidden" value="">
+								</div>	
+							</div>
+							<!-- below col - 12 row ends here -->
+							<div class="row" id="row_css">
+								<div class="col-lg-1 col-md-1 col-sm-1 col-xs-4" style="padding-right: 0px;padding-left:0px">
+		              <select class="select_climax wide" id="select_property" name="select_property" onchange="property_type_click();" style="opacity: 0">
+        						<option data-id="1">SALE</option>
+        						<option data-id="2">RENT</option>
+        						<option data-id="3">LEASE</option>
+									</select>
+								</div>
+								<!-- class div 1 ends here -->
+							<div class="col-lg-2 col-md-2 col-sm-2 col-xs-2" style="padding-left: 0px;padding-right: 0px" id="city_none" style="opacity: 0"> 
+																		<select class="select_city wide" id="city_filter" name="city_filter" style="opacity: 0" onchange = "get_cityvalue(this.value)"><option value="">City</option><option value = 6 >Hyderabad</option><option value = 10 >Kakinada</option><option value = 8 >Tirupati</option><option value = 3 >Visakhapatnam</option><option value = 7 >Vizianagaram</option></select>							</div>
+							<!-- col-2 for city -->
+							<div class="col-lg-3 col-md-3 col-sm-3 col-xs-8" style="padding-left: 0px;padding-right: 0px">
+                <div id="change_location_div">
+                  <select multiple="multiple" class="select_select" id="location_get1" style="opacity: 0" name="location_get1[]" data-placeholder="Location" onchange="location_click();"></select>                </div>
+	                				
+							</div>
+							<!-- col 2 ends here -->
+							<div class="col-lg-3 col-md-3 col-sm-3 col-xs-5" style="padding-left: 0px;padding-right: 0px">
+								<div id="property_display_id_res">
+						      <select style="opacity: 0" data-placeholder="Property Types" name="type_property[]" id="type_property" class=" property_multiple" multiple="multiple" onchange="type_for()";><option id =10019 value=10019>Independent House</option><option id =10003 value=10003>Flat / Builder Floor</option><option id =10021 value=10021>Deluxe Flat</option><option id =10020 value=10020>Service Apartment</option><option id =11123 value=11123>Studio Flat</option><option id =10000 value=10000>Residential Land/Plot</option><option id =10017 value=10017>Villa</option><option id =10001 value=10001>Residential House</option><option id =10002 value=10002>Multistorey Apartment</option><option id =10022 value=10022>Duplex House</option><option id =10054 value=10054>Holiday Home</option></select>						    </div>
+								<div id="property_display_id_comm" style="display: none">
+									<select style="opacity: 0" data-placeholder="Property Types" name="type_property[]" id="type_property" class=" property_multiple" multiple="multiple" onchange="type_for()";><option value =10004>Farm House</option><option value =10092>Hostel</option><option value =10052>Hotel</option><option value =10007>Commercial Office Space</option><option value =10008>Commercial Shop</option><option value =10018>Office in IT Park/ SEZ</option><option value =11127>Ware House</option><option value =10013>Industrial Building</option><option value =10091>Godown</option><option value =10006>Commercial Land</option><option value =10012>Industrial Land</option><option value =10009>Commercial Showroom</option><option value =10015>Kiosk</option><option value =10093>PG</option><option value =10094>Commercial Lodge</option><option value =10095>Commercial Building</option><option value =10096>Commercial Space</option><option value =10016>Hotel Sites</option><option value =10051>Guest House</option><option value =10010>Business Centre</option><option value =10011>Warehouse</option><option value =10014>Industrial Shed</option><option value =10005>Agricultural Land</option></select>						    </div>
+							</div>
+							<!-- class div 2 ends here -->
+							<div class="col-lg-2 col-md-2 col-sm-2 col-xs-5" style="padding-right: 0px;padding-left:0px"  id="budget_none">
+									<input type="button" name="budget_res_btn" id="budget_res_btn" value="Budget" class="budget_class" onclick="budget_click();">
+									<div class="range_class list-inline" id="total_budget" style="display: none">
+										<div class="row" style="padding:5px">
+											<div class="col-lg-6 col-md-6 col-sm-6 col-xs-6" style="padding-left:30px">
+												<div id="min_input_show" style="padding-top:1px">
+													<div id="input_css">
+														<input type="text" name="min_input" id="min_input" style="height: 30px" placeholder="Min" onclick="min_input_click()">
+														<input type="hidden" name="min_input_hidden" id="min_input_hidden">
+														<input type="text" name="min_input_rent" id="min_input_rent" style="height: 30px;display: none" placeholder="Min" onclick="min_input_rent_click()">
+														<input type="hidden" name="min_input_hidden_rent" id="min_input_hidden_rent">
+													</div>
+													<div id="budget_forsale">
+														<ul style="list-style-type:none;padding-left:0px;margin-top:35px" class="ul_li_budget" id="ul_min_none" name="ul_min_nones"><li class='li_class_min' data-id=5-Lac>₹ 5 Lac</li><li class='li_class_min' data-id=20-Lac>₹ 20 Lac</li><li class='li_class_min' data-id=30-Lac>₹ 30 Lac</li><li class='li_class_min' data-id=40-Lac>₹ 40 Lac</li><li class='li_class_min' data-id=50-Lac>₹ 50 Lac</li><li class='li_class_min' data-id=60-Lac>₹ 60 Lac</li><li class='li_class_min' data-id=70-Lac>₹ 70 Lac</li><li class='li_class_min' data-id=80-Lac>₹ 80 Lac</li><li class='li_class_min' data-id=90-Lac>₹ 90 Lac</li><li class='li_class_min' data-id=1-Cr>₹ 1 Cr</li><li class='li_class_min' data-id=1.2-Cr>₹ 1.2 Cr</li><li class='li_class_min' data-id=1.4-Cr>₹ 1.4 Cr</li><li class='li_class_min' data-id=1.6-Cr>₹ 1.6 Cr</li><li class='li_class_min' data-id=1.8-Cr>₹ 1.8 Cr</li><li class='li_class_min' data-id=2-Cr>₹ 2 Cr</li><li class='li_class_min' data-id=2.4-Cr>₹ 2.4 Cr</li><li class='li_class_min' data-id=2.6-Cr>₹ 2.6 Cr</li><li class='li_class_min' data-id=2.8-Cr>₹ 2.8 Cr</li><li class='li_class_min' data-id=3-Cr>₹ 3 Cr</li><li class='li_class_min' data-id=3.5-Cr>₹ 3.5 Cr</li><li class='li_class_min' data-id=4-Cr>₹ 4 Cr</li><li class='li_class_min' data-id=4.5-Cr>₹ 4.5 Cr</li><li class='li_class_min' data-id=5-Cr>₹ 5 Cr</li><li class='li_class_min' data-id=10-Cr>₹ 10 Cr</li><li class='li_class_min' data-id=20-Cr>₹ 20 Cr</li></ul>												  	</div>
+												  	<!-- budgetfor sale class ends here -->
+												  	<div id="budget_forrent" style="display: none">
+														<ul style="list-style-type:none;padding-left:0px;margin-top:35px" class="ul_li_budget_rent" id="ul_min_none_rent" name="ul_min_none_rent"><li class='li_class_min_rent' data-id=5000->₹ 5000 </li><li class='li_class_min_rent' data-id=10000->₹ 10000 </li><li class='li_class_min_rent' data-id=15000->₹ 15000 </li><li class='li_class_min_rent' data-id=20000->₹ 20000 </li><li class='li_class_min_rent' data-id=25000->₹ 25000 </li><li class='li_class_min_rent' data-id=30000->₹ 30000 </li><li class='li_class_min_rent' data-id=35000->₹ 35000 </li><li class='li_class_min_rent' data-id=40000->₹ 40000 </li><li class='li_class_min_rent' data-id=50000->₹ 50000 </li><li class='li_class_min_rent' data-id=60000->₹ 60000 </li><li class='li_class_min_rent' data-id=70000->₹ 70000 </li><li class='li_class_min_rent' data-id=80000->₹ 80000 </li><li class='li_class_min_rent' data-id=90000->₹ 90000 </li><li class='li_class_min_rent' data-id=1-Lac>₹ 1 Lac</li><li class='li_class_min_rent' data-id=1.5-Lac>₹ 1.5 Lac</li><li class='li_class_min_rent' data-id=2-Lac>₹ 2 Lac</li><li class='li_class_min_rent' data-id=2.5-Lac>₹ 2.5 Lac</li><li class='li_class_min_rent' data-id=3-Lac>₹ 3 Lac</li><li class='li_class_min_rent' data-id=4-Lac>₹ 4 Lac</li><li class='li_class_min_rent' data-id=5-Lac>₹ 5 Lac</li><li class='li_class_min_rent' data-id=7-Lac>₹ 7 Lac</li><li class='li_class_min_rent' data-id=9-Lac>₹ 9 Lac</li><li class='li_class_min_rent' data-id=15-Lac>₹ 15 Lac</li></ul>												  	</div>
+												  	<!-- budget for rent div ends here -->
+										  		</div>
+										  		<!-- min_input_show ends here -->
+											</div>
+											<!-- col-lg-6 ends here -->
+											<div class="col-lg-6 col-md-6 col-sm-6 col-xs-6" style="padding-right:30px">
+												<div id="max_input_hide" style="display: none;padding-top:1px">
+													<div id="input_css">
+														<input type="text" name="max_input" id="max_input" style="height: 30px" placeholder="Max">	
+														<input type="hidden" name="max_input_hidden" id="max_input_hidden">
+													</div>
+													<div id="get_max_budget" name="get_max_budget">
+														
+													</div>
+														<!-- max budget value get here -->
+												</div>
+												<div id="max_input_hide_rent" style="display: none;padding-top:1px">
+													<div id="input_css">
+														<input type="text" value="" name="max_input_rent" id="max_input_rent" style="height: 30px" placeholder="Max">	
+														<input type="hidden" name="max_input_hidden_rent" id="max_input_hidden_rent">
+													</div>
+													<div id="get_max_budget_rent" name="get_max_budget_rent">
+														
+													</div>
+														<!-- max budget value get here -->
+												</div>
+											</div>
+											<!--col 6 ends here -->
+										</div>
+										<!-- row div ends here -->
+									</div>
+									<!-- range_class div ends here -->
+								</div>
+								<!-- col lg 2 here -->
+							<div class="col-lg-1 col-md-1 col-sm-1 col-xs-2" style="padding-left: 0px;padding-right: 0px">
+								<span class="input-group-btn">
+                    				<button style="outline: none" class="btn btn-default height_45px search_button width_100" type="button" onclick="savebutton_click('#desktop_none');">
+                    					<span class="glyphicon glyphicon-search"></span>
+                    				</button>
+                			</span>
+							</div>
+						</div>
+							<!-- col - 1 above row  ends here -->
+						<div class="row" id="mbl_dis_none">
+							<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" id="mbl_more_none">
+								<div class="col-lg-1 col-md-1 col-sm-2 col-xs-6">
+									<select style="opacity: 0" class="postedby_select small" id="posted_by" name="posted_by" onchange="posted_byonchange();">
+									  <option selected="selected" value="">Posted By</option>
+										<option value="1">Owner</option>
+										<option value="2">Broker</option>
+									</select>
+								</div>
+								<!-- col - 2 div ends here -->
+								<div class="col-lg-2 col-md-2 col-sm-4 col-xs-6" id="dir_addpadding">
+									<!-- <select class="direction_select small" id="dir_facing" name="dir_facing" onchange="dir_facingonchange();"> -->
+                    <select style="opacity: 0" multiple="multiple" class="dir_facing_select" id="dir_facing" name="dir_facing[]" onchange="dir_facingonchange();" data-placeholder="Directional Facing">
+                    	<option value="11700">East</option>
+                    	  <option value="11701">West</option>
+	                      <option value="11702">North</option>
+	                      <option value="11703">South</option>
+	                      <option value="11710">East-West</option>
+	                      <option value="11704">North-East</option>
+	                      <option value="11705">North-West</option>
+	                      <option value="11706">South-East</option>
+	                      <option value="11707">South-West</option>
+	                      <option value="11708">Main Road Facing</option>
+	                      <option value="11709">Garden / Park Facing</option>	
+									</select>
+								</div>
+								<!-- col - 2 div ends here -->
+								<div class="col-lg-2 col-md-2 col-sm-4 col-xs-6">
+									<select style="opacity: 0" class="preffered_select small" id="pro_prefered_for" name="pro_prefered_for" onchange="pro_pre_foronchange()">
+									  	<option selected="selected" value="">Property Prefer for</option>
+										<option value="0">No Restriction</option>
+										<option value="1">Family</option>
+										<option value="2">Bachelors</option>
+										<option value="3">Home Cum Office</option>
+										<option value="4">Vegetarian</option>
+									</select>
+								</div>
+								<!-- col - 2 div ends here -->
+								
+								<div class="col-lg-2 col-md-2 col-sm-2 col-xs-6" id="fur_addpadding"> 
+									<select style="opacity: 0" class="furnished_select small" id="f_status" name="f_status"
+									onchange="f_statusonchange();">
+									  	<option value="">Furniture Status</option>
+	                      <option value="11900">Furnished</option>
+	                      <option value="11901">Unfurnished</option>
+	                      <option value="11902">Semi-Furnished</option>
+									</select>
+								</div>
+                        <!-- <br><br><br> -->
+                        <div style="margin-top: -10px;display: none" id="px_show">&nbsp;</div>
+								<!-- col - 2 div ends here -->
+                        <div class="col-lg-2 col-md-2 col-sm-2 col-xs-6" id="balcon_margin">
+                           <select style="opacity: 0" class="balconies_select small" id="balcons" name="balcons" onchange="balcons_onchange();">
+                             <option value="">Balconies</option>
+                             <option value="1">1</option>
+                             <option value="2">2</option>
+                             <option value="3">3</option>
+                             <option value="4">4</option>   
+                           </select>
+                        </div>
+                        <!-- col - 2 div ends here -->
+                                            
+								<div class="col-lg-2 col-md-2 col-sm-4 col-xs-6" style="padding-left: 0px;padding-top:3px;" id="bed_margin">
+									<input type="button" name="bedroom_button" value="Bedrooms (Min-Max)" class="bed_style" id="bedroom_button" onclick="bed_btn_click(event);">
+									<div class="bed_minmax" style="display: none">
+										<div class="row">
+											<div class="col-lg-6 col-md-6 col-sm-6 col-xs-6" id="padding_right">
+												<div class="bedmin_input">
+													<input type="text" name="bedsmin_input" id="bedsmin_input" placeholder="Min" style="height: 30px" onclick="bedmin_inputclick();">
+													<input type="hidden" name="bed_min_hidden" id="bed_min_hidden">
+													<ul style="list-style-type: none" class="minbed_ul">
+														<li data-id="Studio">Studio</li>
+														<li data-id =1>1Bed<li data-id =2>2Beds<li data-id =3>3Beds<li data-id =4>4Beds<li data-id =5>5Beds													</ul>
+												</div>
+												
+											</div>
+											<!-- col-lg-6 ends here -->
+											<div class="col-lg-6 col-md-6 col-sm-6 col-xs-6" id="padding_left">
+												<div class="bedmax_input" style="display: none">
+													<input type="text" name="bed_max_input" id="bed_max_input" placeholder="Max" style="height: 30px">
+													<ul style="list-style-type: none" class="maxbed_ul" id="get_maxbed" name="get_maxbed">
+													</ul>	
+												</div>
+												
+											</div>
+											<!-- col-lg-6 ends here -->
+										</div>
+										<!-- bed_minmax down row ends here -->
+									</div>
+								</div>
+								<!-- col 2 ends here -->
+                     
+                        <div class="col-lg-1 col-md-1 col-sm-2 col-xs-6" id="bath_addpadding">
+                           <select style="opacity: 0" class="bath_select small" id="baths" name="baths" onchange="baths_onchange();">
+                             <option value="">Bathrooms</option>
+                             <option value="1">1</option>
+                             <option value="2">2</option>
+                             <option value="3">3</option>
+                             <option value="4">4</option>   
+                           </select>
+                        </div>
+                        <!-- col - 2 div ends here -->   
+    						</div>
+    						<!-- col 12 more search span ends here -->
+	
+						</div>
+						<!-- more search row ends here -->
+                  <div class="row" id="show_more">
+                     <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                        <span class="more_searchcss" id="more" onclick="more_click();"><i class="fas fa-chevron-circle-down"></i> More Search</span>
+                     </div>    
+                  </div>
+                  <!-- class row ends here more click-->
+						<!-- more results class row ends here -->
+            <!-- clear form fields starts here -->
+                  <div class="row" id="clear_all">
+                           <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                              <div id="reset"><span class="clear_search" id="clear">Clear Filter</span></div>
+                           </div>    
+                  </div>
+            <!-- clear form fields ends here -->
+            <!-- clear form dup fields starts here -->
+                  <div class="row" id="clear_all_dup" style="display: none">
+                           <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                              <div id="reset1"><span class="clear_search_dup" id="clear">Clear Filter</span></div>
+                           </div>    
+                  </div>
+            <!-- clear form dup fields ends here -->
+						<div class="row" id="show_less" style="padding-top: 15px">
+							<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+								<span class="more_searchcss" id="fewer" onclick="fewer_click();"><i class="fas fa-chevron-circle-up"></i> Less Search</span>
+							</div>
+									<!--col - 12 ends here  -->
+						</div>
+						<!-- fewer search row ends here -->
+					</div>
+						<!--col-12 closed div  -->
+					</form> 
+					<!-- form ends here -->
+				</div>
+				<!-- first row ends here -->
+			</div>
+				<!-- between container row background div ends here -->
+			</div>
+			<!-- desk top view div close here -->
+			<!-- mobile view div starts here -->
+
+			</div>
+		<!-- background color ends here -->
+		</div>
+		<!-- background image ends here -->
+    <!-- viskapatnam utkarsha content starts here -->
+<div id="mydream_show_id">
+ <!-- my dream land content starts here -->
+<div class="container">
+	<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 text-center" style="padding-top: 2%;padding-bottom: 2%">
+		<h2 class="dec_font">OWN A PIECE OF PARADISE NEAR ARAKU</h2>
+	</div>
+</div>
+<div class="container mydream_container">
+	<div class="row">
+		<div class="col-lg-9 col-md-8 col-sm-8 col-xs-12">
+			<a href="https://mydreamland.in/" target="_blank"><img src="images1/MYDREAMLAND.jpg" class="img-responsive">
+			</a>
+			<div> 
+				<input type="button" name="mbl_cnt" id="mbl_cnt" data-toggle="modal" data-target="#mydream_Modal" value="Get a Call Back">
+				<div class="container">
+				  <!-- Trigger the modal with a button -->
+				  <!-- Modal -->
+				  <div class="modal fade" id="mydream_Modal" role="dialog">
+				    <div class="modal-dialog modal-sm">
+				      <div class="modal-content">
+				        <div class="modal-header">
+				          <button type="button" class="close" data-dismiss="modal">&times;</button>
+				          <h4 class="modal-title">Get a Call Back</h4>
+				        </div>
+				        <div class="modal-body">
+							<form id="mydream_form_mbl" name="mydream_form_mbl">
+								<input class="fm_css validate_mydream" type="text" name="lead_name" id="lead_name" placeholder="Name" maxlength="40">
+								<input class="fm_css validate_mydream" type="text" name="lead_contact" id="lead_contact" placeholder="Contact" onkeypress="return chknum(event)">
+								<input class="fm_css validate_mydream" type="text" name="lead_email" id="lead_email" placeholder="Email">
+								<label class="container_check"> I'm NRI
+			  						<input type="checkbox" id="mydream_check" name="mydream_check" value="not_nri">
+			  						<span class="checkmark_check"></span>
+								</label>
+								<input style = "width: 100%" class="mydream_button" type="button" name="data_submit" id="data_submit" value="SUBMIT" onclick="mydream_submit('#mydream_form_mbl');">
+								<div id="er_mydream"></div>
+							</form>
+				        </div>
+				      </div>
+				    </div>
+				  </div>
+				</div>
+			</div>
+		</div>
+		<div class="col-lg-3 col-md-4 col-sm-4 col-xs-12 margin_top40 fullform_none">
+			<div class="mydream_css">
+				<form id="mydream_form" name="mydream_form">
+					<h4 style="color:#000">Get A Call Back</h4>
+					<input class="mydream_input validate_mydream" type="text" name="lead_name" id="lead_name" placeholder="Name" maxlength="40">
+					<input class="mydream_input validate_mydream" type="text" name="lead_contact" id="lead_contact" placeholder="Contact" onkeypress="return chknum(event)">
+					<input class="mydream_input validate_mydream" type="text" name="lead_email" id="lead_email" placeholder="Email">
+					<label class="container_check"> I'm NRI
+  						<input type="checkbox" id="mydream_check" name="mydream_check" value="not_nri">
+  						<span class="checkmark_check"></span>
+					</label>
+					<input class="mydream_button" type="button" name="data_submit" id="data_submit" value="SUBMIT" onclick="mydream_submit('#mydream_form');">
+					<div id="er_mydream"></div>
+				</form>
+			</div>
+		</div>
+	</div>
+	<!-- row ends here -->
+</div>
+<!-- ends container -->
+
+<!-- my dream land content ends here --></div>
+
+
+    <!-- visakhapatnam utkarsha content ends here -->
+    
+    
+		<div class="container" style="padding-top: 2%;padding-bottom: 1%" id="results_start">
+			<div id="result_id" style="padding-top: 1%;padding-bottom: 2%;">
+				<div class="row">
+		    </div>
+		    <!-- row ends here -->  
+	    </div>
+	<!-- row above div closed here -->
+  <!-- free listing pages starts here --> 
+    </div>
+    <!-- end container -->
+  <!-- Modal -->
+  <div class="modal fade" id="myModal_listing" role="dialog">
+    <div class="modal-dialog">
+      <!-- Modal content-->
+      <div class="modal-content">
+        <div class="modal-header" style="background-color: #fff;border-top: 3px solid #F05B01">
+          <div class="row" style="margin-top: 10px">
+            <div class="col-lg-2 col-md-2 col-sm-2 col-xs-2">
+              <img src="images1/Contact_Person1.png" width="40">
+            </div>
+            <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
+              <span style="font-weight: bold;font-size: 13px" id="title_model">3 BHK Residential House For Sale in Visakhapatanam</span><br>
+              <span>I'm interested ! Need More details</span>  
+            </div>
+            <div class="col-lg-2 col-md-2 col-sm-2 col-xs-2">
+              <button type="button" class="close" data-dismiss="modal">&times;</button>              
+            </div>
+          </div>
+        </div>
+        <div class="modal-body">
+          <div class="row">
+              <div class="col-lg-1 col-md-1 col-sm-1 col-xs-1">
+                &nbsp;
+              </div>
+              <div class="col-lg-10 col-md-10 col-sm-10 col-xs-10" id="index_modal">
+            
+              </div>
+            <div class="col-lg-1 col-md-1 col-sm-1 col-xs-1">
+                &nbsp;
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+<!-- modal ends -->
+<!--footer strats-->
+	<footer>
+		<div>
+			<input type="button" class="backtop_css" name="back_top" id="back_top" value="Back to Top">
+		</div>
+		<div class="footerbackground">
+			<div class="container footercontainer" style="margin-bottom:0px !important">
+				<div class="row">
+					<div class="col-lg-2 col-md-3 col-sm-6 col-xs-6">
+					<ul class="list-group footer_menu" id="ul1">
+						<li class="list-group-item"><h4 class="heading2"><b>About</b></h4></li>
+	  					<li class="list-group-item"><a href="about-us.php">About BrickandMotor</a></li>
+	  					<li class="list-group-item"><a href="terms_service.php">Terms of Service</a></li>
+	  					<li class="list-group-item"><a href="cancellation_refund.php">Cancellation & Refund</a></li>
+	  					<li class="list-group-item"><a href="privacy-policy.php">Privacy Policy</a></li>
+	  					<li class="list-group-item"><a href="careers.php">Careers</a></li>
+	  					<li class="list-group-item"><a href="contact_us.php">Contact Us</a></li>
+					</ul><!--end ul list-group footer_menu-->
+				</div><!--end col-md-3-->
+				<div class="col-lg-4 col-md-3 col-sm-6 col-xs-6">
+					<ul class="list-group footer_menu" id="ul1">
+						<li class="list-group-item"><h4 class="heading2">for Properties</h4></li>
+	  					<li class="list-group-item"><a target="_blank" href="link_search_filter.php?city=&amp;p_name=residential&amp;p_type=10019,10003,10021&amp;p_variant=SALE">Resi. flats for sale in <span id="city_see"></span><span id="city_dot"></span></a></li>
+	  					<li class="list-group-item"><a target="_blank"  href="link_search_filter.php?city=&amp;p_name=residential&amp;p_type=10019,10003,10021&amp;p_variant=RENT">Resi. flats for rent in <span id="city_see"></span><span id="city_dot"></span></a></li>
+	  					<li class="list-group-item"><a target="_blank"  href="link_search_filter.php?city=&amp;p_name=commercial&amp;p_type=10007,10008,10018,10011,10013,10091,10006&amp;p_variant=SALE">Comm. space for sale in <span id="city_see"></span><span id="city_dot"></span></a></li>
+	  					<li class="list-group-item"><a target="_blank"  href="link_search_filter.php?city=&amp;p_name=commercial&amp;p_type=10007,10008,10018,10011,10013,10091,10006&amp;p_variant=RENT">Comm. space for rent in <span id="city_see"></span><span id="city_dot"></span></a></li>
+	  					<li class="list-group-item"><a target="_blank"  href="link_search_filter.php?city=&amp;p_name=commercial&amp;p_type=10017&amp;p_variant=SALE">Villas for sale in <span id="city_see"></span><span id="city_dot"></span></a></li>
+	  					<li class="list-group-item"><a target="_blank"  href="link_search_filter.php?city=&amp;p_name=commercial&amp;p_type=10006,10000,10012&amp;p_variant=SALE">Land / Plots in <span id="city_see"></span><span id="city_dot"></span></a></li>
+					</ul>
+					<!--end ul list-group footer_menu-->
+				</div><!--end col-md-3-->
+				<div class="col-lg-4 col-md-3 col-sm-6 col-xs-6">
+					<ul class="list-group footer_menu" id="ul1">
+					<li class="list-group-item"><h4 class="heading2" align="left">for Automobiles</h4></li>
+	  				<li class="list-group-item"><a target="_blank" href="https://brickandmotor.in/automobiles/autolink_filterindex.php?a_city=&amp;a_company=6">TATA cars for sale in <span id="city_see"></span><span id="city_dot"></span></a></li>
+					<li class="list-group-item"><a target="_blank" href="https://brickandmotor.in/automobiles/autolink_filterindex.php?a_city=&amp;a_company=5">Maruthi cars for sale in <span id="city_see"></span><span id="city_dot"></span></a></li>
+					<li class="list-group-item"><a target="_blank" href="https://brickandmotor.in/automobiles/autolink_filterindex.php?a_city=&amp;a_company=21">Hyundai cars for sale in <span id="city_see"></span><span id="city_dot"></span></a></li>
+					<li class="list-group-item"><a target="_blank" href="https://brickandmotor.in/automobiles/autolink_filterindex.php?a_city=&amp;a_company=14">Honda cars for sale in <span id="city_see"></span><span id="city_dot"></span></a></li>
+					<li class="list-group-item"><a target="_blank" href="https://brickandmotor.in/automobiles/autolink_filterindex.php?a_city=&amp;a_body=19602">Hatchback cars in <span id="city_see"></span><span id="city_dot"></span></a></li>
+					<li class="list-group-item"><a target="_blank" href="https://brickandmotor.in/automobiles/autolink_filterindex.php?a_city=&amp;a_body=19601">SUV/MUV cars in <span id="city_see"></span><span id="city_dot"></span></a></li>
+					</ul>
+					<!--end ul list-group footer_menu-->
+				</div><!--end col-md-3-->
+				<div class="col-lg-2 col-md-3 col-sm-6 col-xs-6">
+					<!-- <ul class="list-group footer_menu" id="ul1">
+						<li class="list-group-item"><h4 class="heading2">for Cities</h4></li> -->
+						<ul name="city" id="ul1" class="list-group footer_menu" ><li class="list-group-item"><h4 class="heading2">for Cities</h4><li class="list-group-item" value = Hyderabad><a target = "_blank" href="link_search_filter.php?city=Hyderabad">Hyderabad</a></li><li class="list-group-item" value = Kakinada><a target = "_blank" href="link_search_filter.php?city=Kakinada">Kakinada</a></li><li class="list-group-item" value = Tirupati><a target = "_blank" href="link_search_filter.php?city=Tirupati">Tirupati</a></li><li class="list-group-item" value = Visakhapatnam><a target = "_blank" href="link_search_filter.php?city=Visakhapatnam">Visakhapatnam</a></li><li class="list-group-item" value = Vizianagaram><a target = "_blank" href="link_search_filter.php?city=Vizianagaram">Vizianagaram</a></li><ul>						<!-- <li class="list-group-item"><a href="http://brickandmotor.in/search-results.php?city=&amp;cname=tata-used-cars-for-sale&amp;cat=207">TATA cars for sale in </a></li> -->
+					<!-- <ul class="list-group footer_menu" id="ul1" style="list-style: none">
+						<form id="contactus_form" name="contactus_form" autocomplete="off">
+						<li class="list-group-item"><h4 class="heading2">For Queries</h4></li>
+	  					<li class="list-group-item">
+	  						<label class="label_class">
+							   <p class="label-txt">Name *</p>
+								    <input type="text" class="input validate" id="contact_user" name="contact_user">
+						 	</label>
+						 	<label class="label_class">
+							   <p class="label-txt">Email </p>
+								    <input type="text" class="input" id="contact_email" name="contact_email">
+						 	</label>
+						 	<label class="label_class">
+							   <p class="label-txt">Phone Number *</p>
+								    <input type="text" class="input validate" id="contact_phn" name="contact_phn" maxlength="10" onkeypress="return chknum(event)">
+						 	</label>
+						 	<label class="label_class">
+								<p class="label-txt">Message</p>
+									<textarea name="contact_msg" id="contact_msg" class="textfield_class"></textarea> 
+							</label>
+							<div class="g-recaptcha" data-theme="light" data-sitekey="6LdhgEYUAAAAACF1UkfPhhXWokO66zvBiCNUMgax" style="transform:scale(0.77);-webkit-transform:scale(0.77);transform-origin:0 0;-webkit-transform-origin:0 0;"></div>
+						 	<div style="padding-bottom: 5px;margin-top: -10px;">
+						 	<input type="button" name="submit_button" id="submit_button" class="submit_class" value="Submit" onclick="contact_us()">
+						 </div>
+							<span class="red_text" id="error"></span> 
+							<input type="hidden" name="leads_from" id="leads_from" value="queries_form">
+						</li>
+					</form>
+	  				</ul> -->
+				</div> <!--end col-md-3-->
+				<div class="disclaimer_class col-lg-12 col-md-10 col-sm-9 col-xs-12">
+					<p style="text-align: justify"><span>Brick and Motor</span> is a unique Real Estate & Pre-Owned cars listings website. All properties and cars are physically verified by our team. We also provide FREE buying assistance to our users. </p>
+					<p style="text-align: justify;">Owners out there might be having a tough time selling or renting out their property. Here's a "NO BROKERAGE" Deal for you. Reach your potential customers without any hassle. Get your property Verified today.</p>
+					<br>
+					<p style="text-align: justify;font-family: myFont"><span class="span_class">Disclaimer :</span> BrickandMotor.in cannot be held responsible for the accuracy of data displayed on the site. BrickandMotor.in does not claim any guarantee and it should be individually verified.</p>
+				</div>
+<!-- 				<div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
+					<div>
+						<img src="images1/bnm_mini_logo.png" width="75">
+					</div>
+					<div class="phn_css_ftr" style="font-size: 15px;cursor: pointer;">
+						<span><i class="fa fa-phone" aria-hidden="true" style="color:#ff7400"></i></span>
+						<span style="color:#fff">90 9709 9709</span>
+					</div>
+				</div> -->
+			</div>
+			
+			
+			<!--<div class="back_topclass" id="back_top" style="display: none">-->
+			<!--	<i class="fas fa-chevron-circle-up fa-2x" style="cursor: pointer;"></i>-->
+			<!--</div>-->
+				
+		</div> <!--end footercontainer-->
+			
+			<center>
+				<ul class="list-inline socialicons">
+				<li><a href="https://www.facebook.com/brickandmotor/" class="fa fa-facebook fa-icons" target="_blank"></a></li>
+				<li><a href="https://twitter.com/Official_BNM" class="fa fa-twitter fa-icons" target="_blank"></a></li>
+				<li><a href="https://www.youtube.com/channel/UCeWyDBlUOEgKc9Tv0kFlu7w" class="fa fa-youtube-play fa-icons" target="_blank"></a></li><!-- 
+				<li><a href="#" class="fa fa-linkedin fa-icons"></a></li> -->
+				<li><a href="https://www.instagram.com/brickandmotor.in/" class="fa fa-instagram fa-icons" target="_blank"></a></li>
+				<li><a href="https://plus.google.com/118042712574755440155/posts" class="fa fa-google-plus fa-icons" target="_blank"></a></li>
+			</center> <!--End socialicons-->
+		</div> <!--end footerbackground-->
+		<div class="copyright">
+				<center><strong class="copyright1">Copyright © 2019 <a href = "index.php" class="ahover_site">Brick<span class="span_class">and</span>Motor</a> | All rights reserved</strong></center>
+		</div><!--End copyright-->
+	</footer><!-- End footer-->
+	<!--Start of Tawk.to Script-->
+	<!--<script type="text/javascript">-->
+	<!--var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();-->
+	<!--(function(){-->
+	<!--var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];-->
+	<!--s1.async=true;-->
+	<!--s1.src='https://embed.tawk.to/59bf9cd54854b82732ff0aaa/default';-->
+	<!--s1.charset='UTF-8';-->
+	<!--s1.setAttribute('crossorigin','*');-->
+	<!--s0.parentNode.insertBefore(s1,s0);-->
+	<!--})();-->
+	<!--</script>-->
+<!--End of Tawk.to Script-->
+<!-- Load Facebook SDK for JavaScript -->
+<div id="fb-root"></div>
+<script>
+	(function(d, s, id) {
+ 		var js, fjs = d.getElementsByTagName(s)[0];
+ 		if (d.getElementById(id)) return;
+ 		js = d.createElement(s); js.id = id;
+ 		js.src = 'https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js';
+ 		fjs.parentNode.insertBefore(js, fjs);
+	}
+		(document, 'script', 'facebook-jssdk'));
+</script>
+<!-- Your customer chat code -->
+<div class="fb-customerchat" attribution=setup_tool page_id="107898446058398" theme_color="#ff7e29">
+</div></body>
+</html>
+<script src="js/multiple-select.js"></script>
+    <script>
+        $("select.select_select").multipleSelect({
+            filter: true,
+        });
+        $("select.property_multiple").multipleSelect({
+            filter: true,
+        });
+        $(".dir_facing_select").multipleSelect({
+            filter: true
+        });
+        // $('.select_select').multipleSelect('destroy');
+    </script>
+<script type="text/javascript">
+	// final select script
+		$(document).ready(function() {
+		      $('.select_climax:not(.ignore)').niceSelect();      
+		      // FastClick.attach(document.body);
+		      $('.bath_select:not(.ignore)').niceSelect();
+		      // $('.direction_select:not(.ignore)').niceSelect();
+		      $('.preffered_select:not(.ignore)').niceSelect();
+		      $('.postedby_select:not(.ignore)').niceSelect();
+		      $('.furnished_select:not(.ignore)').niceSelect();
+		      $('.balconies_select:not(.ignore)').niceSelect();
+		      $('.select_city:not(.ignore)').niceSelect();
+              $('.popup_select_city:not(.ignore)').niceSelect();      
+		      // FastClick.attach(document.body);
+    	}); 
+</script>
+<script src="js2/jquery.js"></script> 
+	<script src="js2/jquery.nice-select.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+	<!-- final select ends here -->
