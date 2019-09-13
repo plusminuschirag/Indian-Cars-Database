@@ -1,0 +1,2378 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1" />
+	<meta name="format-detection" content="telephone=no" />
+
+	<meta name="application-name" content="Brian Hilton Toyota" />
+	<meta name="msapplication-TileColor" content="#FFFFFF" />
+	<meta name="msapplication-TileImage" content="/images/favtile.png" />
+	
+	<meta name="google-site-verification" content="Zk-IlWgTjfz_PvBAHFWVmmDmt7oVWNscKLA3bZY7v2A" />
+
+	<script type="text/javascript" src="/includes/scripts/jquery.min.js"></script>
+
+	<link rel="canonical" href="https://www.brianhiltontoyota.com.au/"/>
+	<link rel="stylesheet" type="text/css" href="/combres.axd/siteCsstoy-4/77856066/"/>
+
+	<!--[if lte IE 8]>
+		<link rel="stylesheet" media="all" type="text/css" href="/includes/css/themes/toy-4/ie.css" />
+		<script type="text/javascript" src="/includes/scripts/respond.min.js"></script>
+	<![endif]-->
+	<!--[if lte IE 7]>
+		<link rel="stylesheet" media="all" type="text/css" href="/includes/css/themes/toy-4/ie6.css" />
+	<![endif]-->
+	
+	<!-- start Panalysis modifications -->
+	<!-- start data layer -->
+	<script>
+	    var dataLayer = dataLayer || [];
+	</script>
+	<!-- end data layer -->
+	<!-- end Panalysis modifications -->
+
+    <title>Brian Hilton Toyota - Car Dealer of New & Used Vehicles</title>
+    <meta name="description" content="If you are looking for a new or used car, Brian Hilton Toyota can help!  We can also assist with finance, insurance, parts, accessories and service.">
+    
+    
+    <meta property="og:title" content="Brian Hilton Toyota" />
+    
+    <meta property="og:description" content="If you are looking for a new or used car, Brian Hilton Toyota can help!  We can also assist with finance, insurance, parts, accessories and service." />
+    
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://www.brianhiltontoyota.com.au/default.aspx" />
+    
+    <meta property="og:site_name" content="Brian Hilton Toyota" />
+    
+</head>
+
+<body class="pgHome">
+    
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-PLXMC7"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function (w, d, s, l, i) {
+	w[l] = w[l] || []; w[l].push({
+		'gtm.start':
+		new Date().getTime(), event: 'gtm.js'
+	}); var f = d.getElementsByTagName(s)[0],
+	j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+	'//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+})(window, document, 'script', 'dataLayer', 'GTM-PLXMC7');</script>
+<!-- End Google Tag Manager -->
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-MVM7JQ"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function (w, d, s, l, i) {
+w[l] = w[l] || []; w[l].push({
+'gtm.start':
+new Date().getTime(), event: 'gtm.js'
+}); var f = d.getElementsByTagName(s)[0],
+j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+'//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+})(window, document, 'script', 'dataLayer', 'GTM-MVM7JQ');</script>
+<!-- End Google Tag Manager -->
+
+
+
+
+
+
+
+    <!--[if lte IE 7]>
+	<script src="/includes/scripts/jquery-1.11.0.min.js" type="text/javascript"></script>
+	<script src="/includes/scripts/update.ie6.js" type="text/javascript"></script>
+<![endif]-->
+
+    <!--  header container begin -->
+    <div id="headerContainer">
+
+        
+
+<div class="headerBranding">
+	
+
+	<div class="brandingContainer">
+	
+		<div class="branding">
+			<a id="manufacturerLogo" href="/" title="Brian Hilton Toyota"></a>
+			
+
+			<a id="dealerLogo" href="/" title="Brian Hilton Toyota">
+				Brian Hilton Toyota
+				
+			</a>
+
+			<div id="btnToggleTabletNav">Menu <i></i></div>
+			<div class="printLogo"><img src="/images/logo-print.png" alt="Brian Hilton Toyota Logo" /></div>
+			<a id="branding_lnkBuyOnline" class="buyOnline" href="https://brianhiltontoyota.dealer.toyota.com.au/purchase/newcars/?promo=oc_learnmore|order_and_collect_190429|header_button"><img src='/images/buy-online.png' title='Buy Online'></a>				
+		</div>
+	</div>
+</div>
+
+<div class="headerMobileNav">
+	<div class="mobileNavContainer">
+
+		<div id="mobileNav">
+			<a href="tel:02 4328 2888">Call Us <i class="iconMobile"></i></a>
+			<a href="/enquiries/">Locations <i class="iconMarker"></i></a>
+			<a id="btnToggleMobileNav" href="#">Menu <i class="iconMenu"></i></a>
+		</div>
+
+	</div>
+</div>
+
+
+<div class='sideIconsLhs fixedSideIconContainer'>
+	<ul>
+			<li>
+				<a href='/special-offers/' ><i class='iconSpecial'></i>Special Offers</a>
+			</li>
+			<li>
+				<a href='/enquiries/service-booking/' ><i class='iconService'></i>Book a Service</a>
+			</li>
+			<li>
+				<a href='/brochures/' ><i class='iconBrochure'></i>Brochures</a>
+			</li>
+			<li>
+				<a href='/enquiries/' ><i class='iconContact'></i>Enquiries</a>
+			</li>
+			<li>
+				<a href='/our-location/' ><i class='iconLocation'></i>Location</a>
+			</li></ul>
+</div>
+
+
+
+        <div class="headerNav">
+
+            
+
+<div class="coreNav">
+	<div class="navContainer">
+
+		<!-- nav begin -->
+		<ol id="nav">
+			
+					
+						<!-- need a new setting to control Toyota nav inventory -->
+						<li id="navPassenger">
+							<a href="/new-vehicles/" class="navTab">New Vehicles</a>
+							<div class="vehicleDropDown">
+								<div class="ddVehicles">
+									<ol class="ddVehiclesList nvs">
+										<li class='hoveringCat'>
+<a href='/new-vehicles/cars/' class='ddCatTab'>Cars</a>
+<div class='ddCat'><div class='ddVehicle'>
+<h4>Yaris</h4>
+<a class='thumb' href='https://brianhiltontoyota.dealer.toyota.com.au/new-vehicles/yaris/ascent/hatch'><img alt='Yaris' src='https://cdn.mattaki.com/toyota/static-assets/nav/yaris.png' /></a>
+<div class='desc'><p>Big inside, small on the outside.</p></div>
+<div class='actions'>
+<a class='btn' href='/new-vehicles/yaris'>Explore</a><a class='btnDark' href='https://brianhiltontoyota.dealer.toyota.com.au/new-vehicles/yaris/ascent/hatch'>Our Stock</a></div>
+</div>
+<div class='ddVehicle'>
+<h4>Corolla</h4>
+<a class='thumb' href='https://brianhiltontoyota.dealer.toyota.com.au/new-vehicles/corolla/ascent-sport/all-new-hatch'><img alt='Corolla' src='https://cdn.mattaki.com/toyota/static-assets/nav/corolla.png' /></a>
+<div class='desc'><p>Bolder, sportier and more fun.</p></div>
+<div class='actions'>
+<a class='btn' href='/new-vehicles/corolla'>Explore</a><a class='btnDark' href='https://brianhiltontoyota.dealer.toyota.com.au/new-vehicles/corolla/ascent-sport/all-new-hatch'>Our Stock</a></div>
+</div>
+<div class='ddVehicle'>
+<h4>Corolla Sedan</h4>
+<a class='thumb' href='https://brianhiltontoyota.dealer.toyota.com.au/new-vehicles/corolla/ascent/sedan'><img alt='Corolla Sedan' src='https://cdn.mattaki.com/toyota/static-assets/nav/corolla-sedan.png' /></a>
+<div class='desc'><p></p></div>
+<div class='actions'>
+<a class='btn' href='/new-vehicles/corollasedan'>Explore</a><a class='btnDark' href='https://brianhiltontoyota.dealer.toyota.com.au/new-vehicles/corolla/ascent/sedan'>Our Stock</a></div>
+</div>
+<div class='ddVehicle'>
+<h4>Camry</h4>
+<a class='thumb' href='https://brianhiltontoyota.dealer.toyota.com.au/new-vehicles/camry/sl/sedan'><img alt='Camry' src='https://cdn.mattaki.com/toyota/static-assets/nav/camry.png' /></a>
+<div class='desc'><p>Advanced styling inside and out.</p></div>
+<div class='actions'>
+<a class='btn' href='/new-vehicles/camry'>Explore</a><a class='btnDark' href='https://brianhiltontoyota.dealer.toyota.com.au/new-vehicles/camry/sl/sedan'>Our Stock</a></div>
+</div>
+<div class='ddVehicle'>
+<h4>86</h4>
+<a class='thumb' href='https://brianhiltontoyota.dealer.toyota.com.au/new-vehicles/86/gt/manual'><img alt='86' src='https://cdn.mattaki.com/toyota/static-assets/nav/86.png' /></a>
+<div class='desc'><p>The return of the ideal sports car.</p></div>
+<div class='actions'>
+<a class='btn' href='/new-vehicles/86'>Explore</a><a class='btnDark' href='https://brianhiltontoyota.dealer.toyota.com.au/new-vehicles/86/gt/manual'>Our Stock</a></div>
+</div>
+<div class='ddVehicle'>
+<h4>GR Supra</h4>
+<a class='thumb' href='https://brianhiltontoyota.dealer.toyota.com.au/new-vehicles/gr-supra'><img alt='GR Supra' src='https://cdn.mattaki.com/toyota/static-assets/nav/gr-supra.png' /></a>
+<div class='desc'><p>A legend reborn.</p></div>
+<div class='actions'>
+<a class='btn' href='/new-vehicles/grsupra'>Explore</a><a class='btnDark' href='https://brianhiltontoyota.dealer.toyota.com.au/new-vehicles/gr-supra'>Our Stock</a></div>
+</div>
+</div>
+</li>
+<li class=''>
+<a href='/new-vehicles/hybrids/' class='ddCatTab'>Hybrids</a>
+<div class='ddCat'><div class='ddVehicle'>
+<h4>Prius c</h4>
+<a class='thumb' href='https://brianhiltontoyota.dealer.toyota.com.au/new-vehicles/prius-c/_/_'><img alt='Prius c' src='https://cdn.mattaki.com/toyota/static-assets/nav/prius-c.png' /></a>
+<div class='desc'><p>Compact outside, spacious inside.</p></div>
+<div class='actions'>
+<a class='btn' href='/new-vehicles/priusc'>Explore</a><a class='btnDark' href='https://brianhiltontoyota.dealer.toyota.com.au/new-vehicles/prius-c/_/_'>Our Stock</a></div>
+</div>
+<div class='ddVehicle'>
+<h4>Prius v</h4>
+<a class='thumb' href='https://brianhiltontoyota.dealer.toyota.com.au/new-vehicles/prius-v/_/_'><img alt='Prius v' src='https://cdn.mattaki.com/toyota/static-assets/nav/prius-v.png' /></a>
+<div class='desc'><p>Sleek, smooth and fuel efficient.</p></div>
+<div class='actions'>
+<a class='btn' href='/new-vehicles/priusv'>Explore</a><a class='btnDark' href='https://brianhiltontoyota.dealer.toyota.com.au/new-vehicles/prius-v/_/_'>Our Stock</a></div>
+</div>
+<div class='ddVehicle'>
+<h4>Prius</h4>
+<a class='thumb' href='https://brianhiltontoyota.dealer.toyota.com.au/new-vehicles/prius/_/_'><img alt='Prius' src='https://cdn.mattaki.com/toyota/static-assets/nav/prius.png' /></a>
+<div class='desc'><p>Cutting edge technology.</p></div>
+<div class='actions'>
+<a class='btn' href='/new-vehicles/prius'>Explore</a><a class='btnDark' href='https://brianhiltontoyota.dealer.toyota.com.au/new-vehicles/prius/_/_'>Our Stock</a></div>
+</div>
+<div class='ddVehicle'>
+<h4>Camry Hybrid</h4>
+<a class='thumb' href='https://brianhiltontoyota.dealer.toyota.com.au/new-vehicles/camry/sl/sedan'><img alt='Camry Hybrid' src='https://cdn.mattaki.com/toyota/static-assets/nav/camry-hybrid.png' /></a>
+<div class='desc'><p>Performance and efficiency.</p></div>
+<div class='actions'>
+<a class='btn' href='/new-vehicles/camryhybrid'>Explore</a><a class='btnDark' href='https://brianhiltontoyota.dealer.toyota.com.au/new-vehicles/camry/sl/sedan'>Our Stock</a></div>
+</div>
+<div class='ddVehicle'>
+<h4>Corolla Hybrid</h4>
+<a class='thumb' href='https://brianhiltontoyota.dealer.toyota.com.au/new-vehicles/corolla/ascent-sport/all-new-hatch'><img alt='Corolla Hybrid' src='https://cdn.mattaki.com/toyota/static-assets/nav/corolla-hybrid.png' /></a>
+<div class='desc'><p>Best of all worlds.</p></div>
+<div class='actions'>
+<a class='btn' href='/new-vehicles/corolla'>Explore</a><a class='btnDark' href='https://brianhiltontoyota.dealer.toyota.com.au/new-vehicles/corolla/ascent-sport/all-new-hatch'>Our Stock</a></div>
+</div>
+<div class='ddVehicle'>
+<h4>RAV4 Hybrid</h4>
+<a class='thumb' href='https://brianhiltontoyota.dealer.toyota.com.au/new-vehicles/rav4/cruiser/2wd'><img alt='RAV4 Hybrid' src='https://cdn.mattaki.com/toyota/static-assets/nav/rav4-hybrid.png' /></a>
+<div class='desc'><p>Return of recreation.</p></div>
+<div class='actions'>
+<a class='btn' href='/new-vehicles/rav4'>Explore</a><a class='btnDark' href='https://brianhiltontoyota.dealer.toyota.com.au/new-vehicles/rav4/cruiser/2wd'>Our Stock</a></div>
+</div>
+</div>
+</li>
+<li class=''>
+<a href='/new-vehicles/suvs-4wds/' class='ddCatTab'>SUVs & 4WDs</a>
+<div class='ddCat'><div class='ddVehicle'>
+<h4>C-HR</h4>
+<a class='thumb' href='https://brianhiltontoyota.dealer.toyota.com.au/new-vehicles/c-hr/koba/_'><img alt='C-HR' src='https://cdn.mattaki.com/toyota/static-assets/nav/c-hr.png' /></a>
+<div class='desc'><p>Sleek and muscular small SUV.</p></div>
+<div class='actions'>
+<a class='btn' href='/new-vehicles/c-hr'>Explore</a><a class='btnDark' href='https://brianhiltontoyota.dealer.toyota.com.au/new-vehicles/c-hr/koba/_'>Our Stock</a></div>
+</div>
+<div class='ddVehicle'>
+<h4>RAV4</h4>
+<a class='thumb' href='https://brianhiltontoyota.dealer.toyota.com.au/new-vehicles/rav4/cruiser/2wd'><img alt='RAV4' src='https://cdn.mattaki.com/toyota/static-assets/nav/rav4.png' /></a>
+<div class='desc'><p>The SUV for every journey.</p></div>
+<div class='actions'>
+<a class='btn' href='/new-vehicles/rav4'>Explore</a><a class='btnDark' href='https://brianhiltontoyota.dealer.toyota.com.au/new-vehicles/rav4/cruiser/2wd'>Our Stock</a></div>
+</div>
+<div class='ddVehicle'>
+<h4>Kluger</h4>
+<a class='thumb' href='https://brianhiltontoyota.dealer.toyota.com.au/new-vehicles/kluger/gx/2wd'><img alt='Kluger' src='https://cdn.mattaki.com/toyota/static-assets/nav/kluger.png' /></a>
+<div class='desc'><p>The ultimate family SUV.</p></div>
+<div class='actions'>
+<a class='btn' href='/new-vehicles/kluger'>Explore</a><a class='btnDark' href='https://brianhiltontoyota.dealer.toyota.com.au/new-vehicles/kluger/gx/2wd'>Our Stock</a></div>
+</div>
+<div class='ddVehicle'>
+<h4>Prado</h4>
+<a class='thumb' href='https://brianhiltontoyota.dealer.toyota.com.au/new-vehicles/prado/gx/diesel'><img alt='Prado' src='https://cdn.mattaki.com/toyota/static-assets/nav/prado.png' /></a>
+<div class='desc'><p>For the toughest challenges in style.</p></div>
+<div class='actions'>
+<a class='btn' href='/new-vehicles/prado'>Explore</a><a class='btnDark' href='https://brianhiltontoyota.dealer.toyota.com.au/new-vehicles/prado/gx/diesel'>Our Stock</a></div>
+</div>
+<div class='ddVehicle'>
+<h4>HiLux</h4>
+<a class='thumb' href='https://brianhiltontoyota.dealer.toyota.com.au/new-vehicles/hilux/rugged-x/4x4'><img alt='HiLux' src='https://cdn.mattaki.com/toyota/static-assets/nav/hilux.png' /></a>
+<div class='desc'><p>Tough, durable and comfortable.</p></div>
+<div class='actions'>
+<a class='btn' href='/new-vehicles/hilux'>Explore</a><a class='btnDark' href='https://brianhiltontoyota.dealer.toyota.com.au/new-vehicles/hilux/rugged-x/4x4'>Our Stock</a></div>
+</div>
+<div class='ddVehicle'>
+<h4>LandCruiser 200</h4>
+<a class='thumb' href='https://brianhiltontoyota.dealer.toyota.com.au/new-vehicles/landcruiser-200/gxl/diesel'><img alt='LandCruiser 200' src='https://cdn.mattaki.com/toyota/static-assets/nav/landcruiser-200.png' /></a>
+<div class='desc'><p>Built to conquer.</p></div>
+<div class='actions'>
+<a class='btn' href='/new-vehicles/landcruiser200'>Explore</a><a class='btnDark' href='https://brianhiltontoyota.dealer.toyota.com.au/new-vehicles/landcruiser-200/gxl/diesel'>Our Stock</a></div>
+</div>
+<div class='ddVehicle'>
+<h4>Fortuner</h4>
+<a class='thumb' href='https://brianhiltontoyota.dealer.toyota.com.au/new-vehicles/fortuner/gxl/automatic'><img alt='Fortuner' src='https://cdn.mattaki.com/toyota/static-assets/nav/fortuner.png' /></a>
+<div class='desc'><p>Tough to the task.</p></div>
+<div class='actions'>
+<a class='btn' href='/new-vehicles/fortuner'>Explore</a><a class='btnDark' href='https://brianhiltontoyota.dealer.toyota.com.au/new-vehicles/fortuner/gxl/automatic'>Our Stock</a></div>
+</div>
+</div>
+</li>
+<li class=''>
+<a href='/new-vehicles/utes-vans/' class='ddCatTab'>Utes & Vans</a>
+<div class='ddCat'><div class='ddVehicle'>
+<h4>HiLux</h4>
+<a class='thumb' href='https://brianhiltontoyota.dealer.toyota.com.au/new-vehicles/hilux/workmate/4x2'><img alt='HiLux' src='https://cdn.mattaki.com/toyota/static-assets/nav/hilux-cab.png' /></a>
+<div class='desc'><p>Tough, durable and comfortable.</p></div>
+<div class='actions'>
+<a class='btn' href='/new-vehicles/hilux'>Explore</a><a class='btnDark' href='https://brianhiltontoyota.dealer.toyota.com.au/new-vehicles/hilux/workmate/4x2'>Our Stock</a></div>
+</div>
+<div class='ddVehicle'>
+<h4>LandCruiser 70</h4>
+<a class='thumb' href='https://brianhiltontoyota.dealer.toyota.com.au/new-vehicles/landcruiser-70/workmate/cab-chassis'><img alt='LandCruiser 70' src='https://cdn.mattaki.com/toyota/static-assets/nav/landcruiser-70.png' /></a>
+<div class='desc'><p>The legendary workhorse.</p></div>
+<div class='actions'>
+<a class='btn' href='/new-vehicles/landcruiser70'>Explore</a><a class='btnDark' href='https://brianhiltontoyota.dealer.toyota.com.au/new-vehicles/landcruiser-70/workmate/cab-chassis'>Our Stock</a></div>
+</div>
+<div class='ddVehicle'>
+<h4>Tarago</h4>
+<a class='thumb' href='https://brianhiltontoyota.dealer.toyota.com.au/new-vehicles/tarago/gli/people-mover'><img alt='Tarago' src='https://cdn.mattaki.com/toyota/static-assets/nav/tarago.png' /></a>
+<div class='desc'><p>Maximum space, maximum comfort.</p></div>
+<div class='actions'>
+<a class='btn' href='/new-vehicles/tarago'>Explore</a><a class='btnDark' href='https://brianhiltontoyota.dealer.toyota.com.au/new-vehicles/tarago/gli/people-mover'>Our Stock</a></div>
+</div>
+<div class='ddVehicle'>
+<h4>HiAce</h4>
+<a class='thumb' href='https://brianhiltontoyota.dealer.toyota.com.au/new-vehicles/hiace/lwb-van/van'><img alt='HiAce' src='https://cdn.mattaki.com/toyota/static-assets/nav/hiace.png' /></a>
+<div class='desc'><p>Professional and reliable.</p></div>
+<div class='actions'>
+<a class='btn' href='/new-vehicles/hiace'>Explore</a><a class='btnDark' href='https://brianhiltontoyota.dealer.toyota.com.au/new-vehicles/hiace/lwb-van/van'>Our Stock</a></div>
+</div>
+<div class='ddVehicle'>
+<h4>Coaster</h4>
+<a class='thumb' href='https://brianhiltontoyota.dealer.toyota.com.au/new-vehicles/coaster/standard/bus'><img alt='Coaster' src='https://cdn.mattaki.com/toyota/static-assets/nav/coaster.png' /></a>
+<div class='desc'><p>Comfort and versatility.</p></div>
+<div class='actions'>
+<a class='btn' href='/new-vehicles/coaster'>Explore</a><a class='btnDark' href='https://brianhiltontoyota.dealer.toyota.com.au/new-vehicles/coaster/standard/bus'>Our Stock</a></div>
+</div>
+</div>
+</li>
+
+									</ol>
+								</div>
+
+								<div class="navSupplementaryLinks">
+									<a id="mainNav_rptrSections_ctl00_hlOurStock" class="red" href="/new-vehicles/"><i class="icon iconStock"></i>Our Stock</a>
+									<a href="/enquiries/new-vehicle-enquiry/"><i class="icon iconEnquiry"></i>Enquiries</a>
+									<a href="/our-location/department-location/new-vehicles/?dept=2" id="mainNav_rptrSections_ctl00_lnkNewVehicleDepartmentLocation"><i class="icon iconMarker"></i>Our Locations</a>
+										<a class="right" href="/brochures/"><i class="icon iconBrochure"></i>Brochures</a>
+									
+								</div>
+							</div>
+						</li>
+					
+
+					
+				
+					
+
+					
+						<li id="navPreOwned" >
+							<a href="/used-cars/" id="mainNav_rptrSections_ctl01_lnkSection" class="navTab">Used & Demo Vehicles</a>
+								<div class="dropDown">
+									<ol class="navDropDownList">
+										
+												
+													<li><a href="/used-cars/m/toyota-certified-pre-owned-vehicles/" id="mainNav_rptrSections_ctl01_rptrPages_ctl00_lnkPage">Toyota Certified Pre-Owned Vehicles</a></li>
+												
+											
+												
+													<li><a href="/used-car/list/" id="mainNav_rptrSections_ctl01_rptrPages_ctl01_lnkPage">Browse Our Used Cars</a></li>
+												
+											
+												
+													<li><a href="/demo-car/list/" id="mainNav_rptrSections_ctl01_rptrPages_ctl02_lnkPage">Browse Our Demo Cars</a></li>
+												
+											
+												
+													<li><a href="/used-cars/m/trade-in-your-vehicle/" id="mainNav_rptrSections_ctl01_rptrPages_ctl03_lnkPage">Trade-In Your Vehicle</a></li>
+												
+											
+												
+													<li><a href="/enquiries/used-vehicle-enquiry/" id="mainNav_rptrSections_ctl01_rptrPages_ctl04_lnkPage">Used Vehicle Enquiry</a></li>
+												
+											
+									</ol>
+
+									<div class="dropDownSupportLinks">
+										<a href="/enquiries/used-vehicle-enquiry/" id="mainNav_rptrSections_ctl01_lnlEnquiriesLink"><i class="icon iconEnquiry"></i>Enquiries</a><a href="/our-location/department-location/used-vehicles/?dept=3" id="mainNav_rptrSections_ctl01_lnkDepartmentLocation"><i class="icon iconMarker"></i>
+											<span id="mainNav_rptrSections_ctl01_lblLocation">Our Locations</span></a>
+									</div>
+								</div>
+							
+						</li>
+					
+				
+					
+
+					
+						<li id="navOffers" >
+							<a href="/special-offers/" id="mainNav_rptrSections_ctl02_lnkSection" class="navTab">Special Offers</a>
+								<div class="dropDown">
+									<ol class="navDropDownList">
+										
+												
+													<li><a href="/special-offers/m/toyotathon-is-on/" id="mainNav_rptrSections_ctl02_rptrPages_ctl00_lnkPage">Toyotathon Is On</a></li>
+												
+											
+												
+													<li><a href="/new-vehicles/granvia/features/" id="mainNav_rptrSections_ctl02_rptrPages_ctl01_lnkPage">All-New Granvia Coming Soon</a></li>
+												
+											
+												
+													<li><a href="/special-offers/m/c-hr-4-9-comparison-rate/" id="mainNav_rptrSections_ctl02_rptrPages_ctl02_lnkPage">C-HR 4.9% Comparison Rate</a></li>
+												
+											
+												
+													<li><a href="/special-offers/m/corolla-2-9-comparison-rate/" id="mainNav_rptrSections_ctl02_rptrPages_ctl03_lnkPage">Corolla 2.9% Comparison Rate</a></li>
+												
+											
+												
+													<li><a href="/brand-value/" id="mainNav_rptrSections_ctl02_rptrPages_ctl04_lnkPage">myToyota</a></li>
+												
+											
+									</ol>
+
+									<div class="dropDownSupportLinks">
+										<a href="/enquiries/special-offers-enquiry/" id="mainNav_rptrSections_ctl02_lnlEnquiriesLink"><i class="icon iconEnquiry"></i>Enquiries</a><a href="/our-location/" id="mainNav_rptrSections_ctl02_lnkDepartmentLocation"><i class="icon iconMarker"></i>
+											<span id="mainNav_rptrSections_ctl02_lblLocation">Our Location</span></a>
+									</div>
+								</div>
+							
+						</li>
+					
+				
+					
+
+					
+						<li id="navService" >
+							<a href="/enquiries/service-booking/" id="mainNav_rptrSections_ctl03_lnkSection" class="navTab">Service</a>
+								<div class="dropDown">
+									<ol class="navDropDownList">
+										
+												
+													<li><a href="/enquiries/service-booking/" id="mainNav_rptrSections_ctl03_rptrPages_ctl00_lnkPage">Book a Service Online</a></li>
+												
+											
+												
+													<li><a href="/service/m/toyota-genuine-service/" id="mainNav_rptrSections_ctl03_rptrPages_ctl01_lnkPage">Toyota Genuine Service</a></li>
+												
+											
+												
+													<li><a href="/service/m/toyota-service-advantage/" id="mainNav_rptrSections_ctl03_rptrPages_ctl02_lnkPage">Toyota Service Advantage</a></li>
+												
+											
+												
+													<li><a href="/service/m/toyota-express-maintenance/" id="mainNav_rptrSections_ctl03_rptrPages_ctl03_lnkPage">Toyota Express Maintenance</a></li>
+												
+											
+												
+													<li><a href="/service/m/service/" id="mainNav_rptrSections_ctl03_rptrPages_ctl04_lnkPage">Brian Hilton Toyota Service</a></li>
+												
+											
+												
+													<li><a href="/service/mechanical-protection-program/" id="mainNav_rptrSections_ctl03_rptrPages_ctl05_lnkPage">Mechanical Protection Program</a></li>
+												
+											
+												
+													<li><a href="/body-and-paint/" id="mainNav_rptrSections_ctl03_rptrPages_ctl06_lnkPage">Body & Paint</a></li>
+												
+											
+												
+													<li><a href="/service/customer-advantage-program/" id="mainNav_rptrSections_ctl03_rptrPages_ctl07_lnkPage">Customer Advantage Program</a></li>
+												
+											
+												
+													<li><a href="/service/m/warranty/" id="mainNav_rptrSections_ctl03_rptrPages_ctl08_lnkPage">Warranty</a></li>
+												
+											
+									</ol>
+
+									<div class="dropDownSupportLinks">
+										<a href="/enquiries/service-enquiry/" id="mainNav_rptrSections_ctl03_lnlEnquiriesLink"><i class="icon iconEnquiry"></i>Enquiries</a><a href="/our-location/department-location/service-department/?dept=4" id="mainNav_rptrSections_ctl03_lnkDepartmentLocation"><i class="icon iconMarker"></i>
+											<span id="mainNav_rptrSections_ctl03_lblLocation">Our Locations</span></a>
+									</div>
+								</div>
+							
+						</li>
+					
+				
+					
+
+					
+						<li id="navPartsAccessories" >
+							<a href="/parts-and-accessories/" id="mainNav_rptrSections_ctl04_lnkSection" class="navTab">Parts & Accessories</a>
+								<div class="dropDown">
+									<ol class="navDropDownList">
+										
+												
+													<li><a href="/parts-and-accessories/m/toyota-genuine-accessories/" id="mainNav_rptrSections_ctl04_rptrPages_ctl00_lnkPage">Toyota Genuine Accessories</a></li>
+												
+											
+												
+													<li><a href="/parts-and-accessories/m/why-toyota-genuine/" id="mainNav_rptrSections_ctl04_rptrPages_ctl01_lnkPage">Why Toyota Genuine?</a></li>
+												
+											
+												
+													<li><a href="/parts-and-accessories/m/interior-accessories/" id="mainNav_rptrSections_ctl04_rptrPages_ctl02_lnkPage">Interior Accessories</a></li>
+												
+											
+												
+													<li><a href="/parts-and-accessories/m/exterior-accessories/" id="mainNav_rptrSections_ctl04_rptrPages_ctl03_lnkPage">Exterior Accessories</a></li>
+												
+											
+												
+													<li><a href="/parts-and-accessories/m/genuine-parts/" id="mainNav_rptrSections_ctl04_rptrPages_ctl04_lnkPage">Genuine Parts</a></li>
+												
+											
+									</ol>
+
+									<div class="dropDownSupportLinks">
+										<a href="/enquiries/parts-and-accessories-enquiry/" id="mainNav_rptrSections_ctl04_lnlEnquiriesLink"><i class="icon iconEnquiry"></i>Enquiries</a><a href="/our-location/department-location/parts-accessories/?dept=5" id="mainNav_rptrSections_ctl04_lnkDepartmentLocation"><i class="icon iconMarker"></i>
+											<span id="mainNav_rptrSections_ctl04_lblLocation">Our Locations</span></a>
+									</div>
+								</div>
+							
+						</li>
+					
+				
+					
+
+					
+						<li id="navFinanceInsurance" >
+							<a href="/finance-and-insurance/" id="mainNav_rptrSections_ctl05_lnkSection" class="navTab">Finance & Insurance</a>
+								<div class="dropDown">
+									<ol class="navDropDownList">
+										
+												
+													<li><a href="/finance-and-insurance/m/car-finance-explained-urban/" id="mainNav_rptrSections_ctl05_rptrPages_ctl00_lnkPage">Car Finance Explained</a></li>
+												
+											
+												
+													<li><a href="/finance-and-insurance/m/toyota-personalised-rate/" id="mainNav_rptrSections_ctl05_rptrPages_ctl01_lnkPage">Toyota Personalised Rate</a></li>
+												
+											
+												
+													<li><a href="/finance-and-insurance/m/finance/" id="mainNav_rptrSections_ctl05_rptrPages_ctl02_lnkPage">Finance</a></li>
+												
+											
+												
+													<li><a href="/finance-and-insurance/m/finance-personal/" id="mainNav_rptrSections_ctl05_rptrPages_ctl03_lnkPage">Finance - Personal</a></li>
+												
+											
+												
+													<li><a href="/finance-and-insurance/m/finance-business/" id="mainNav_rptrSections_ctl05_rptrPages_ctl04_lnkPage">Finance - Business</a></li>
+												
+											
+												
+													<li><a href="/finance-and-insurance/loan-calculator/" id="mainNav_rptrSections_ctl05_rptrPages_ctl05_lnkPage">Finance Calculators</a></li>
+												
+											
+												
+													<li><a href="/finance-and-insurance/m/toyota-access/" id="mainNav_rptrSections_ctl05_rptrPages_ctl06_lnkPage">Toyota Access</a></li>
+												
+											
+												
+													<li><a href="/finance-and-insurance/brian-hilton-roadside-assistance/" id="mainNav_rptrSections_ctl05_rptrPages_ctl07_lnkPage">Brian Hilton Roadside Assistance</a></li>
+												
+											
+												
+													<li><a href="/finance-and-insurance/m/insurance/" id="mainNav_rptrSections_ctl05_rptrPages_ctl08_lnkPage">Insurance</a></li>
+												
+											
+									</ol>
+
+									<div class="dropDownSupportLinks">
+										<a href="/enquiries/finance-enquiry/" id="mainNav_rptrSections_ctl05_lnlEnquiriesLink"><i class="icon iconEnquiry"></i>Enquiries</a><a href="/our-location/department-location/finance-insurance/?dept=6" id="mainNav_rptrSections_ctl05_lnkDepartmentLocation"><i class="icon iconMarker"></i>
+											<span id="mainNav_rptrSections_ctl05_lblLocation">Our Locations</span></a>
+									</div>
+								</div>
+							
+						</li>
+					
+				
+					
+
+					
+						<li id="navFleet" >
+							<a href="/fleet/" id="mainNav_rptrSections_ctl06_lnkSection" class="navTab">Fleet</a>
+								<div class="dropDown">
+									<ol class="navDropDownList">
+										
+												
+													<li><a href="/fleet/m/for-your-fleet-needs/" id="mainNav_rptrSections_ctl06_rptrPages_ctl00_lnkPage">Brian Hilton Toyota for Your Fleet Needs</a></li>
+												
+											
+												
+													<li><a href="/fleet/m/managing-your-fleet/" id="mainNav_rptrSections_ctl06_rptrPages_ctl01_lnkPage">Managing Your Fleet</a></li>
+												
+											
+									</ol>
+
+									<div class="dropDownSupportLinks">
+										<a href="/enquiries/fleet-enquiry/" id="mainNav_rptrSections_ctl06_lnlEnquiriesLink"><i class="icon iconEnquiry"></i>Enquiries</a><a href="/our-location/department-location/fleet/?dept=7" id="mainNav_rptrSections_ctl06_lnkDepartmentLocation"><i class="icon iconMarker"></i>
+											<span id="mainNav_rptrSections_ctl06_lblLocation">Our Location</span></a>
+									</div>
+								</div>
+							
+						</li>
+					
+				
+					
+
+					
+						<li id="navEnquiries" >
+							<a href="/enquiries/" id="mainNav_rptrSections_ctl07_lnkSection" class="navTab">Enquiries</a>
+						</li>
+					
+				
+			<li id="navSearch" class="">
+				<a class="navTab"><i class="icon"></i>Search</a>
+				<div class="dropDown" style="">
+					<div class="navDropSearch">
+						<input type="text" class="inputText" placeholder="Search Brian Hilton Toyota" id="txtKeywordOnMainNav" name="txtKeywordOnMainNav" autofocus>
+						<input type="submit" value="Search" class="inputSubmit" id="btnSearchButtonOnMainNav" name="btnSearchButtonOnMainNav">
+					</div>
+				</div>
+			</li>
+		</ol>
+		<!-- nav end -->
+
+		<div id="navOverlay"></div>
+
+	</div>
+</div>
+
+
+            
+<div class="secondaryNav">
+	<div class="subNavContainer">
+		<ol id="subNav">
+			
+			<li><a href="/advantage-program/" id="secondaryNav_rptrSections_ctl00_lnkSection">Loyalty Program</a> </li>
+			
+			<li class="navOurLocation"><a href="/our-location/" id="secondaryNav_rptrSections_ctl01_lnkSection">Our Locations</a> </li>
+			
+		
+				<li class="phone"><a href="/enquiries/gosford/"><i class="icon"></i><small>Gosford</small>02 4328 2888</a></li>
+		
+				<li class="phone"><a href="/enquiries/wyong/"><i class="icon"></i><small>Wyong</small>02 4353 1122</a></li>
+		
+		</ol>
+	</div>
+</div>
+
+        </div>
+
+    </div>
+    <!-- header container end -->
+
+    
+<div id="heroBannersContainer">
+	<div id="heroBanners">
+		
+				<a id="heroBanners_rptBanners_ctl00_lnkBanner" title="Hilux Campaign" class="slide" href="/new-vehicles/hilux/" style="background-image:url(//cdn.mattaki.com/toyota/homepage/banners/a1626ecd-9a45-4e6e-a2f4-0a1340c58779/image.jpg);"></a>
+			
+				<a id="heroBanners_rptBanners_ctl01_lnkBanner" title="Feature Cars - Wyong Aug 2019" class="slide" href="https://www.brianhiltontoyota.com.au/new-vehicles/prado/" style="background-image:url(/media-files/homepage/banners/cdb69272-32d6-478b-bf4b-0b8d1d529947/image.jpg);"></a>
+			
+				<a id="heroBanners_rptBanners_ctl02_lnkBanner" title="Toyotathon Is On" class="slide" href="/special-offers/m/toyotathon-is-on/" style="background-image:url(//cdn.mattaki.com/toyota/homepage/banners/eb23b8b1-1b8f-4dd9-b932-cb2bd9b67f91/image.jpg);"></a>
+			
+				<a id="heroBanners_rptBanners_ctl03_lnkBanner" title="Prius c" class="slide" href="/new-vehicles/priusc/" style="background-image:url(//cdn.mattaki.com/toyota/homepage/banners/820032ec-4c4c-4d70-aa34-a78992775db3/image.jpg);"></a>
+			
+				<a id="heroBanners_rptBanners_ctl04_lnkBanner" title="myToyota App" class="slide" href="https://www.toyota.com.au/mytoyota?utm_source=dealerwebsite&amp;utm_medium=banner&amp;utm_campaign=homepagecarousel&amp;utm_content=brianhiltontoyota" style="background-image:url(//cdn.mattaki.com/toyota/homepage/banners/e1a7deba-4bb3-4a13-a803-1f892114902d/image.jpg);"></a>
+			
+				<a id="heroBanners_rptBanners_ctl05_lnkBanner" title="Order &amp; Collect" class="slide" href="https://brianhiltontoyota.dealer.toyota.com.au/purchase/newcars/?promo=oc_learnmore|order_and_collect_260419|homepage_banner" style="background-image:url(/media-files/homepage/banners/e1518976-6056-4f6a-a094-5120cffdbecd/image.jpg);"></a>
+					
+	</div>
+	<div id="heroBannersNavWrap">
+		<div id="heroBannersNav"></div>
+	</div>
+</div>
+
+
+    <!-- home content begin -->
+
+    <div id="homeContent" class="pp">
+        
+
+        
+
+<div class='ppSource ' >
+	
+	<div class="hpmIntroInventory">
+	<div class="intro">
+		<h1>Welcome to Brian Hilton Toyota!</h1>
+		<h2>We're your local Toyota Dealer at Gosford, Wyong and Woy Woy with a large range of new and quality used vehicles. Speak with our friendly team for assistance when buying a vehicle, servicing, finance, insurance and  parts &amp; accessories.  <a href="/enquiries/">Contact Our Team Now!</a>
+			</h2>
+		<div class='phoneNumbers'><div class='hpmLoc'><i class='iconPhone'></i><small>Gosford</small><span class='phNumber'>02 4328 2888</span></div><div class='hpmLoc'><i class='iconPhone'></i><small>Wyong</small><span class='phNumber'>02 4353 1122</span></div><div class='hpmLoc'><i class='iconPhone'></i><small>Woy Woy</small><span class='phNumber'>02 4344 1455</span></div></div>
+		<div class="secondary">
+			<a class="cta" href="/finance-and-insurance/">Need Finance?</a>
+			<a class="cta" href="/parts-and-accessories/">Parts &amp; Accessories</a>
+			<a class="cta" href="/fleet/">Fleet</a>
+		</div>		
+	</div>
+	<div class="inventory">
+		
+<h2>Search our Current Inventory</h2>
+
+<ol class="enquiryForm invSearchForm">
+	
+	<li>
+		<label for="ddlLocation">Location</label>
+		<select id="ddlLocation" class="ddl" name="ddlLocation"><option value="">Any Location</option></select>
+	</li>
+	
+	<li>
+		<label for="ddlVehicleType">Type</label>
+		<select id="ddlVehicleType" class="ddl" name="ddlVehicleType"></select>
+	</li>
+	
+
+	<div id="divMake">
+	<li>
+		<label for="ddlMake">Make</label>
+		<select id="ddlMake" class="ddl" name="ddlMake"><option value="">Any Make</option></select>
+	</li>
+	</div>
+
+	<div id="divModel">
+	<li>
+		<label for="ddlModel">Model</label>
+		<select id="ddlModel" class="ddl" name="ddlModel"><option value="">Any Model</option></select>
+	</li>
+	</div>
+
+	
+	<div id="divPrices">
+	<li>
+		<label for="ddlPriceFrom">Price</label>
+		<div class="twoCols">
+			<select id="ddlPriceFrom" class="ddl" name="ddlPriceFrom">
+				<option value="">From</option>
+				<option value="2500">$2,500</option>
+				<option value="5000">$5,000</option>
+				<option value="7500">$7,500</option>
+				<option value="10000">$10,000</option>
+				<option value="15000">$15,000</option>
+				<option value="20000">$20,000</option>
+				<option value="25000">$25,000</option>
+				<option value="30000">$30,000</option>
+				<option value="35000">$35,000</option>
+				<option value="40000">$40,000</option>
+				<option value="45000">$45,000</option>
+				<option value="50000">$50,000</option>
+				<option value="60000">$60,000</option>
+				<option value="70000">$70,000</option>
+				<option value="80000">$80,000</option>
+				<option value="90000">$90,000</option>
+				<option value="100000">$100,000</option>
+				<option value="150000">$150,000</option>
+			</select>
+			<select id="ddlPriceTo" class="ddl" name="ddlPriceTo">
+				<option value="">To</option>
+				<option value="2500">$2,500</option>
+				<option value="5000">$5,000</option>
+				<option value="7500">$7,500</option>
+				<option value="10000">$10,000</option>
+				<option value="15000">$15,000</option>
+				<option value="20000">$20,000</option>
+				<option value="25000">$25,000</option>
+				<option value="30000">$30,000</option>
+				<option value="35000">$35,000</option>
+				<option value="40000">$40,000</option>
+				<option value="45000">$45,000</option>
+				<option value="50000">$50,000</option>
+				<option value="60000">$60,000</option>
+				<option value="70000">$70,000</option>
+				<option value="80000">$80,000</option>
+				<option value="90000">$90,000</option>
+				<option value="100000">$100,000</option>
+				<option value="150000">$150,000</option>
+			</select>
+		</div>
+	</li>
+	</div>
+	
+	<div id="divYears">
+	<li>
+		<label for="ddlYearFrom">Year</label>
+		<div class="twoCols">
+			<select id="ddlYearFrom" class="ddl" name="ddlYearFrom"></select>
+			<select id="ddlYearTo" class="ddl" name="ddlYearTo"></select>
+		</div>
+	</li>
+	</div>
+	
+	<li><button class="btnSearchForVehiclesByOptions inputSubmit">Search For Vehicles</button></li>
+</ol>
+
+	</div>
+</div>
+	
+</div>
+
+<div class="ppColumns">
+	<h2>Toyota Used Cars In Stock</h2>
+	<div class="columns fourCol">
+		
+		<div class="col">
+			<a href="/used-car/toyota/camry/ascent-sport/547278/" title="2018  Toyota Camry Ascent Sport Sedan (Silver) Used  Used Car Detail">
+				<div class="thumb">
+					
+					<img alt="2018  Toyota Camry Ascent Sport Sedan (Silver) Used Thumbnail" src="/media-files/inventory/48ad4285-3015-4308-ba72-1dd4997e7044/e112368c-fa1f-4791-b21a-4146285977de/medium-image.JPG">
+					
+				</div>
+				<div class="desc">
+					<p>2018 Toyota Camry Ascent Sport</p>
+					<span class="price"></span>
+				</div>
+			</a>
+			<div class="desc">
+				<dl class="invQuickSpecs">
+					<dt><i class="invIconType"></i>Type</dt>
+					<dd>Used Vehicle</dd>
+
+					
+					<dt><i class="invIconTransmission"></i>Transmission</dt>
+					<dd>Automatic</dd>
+					
+					<dt><i class="invIconKms"></i>Kilometres</dt>
+					<dd>8,844</dd>
+					
+					<dt><i class="invIconVin"></i>VIN</dt>
+					<dd>JTNBF3HK703014941</dd>
+					
+					<dt></dt>
+					<dd></dd>
+				</dl>
+				<div class="invPrice">
+					<div class="actualPrice">
+						<p>$28,888</p>
+					</div>
+					<div class="reducedPrice">
+						<p>
+							
+							
+							
+						</p>
+					</div>
+				</div>
+			</div>
+		</div>
+		
+		<div class="col">
+			<a href="/used-car/toyota/yaris/ascent/547217/" title="2017  Toyota Yaris Ascent Hatchback (Red) Used  Used Car Detail">
+				<div class="thumb">
+					
+					<img alt="2017  Toyota Yaris Ascent Hatchback (Red) Used Thumbnail" src="/media-files/inventory/43b6c374-7bbe-4966-a29a-b61ba89dfea4/d336a19b-e10f-49ca-83dd-efa3e6c63a12/medium-image.JPG">
+					
+				</div>
+				<div class="desc">
+					<p>2017 Toyota Yaris Ascent</p>
+					<span class="price"></span>
+				</div>
+			</a>
+			<div class="desc">
+				<dl class="invQuickSpecs">
+					<dt><i class="invIconType"></i>Type</dt>
+					<dd>Used Vehicle</dd>
+
+					
+					<dt><i class="invIconTransmission"></i>Transmission</dt>
+					<dd>Automatic</dd>
+					
+					<dt><i class="invIconKms"></i>Kilometres</dt>
+					<dd>11,196</dd>
+					
+					<dt><i class="invIconVin"></i>VIN</dt>
+					<dd>JTDKW3D350D588905</dd>
+					
+					<dt></dt>
+					<dd></dd>
+				</dl>
+				<div class="invPrice">
+					<div class="actualPrice">
+						<p>$15,888</p>
+					</div>
+					<div class="reducedPrice">
+						<p>
+							
+							
+							
+						</p>
+					</div>
+				</div>
+			</div>
+		</div>
+		
+		<div class="col">
+			<a href="/used-car/toyota/hilux/sr-hi-rider/547524/" title="2017  Toyota Hilux SR Hi-Rider Dual Cab Utility (Glacier White) Used  Used Car Detail">
+				<div class="thumb">
+					
+					<img alt="2017  Toyota Hilux SR Hi-Rider Dual Cab Utility (Glacier White) Used Thumbnail" src="/media-files/inventory/b9f5fb73-cfeb-47fa-bf91-2aff991434c1/6c0c5ca9-edf8-4ac7-8477-e967ac4f5160/medium-image.JPG">
+					
+				</div>
+				<div class="desc">
+					<p>2017 Toyota Hilux SR Hi-Rider</p>
+					<span class="price"></span>
+				</div>
+			</a>
+			<div class="desc">
+				<dl class="invQuickSpecs">
+					<dt><i class="invIconType"></i>Type</dt>
+					<dd>Used Vehicle</dd>
+
+					
+					<dt><i class="invIconTransmission"></i>Transmission</dt>
+					<dd>Automatic</dd>
+					
+					<dt><i class="invIconKms"></i>Kilometres</dt>
+					<dd>13,898</dd>
+					
+					<dt><i class="invIconVin"></i>VIN</dt>
+					<dd>MR0JA3DD600342747</dd>
+					
+					<dt></dt>
+					<dd></dd>
+				</dl>
+				<div class="invPrice">
+					<div class="actualPrice">
+						<p>$34,990</p>
+					</div>
+					<div class="reducedPrice">
+						<p>
+							
+							
+							
+						</p>
+					</div>
+				</div>
+			</div>
+		</div>
+		
+		<div class="col">
+			<a href="/used-car/toyota/yaris/ascent/547307/" title="2016  Toyota Yaris Ascent Hatchback (Glacier White) Used  Used Car Detail">
+				<div class="thumb">
+					
+					<img alt="2016  Toyota Yaris Ascent Hatchback (Glacier White) Used Thumbnail" src="/media-files/inventory/334c7492-a756-4c62-a625-b05d4331e84a/cc4f11ec-39ea-4d02-b808-c914d1deca0a/medium-image.JPG">
+					
+				</div>
+				<div class="desc">
+					<p>2016 Toyota Yaris Ascent</p>
+					<span class="price"></span>
+				</div>
+			</a>
+			<div class="desc">
+				<dl class="invQuickSpecs">
+					<dt><i class="invIconType"></i>Type</dt>
+					<dd>Used Vehicle</dd>
+
+					
+					<dt><i class="invIconTransmission"></i>Transmission</dt>
+					<dd>Automatic</dd>
+					
+					<dt><i class="invIconKms"></i>Kilometres</dt>
+					<dd>18,160</dd>
+					
+					<dt><i class="invIconVin"></i>VIN</dt>
+					<dd>JTDKW3D350D578259</dd>
+					
+					<dt></dt>
+					<dd></dd>
+				</dl>
+				<div class="invPrice">
+					<div class="actualPrice">
+						<p>$15,888</p>
+					</div>
+					<div class="reducedPrice">
+						<p>
+							
+							
+							
+						</p>
+					</div>
+				</div>
+			</div>
+		</div>
+		
+	</div>
+</div>
+
+
+<div class='ppSource ' >
+	
+	<div class="hpmFourColFloat">
+		<div class="promoOne">
+			<h3>New Toyota Vehicles</h3>
+			<a href="/new-vehicles/"><img alt="New Toyota Vehicles from Brian Hilton Toyota" src="//cdn.mattaki.com/toyota/static-assets/homepage/medium/new-vehicles-11.jpg"></a>
+			<p>Browse our range of new Toyota vehicles and get in touch with our team for a great deal.</p>
+			<a href="/new-vehicles/" class="btn">Browse New Vehicles</a>
+		</div>
+		<div class="promoTwo">
+			<h3>A Smarter Way to Buy</h3>
+			<a href="/finance-and-insurance/m/toyota-access/"><img alt="Toyota Access - A Smarter Way to Buy from Brian Hilton Toyota" src="//cdn.mattaki.com/toyota/static-assets/homepage/medium/toyota-access-10.jpg"></a>
+			<p>Toyota Access is an easy and flexible way to put you in control when you’re buying a new car.</p>
+			<a href="/finance-and-insurance/m/toyota-access/" class="btn">Find Out More</a>
+		</div>
+		<div class="promoThree">
+			<h3>Body &amp; Paint</h3>
+          <a href="/body-and-paint/"><img alt="Body & Paint" src="//cdn.mattaki.com/toyota/static-assets/homepage/medium/body-and-paint-1.jpg"></a>
+			<p>Get the Brian Hilton Toyota Body &amp; Paint experience and enjoy the benefits for yourself!</p>
+			<a class="btn" href="/body-and-paint/">Find Out More</a>
+		</div>
+		<div class="promoFour">
+			<h3>Vehicle Servicing</h3>
+			<a href="/enquiries/service-booking/"><img alt="Brian Hilton Toyota Mechanic Servicing a Vehicle" src="//cdn.mattaki.com/toyota/static-assets/homepage/medium/vehicle-servicing-6.jpg"></a>
+			<p>Looking to have your vehicle serviced?  Go no further than Brian Hilton Toyota.</p>
+			<a href="/enquiries/service-booking/" class="btn">Our Location</a>
+		</div>
+	</div>
+	
+</div>
+
+
+<div class='ppSource ' >
+	
+	<div class="hpmLineupB">
+
+	<div id="vehicleLineupB">
+		<a href="https://brianhiltontoyota.dealer.toyota.com.au//new-vehicles/86/">
+			<img src="//cdn.mattaki.com/toyota/static-assets/vehicles/index/86.png" alt="86" />
+			<h3>86</h3>
+		</a>
+		<a href="https://brianhiltontoyota.dealer.toyota.com.au//new-vehicles/camry/">
+			<img src="//cdn.mattaki.com/toyota/static-assets/vehicles/index/camry.png" alt="Camry" />
+			<h3>Camry</h3>
+		</a>
+		<a href="https://brianhiltontoyota.dealer.toyota.com.au//new-vehicles/camry/">
+			<img src="//cdn.mattaki.com/toyota/static-assets/vehicles/index/camry-hybrid.png" alt="Camry Hybrid" />
+			<h3>Camry Hybrid</h3>
+		</a>
+		<a href="https://brianhiltontoyota.dealer.toyota.com.au//new-vehicles/coaster/">
+			<img src="//cdn.mattaki.com/toyota/static-assets/vehicles/index/coaster.png" alt="Coaster" />
+			<h3>Coaster</h3>
+		</a>
+		<a href="https://brianhiltontoyota.dealer.toyota.com.au//new-vehicles/corolla/">
+			<img src="//cdn.mattaki.com/toyota/static-assets/vehicles/index/corolla.png" alt="Corolla" />
+			<h3>Corolla</h3>
+		</a>
+		<a href="https://brianhiltontoyota.dealer.toyota.com.au//new-vehicles/corolla/">
+			<img src="//cdn.mattaki.com/toyota/static-assets/vehicles/index/corolla-hybrid.png" alt="Corolla Hybrid" />
+			<h3>Corolla Hybrid</h3>
+		</a>
+		<a href="https://brianhiltontoyota.dealer.toyota.com.au//new-vehicles/corolla/ascent/sedan/">
+			<img src="//cdn.mattaki.com/toyota/static-assets/vehicles/index/corolla-sedan.png" alt="Corolla Sedan" />
+			<h3>Corolla Sedan</h3>
+		</a>
+		<a href="https://brianhiltontoyota.dealer.toyota.com.au//new-vehicles/fortuner/">
+			<img src="//cdn.mattaki.com/toyota/static-assets/vehicles/index/fortuner.png" alt="Fortuner" />
+			<h3>Fortuner</h3>
+		</a>
+		<a href="https://brianhiltontoyota.dealer.toyota.com.au//new-vehicles/hiace/">
+			<img src="//cdn.mattaki.com/toyota/static-assets/vehicles/index/hiace.png" alt="HiAce" />
+			<h3>HiAce</h3>
+		</a>
+		<a href="https://brianhiltontoyota.dealer.toyota.com.au//new-vehicles/hilux/">
+			<img src="//cdn.mattaki.com/toyota/static-assets/vehicles/index/hilux.png" alt="HiLux" />
+			<h3>HiLux</h3>
+		</a>
+		<a href="https://brianhiltontoyota.dealer.toyota.com.au//new-vehicles/kluger/">
+			<img src="//cdn.mattaki.com/toyota/static-assets/vehicles/index/kluger.png" alt="Kluger" />
+			<h3>Kluger</h3>
+		</a>
+		<a href="https://brianhiltontoyota.dealer.toyota.com.au//new-vehicles/landcruiser-70/">
+			<img src="//cdn.mattaki.com/toyota/static-assets/vehicles/index/landcruiser-70.png" alt="LandCruiser 70" />
+			<h3>LC 70</h3>
+		</a>
+		<a href="https://brianhiltontoyota.dealer.toyota.com.au//new-vehicles/landcruiser-200/">
+			<img src="//cdn.mattaki.com/toyota/static-assets/vehicles/index/landcruiser-200.png" alt="LandCruiser 200" />
+			<h3>LC 200</h3>
+		</a>
+		<a href="https://brianhiltontoyota.dealer.toyota.com.au//new-vehicles/prado/">
+			<img src="//cdn.mattaki.com/toyota/static-assets/vehicles/index/prado.png" alt="Prado" />
+			<h3>Prado</h3>
+		</a>
+		<a href="https://brianhiltontoyota.dealer.toyota.com.au//new-vehicles/prius/">
+			<img src="//cdn.mattaki.com/toyota/static-assets/vehicles/index/prius.png" alt="Prius" />
+			<h3>Prius</h3>
+		</a>
+		<a href="https://brianhiltontoyota.dealer.toyota.com.au//new-vehicles/prius-c/">
+			<img src="//cdn.mattaki.com/toyota/static-assets/vehicles/index/prius-c.png" alt="Prius c" />
+			<h3>Prius c</h3>
+		</a>
+		<a href="https://brianhiltontoyota.dealer.toyota.com.au//new-vehicles/prius-v/">
+			<img src="//cdn.mattaki.com/toyota/static-assets/vehicles/index/prius-v.png" alt="Prius v" />
+			<h3>Prius v</h3>
+		</a>
+		<a href="https://brianhiltontoyota.dealer.toyota.com.au//new-vehicles/rav4/">
+			<img src="//cdn.mattaki.com/toyota/static-assets/vehicles/index/rav4.png" alt="RAV4" />
+			<h3>RAV4</h3>
+		</a>
+		<a href="https://brianhiltontoyota.dealer.toyota.com.au//new-vehicles/rav4/">
+			<img src="//cdn.mattaki.com/toyota/static-assets/vehicles/index/rav4-hybrid.png" alt="RAV4 Hybrid" />
+			<h3>RAV4 Hybrid</h3>
+		</a>
+		<a href="https://brianhiltontoyota.dealer.toyota.com.au//new-vehicles/tarago/">
+			<img src="//cdn.mattaki.com/toyota/static-assets/vehicles/index/tarago.png" alt="Tarago" />
+			<h3>Tarago</h3>
+		</a>
+		<a href="https://brianhiltontoyota.dealer.toyota.com.au//new-vehicles/yaris/">
+			<img src="//cdn.mattaki.com/toyota/static-assets/vehicles/index/yaris.png" alt="Yaris" />
+			<h3>Yaris</h3>
+		</a>
+	</div>
+	<span id="vehicleLineupPrevB"></span>
+	<span id="vehicleLineupNextB"></span>
+
+</div>
+	
+</div>
+
+
+<div class='ppSource ' >
+	
+	<div class="hpmNewsletterSubbrands">
+	<div class="newsletter">
+		<h4>Subscribe to our Newsletter</h4>
+      <form action="https://switchit.createsend.com/t/r/s/gtydhu/" method="post">
+			<fieldset>
+				<input type="text" id="gtydhu-gtydhu" class="inputText" name="cm-gtydhu-gtydhu" placeholder="Enter your email address" />
+				<input type="submit" class="inputSubmit" value="Subscribe" />
+			</fieldset>
+		</form>
+	</div>
+	<div class="subbrands">
+		<a href="/used-cars/"><img src="//cdn.mattaki.com/toyota/static-assets/homepage/subbrands/certified-advantage-small.png" width="91" height="41" alt="Toyota Certified Advantage - Premium Used Vehicles from Brian Hilton Toyota" /></a>
+		<a href="/service/"><img src="//cdn.mattaki.com/toyota/static-assets/homepage/subbrands/service-advantage-small.png" width="91" height="41" alt="Toyota Service Advantage - Capped Price Servicing from Brian Hilton Toyota" /></a>
+		<a href="/finance-and-insurance/"><img src="//cdn.mattaki.com/toyota/static-assets/homepage/subbrands/finance-advantage-small.png" width="91" height="41" alt="Toyota Finance Advantage - Flexible &amp; Low Rate at Brian Hilton Toyota" /></a>
+		<a href="/parts-and-accessories/"><img src="//cdn.mattaki.com/toyota/static-assets/homepage/subbrands/genuine-parts-small.png" width="91" height="41" alt="Toyota Genuine Parts - Factory Backed from Brian Hilton Toyota" /></a>
+	</div>
+</div>
+	
+</div>
+
+
+    </div>
+    <!-- home content end -->
+
+    
+
+<div id="footer">
+
+	
+	<div id="footerSocialWrap">
+		
+		<div id="footer_divFooterSocial" class="footerSocial">
+			<a title="Visit our YouTube Channel" class="yt" rel="nofollow" href="http://www.youtube.com/brianhiltonmg" target="_blank"></a><a title="Become a Friend on Facebook" class="fb" rel="nofollow" href="http://www.facebook.com/brianhiltonmotorgroup" target="_blank"></a>
+		</div>
+	</div>
+	
+
+
+	
+	<div id="footerLocationsWrap">
+		<div id="footerLocations">
+			<div id="footerMultiLocations">
+
+				
+						<div class="loc">
+							<h5>Gosford</h5>
+							<div class="details">
+								<p class="address">
+									<span class="address1">600 Pacific Highway</span>
+									<span class="address2">North Gosford NSW 2250</span>
+								</p>
+								<p class="numbers">
+									<span class="ph">Phone: <a href="tel:02 4328 2888" onclick="_gaq.push(['_trackEvent','Site Actions','Click to Call','02 4328 2888']);">02 4328 2888</a></span>
+									<span class="fax">Fax: 02 4329 1111</span>
+									
+								</p>
+							</div>
+							<div class="links">
+								<a id="footer_rptLocations_ctl00_hlMap" class="cta" href="/our-location/gosford/">Map</a>
+								<a id="footer_rptLocations_ctl00_hlTradingHours" class="cta" href="/enquiries/gosford/">Trading Hours</a>
+							</div>
+						</div>
+					
+						<div class="loc">
+							<h5>Wyong</h5>
+							<div class="details">
+								<p class="address">
+									<span class="address1">170 Pacific Highway</span>
+									<span class="address2">Wyong NSW 2259</span>
+								</p>
+								<p class="numbers">
+									<span class="ph">Phone: <a href="tel:02 4353 1122" onclick="_gaq.push(['_trackEvent','Site Actions','Click to Call','02 4353 1122']);">02 4353 1122</a></span>
+									<span class="fax">Fax: 02 4351 2241</span>
+									
+								</p>
+							</div>
+							<div class="links">
+								<a id="footer_rptLocations_ctl01_hlMap" class="cta" href="/our-location/wyong/">Map</a>
+								<a id="footer_rptLocations_ctl01_hlTradingHours" class="cta" href="/enquiries/wyong/">Trading Hours</a>
+							</div>
+						</div>
+					
+						<div class="loc">
+							<h5>Woy Woy</h5>
+							<div class="details">
+								<p class="address">
+									<span class="address1">1 Charlton Street</span>
+									<span class="address2">Woy Woy NSW 2256</span>
+								</p>
+								<p class="numbers">
+									<span class="ph">Phone: <a href="tel:02 4344 1455" onclick="_gaq.push(['_trackEvent','Site Actions','Click to Call','02 4344 1455']);">02 4344 1455</a></span>
+									<span class="fax">Fax: 02 4344 1448</span>
+									
+								</p>
+							</div>
+							<div class="links">
+								<a id="footer_rptLocations_ctl02_hlMap" class="cta" href="/our-location/woy-woy/">Map</a>
+								<a id="footer_rptLocations_ctl02_hlTradingHours" class="cta" href="/enquiries/woy-woy/">Trading Hours</a>
+							</div>
+						</div>
+					
+
+				<div class="footerLocationsLinks">
+					<a class='environ' href='/environmental-policy/'><i class='icon'></i><small>Brian Hilton Toyota's</small><p>Environmental Policy</p></a>
+
+				</div>
+
+			</div>
+		</div>
+	</div>
+	
+
+	
+	<div id="footerLinksWrap">
+		<div id="footerLinks">
+
+			
+					<div class="vehicleLinks">
+				
+					<ul class="linksList">
+						<li class="vehicleCat"><a id="footer_rptNewVehicleByCategoryName_ctl01_hlCat" href="/new-vehicles/">Cars</a></li>
+						
+								<li><a id="footer_rptNewVehicleByCategoryName_ctl01_rptCatVehicle_ctl00_hlModel" href="/new-vehicles/Yaris">Yaris</a></li>
+							
+								<li><a id="footer_rptNewVehicleByCategoryName_ctl01_rptCatVehicle_ctl01_hlModel" href="/new-vehicles/Corolla">Corolla</a></li>
+							
+								<li><a id="footer_rptNewVehicleByCategoryName_ctl01_rptCatVehicle_ctl02_hlModel" href="/new-vehicles/Camry">Camry</a></li>
+							
+								<li><a id="footer_rptNewVehicleByCategoryName_ctl01_rptCatVehicle_ctl03_hlModel" href="/new-vehicles/86">86</a></li>
+							
+								<li><a id="footer_rptNewVehicleByCategoryName_ctl01_rptCatVehicle_ctl04_hlModel" href="/new-vehicles/GRSupra">GR Supra</a></li>
+							
+								<li><a id="footer_rptNewVehicleByCategoryName_ctl01_rptCatVehicle_ctl05_hlModel" href="/new-vehicles/CorollaSedan">Corolla Sedan</a></li>
+							
+					</ul>
+				
+					<ul class="linksList">
+						<li class="vehicleCat"><a id="footer_rptNewVehicleByCategoryName_ctl02_hlCat" href="/new-vehicles/">Hybrids</a></li>
+						
+								<li><a id="footer_rptNewVehicleByCategoryName_ctl02_rptCatVehicle_ctl00_hlModel" href="/new-vehicles/Priusc">Prius c</a></li>
+							
+								<li><a id="footer_rptNewVehicleByCategoryName_ctl02_rptCatVehicle_ctl01_hlModel" href="/new-vehicles/Priusv">Prius v</a></li>
+							
+								<li><a id="footer_rptNewVehicleByCategoryName_ctl02_rptCatVehicle_ctl02_hlModel" href="/new-vehicles/Prius">Prius</a></li>
+							
+								<li><a id="footer_rptNewVehicleByCategoryName_ctl02_rptCatVehicle_ctl03_hlModel" href="/new-vehicles/CamryHybrid">Camry Hybrid</a></li>
+							
+								<li><a id="footer_rptNewVehicleByCategoryName_ctl02_rptCatVehicle_ctl04_hlModel" href="/new-vehicles/Corolla">Corolla Hybrid</a></li>
+							
+								<li><a id="footer_rptNewVehicleByCategoryName_ctl02_rptCatVehicle_ctl05_hlModel" href="/new-vehicles/RAV4">RAV4 Hybrid</a></li>
+							
+					</ul>
+				
+					<ul class="linksList">
+						<li class="vehicleCat"><a id="footer_rptNewVehicleByCategoryName_ctl03_hlCat" href="/new-vehicles/">SUVs & 4WDs</a></li>
+						
+								<li><a id="footer_rptNewVehicleByCategoryName_ctl03_rptCatVehicle_ctl00_hlModel" href="/new-vehicles/C-HR">C-HR</a></li>
+							
+								<li><a id="footer_rptNewVehicleByCategoryName_ctl03_rptCatVehicle_ctl01_hlModel" href="/new-vehicles/RAV4">RAV4</a></li>
+							
+								<li><a id="footer_rptNewVehicleByCategoryName_ctl03_rptCatVehicle_ctl02_hlModel" href="/new-vehicles/Kluger">Kluger</a></li>
+							
+								<li><a id="footer_rptNewVehicleByCategoryName_ctl03_rptCatVehicle_ctl03_hlModel" href="/new-vehicles/Prado">Prado</a></li>
+							
+								<li><a id="footer_rptNewVehicleByCategoryName_ctl03_rptCatVehicle_ctl04_hlModel" href="/new-vehicles/HiLux">HiLux</a></li>
+							
+								<li><a id="footer_rptNewVehicleByCategoryName_ctl03_rptCatVehicle_ctl05_hlModel" href="/new-vehicles/LandCruiser200">LandCruiser 200</a></li>
+							
+								<li><a id="footer_rptNewVehicleByCategoryName_ctl03_rptCatVehicle_ctl06_hlModel" href="/new-vehicles/Fortuner">Fortuner</a></li>
+							
+					</ul>
+				
+					<ul class="linksList">
+						<li class="vehicleCat"><a id="footer_rptNewVehicleByCategoryName_ctl04_hlCat" href="/new-vehicles/">Utes & Vans</a></li>
+						
+								<li><a id="footer_rptNewVehicleByCategoryName_ctl04_rptCatVehicle_ctl00_hlModel" href="/new-vehicles/HiLux">HiLux</a></li>
+							
+								<li><a id="footer_rptNewVehicleByCategoryName_ctl04_rptCatVehicle_ctl01_hlModel" href="/new-vehicles/LandCruiser70">LandCruiser 70</a></li>
+							
+								<li><a id="footer_rptNewVehicleByCategoryName_ctl04_rptCatVehicle_ctl02_hlModel" href="/new-vehicles/Tarago">Tarago</a></li>
+							
+								<li><a id="footer_rptNewVehicleByCategoryName_ctl04_rptCatVehicle_ctl03_hlModel" href="/new-vehicles/HiAce">HiAce</a></li>
+							
+								<li><a id="footer_rptNewVehicleByCategoryName_ctl04_rptCatVehicle_ctl04_hlModel" href="/new-vehicles/Coaster">Coaster</a></li>
+							
+					</ul>
+				
+					</div>
+				
+
+			
+
+			<div class="siteMapLinks">
+				
+						<ul class="linksList">
+							
+									<li><a id="footer_rptExpandedFooterColumns_ctl00_rptItems_ctl00_lnkItem" href="/used-cars/">Used & Demo Vehicles</a></li>
+								
+									<li><a id="footer_rptExpandedFooterColumns_ctl00_rptItems_ctl01_lnkItem" href="/service/">Service</a></li>
+								
+									<li><a id="footer_rptExpandedFooterColumns_ctl00_rptItems_ctl02_lnkItem" href="/parts-and-accessories/">Parts & Accessories</a></li>
+								
+									<li><a id="footer_rptExpandedFooterColumns_ctl00_rptItems_ctl03_lnkItem" href="/finance-and-insurance/">Finance & Insurance</a></li>
+								
+									<li><a id="footer_rptExpandedFooterColumns_ctl00_rptItems_ctl04_lnkItem" href="/fleet/">Fleet</a></li>
+								
+									<li><a id="footer_rptExpandedFooterColumns_ctl00_rptItems_ctl05_lnkItem" href="/body-and-paint/">Body & Paint</a></li>
+								
+						</ul>
+					
+						<ul class="linksList">
+							
+									<li><a id="footer_rptExpandedFooterColumns_ctl01_rptItems_ctl00_lnkItem" href="/special-offers/">Special Offers</a></li>
+								
+									<li><a id="footer_rptExpandedFooterColumns_ctl01_rptItems_ctl01_lnkItem" href="/our-location/">Our Location</a></li>
+								
+									<li><a id="footer_rptExpandedFooterColumns_ctl01_rptItems_ctl02_lnkItem" href="/enquiries/">Enquiries</a></li>
+								
+									<li><a id="footer_rptExpandedFooterColumns_ctl01_rptItems_ctl03_lnkItem" href="/news/">News</a></li>
+								
+									<li><a id="footer_rptExpandedFooterColumns_ctl01_rptItems_ctl04_lnkItem" href="/legals/">Terms of Use</a></li>
+								
+									<li><a id="footer_rptExpandedFooterColumns_ctl01_rptItems_ctl05_lnkItem" href="/privacy-policy/">Privacy Policy</a></li>
+								
+						</ul>
+					
+						<ul class="linksList">
+							
+									<li><a id="footer_rptExpandedFooterColumns_ctl02_rptItems_ctl00_lnkItem" href="/about-us/">About Us</a></li>
+								
+									<li><a id="footer_rptExpandedFooterColumns_ctl02_rptItems_ctl01_lnkItem" href="/brand-value/">Brand Value</a></li>
+								
+						</ul>
+					
+						<ul class="linksList">
+							
+									<li><a id="footer_rptExpandedFooterColumns_ctl03_rptItems_ctl00_lnkItem" href="/blog/">Blog</a></li>
+								
+									<li><a id="footer_rptExpandedFooterColumns_ctl03_rptItems_ctl01_lnkItem" href="/careers/">Careers</a></li>
+								
+									<li><a id="footer_rptExpandedFooterColumns_ctl03_rptItems_ctl02_lnkItem" href="/testimonials/">Testimonials</a></li>
+								
+									<li><a id="footer_rptExpandedFooterColumns_ctl03_rptItems_ctl03_lnkItem" href="/environmental-policy/">Environmental Policy</a></li>
+								
+									<li><a id="footer_rptExpandedFooterColumns_ctl03_rptItems_ctl04_lnkItem" href="/site-map/">Site Map</a></li>
+								
+						</ul>
+					
+			</div>
+
+		</div>
+	</div>
+	
+
+	
+	<div id="footerCreditsWrap">
+		<div id="footerCredits">
+			<img id="footerJumper" src="//cdn.mattaki.com/toyota/static-assets/jumpers/3.png" width="90" height="70" alt="Oh what a feeling!" />
+
+			
+
+			
+
+			<div id="footerCopyright">
+				<h5>Brian Hilton Toyota</h5>
+				<p>
+					<span>&copy; Brian Hilton Toyota 2019</span>
+					<span>MDL #8057 </span>
+					
+				</p>
+			</div>
+			<a id="footerSwitch" href="//www.mattaki.com/" title="Dealership Web Site &amp; Maintenance by Mattaki"></a>
+		</div>
+	</div>
+	
+
+	
+</div>
+
+	
+	
+
+	
+
+	
+	
+
+	
+
+
+    <script type="text/javascript" src="/combres.axd/siteJs/325520881/"></script>
+
+
+<script type="text/javascript">
+	   $(document).ready(function () {
+		
+	   });
+
+	function FormSubmitClicked() {
+		
+	}
+
+	function FormSubmitted(eventLabel, eventName, dealername, dealerLocation, carlineName, locationState, locationZip, marketingOptIn) {
+		utag.link ({
+			"event.Action": "Submit",
+			"event.Category": "Form",
+			"event.Label": eventLabel,
+			"event.Name": eventName,
+			"partner.InformationName": dealername,
+			"partner.InformationLocation": dealerLocation,
+			"car.CarlineName": carlineName,
+			"user.LocationState": locationState,
+			"user.LocationZip": locationZip,
+			"user.MarketingOptIn": marketingOptIn
+		});
+	}
+
+	function DownloadBrochureClicked(model) {
+		utag.link ({
+			"event.Action": "Download",
+			"event.Category": "Brochure",
+			"event.Label": "Click",
+			"event.Name": "goal_download_brochure",
+			"partner.InformationName": "Brian Hilton Toyota",
+			"car.CarlineName": model,
+		});
+	   }
+
+	function ContactNumberClicked(contactNumber) {
+		utag.link ({
+			"event.Action": "Click",
+			"event.Category": "Call",
+			"event.Label": contactNumber,
+			"event.Name": "goal_clicktocall",
+			"partner.InformationName": "Brian Hilton Toyota",
+			"partner.InformationLocation": contactNumber,
+		});
+	}
+
+	function SearchForVehiclesClicked() {
+		utag.link ({
+			"event.Action": "Click",
+			"event.Category": "Car Search",
+			"event.Label": "Search For Vehicles",
+			"event.Name": "general_Event_search",
+			"partner.InformationName": "Brian Hilton Toyota"
+		});
+	   }
+
+	function GeneralButtonClicked(buttonName) {
+		utag.link ({
+			"event.Action": "Click",
+			"event.Category": "Button",
+			"event.Label": buttonName,
+			"event.Name": "general_Event_buttonclick",
+			"partner.InformationName": "Brian Hilton Toyota"
+		});
+	   }
+
+	function TextLinkClicked(clickUrl) {
+		utag.link ({
+			"event.Action": "Click",
+			"event.Category": "TextLinkClick",
+			"event.Label": clickUrl,
+			"event.Name": "general_Event_buttonclick",
+			"partner.InformationName": "Brian Hilton Toyota"
+		});
+	}
+
+
+	window.addEventListener('load', function(){
+		$(".les_video").each(function(index){
+			if ($(this).children().length > 0){
+				$(this).attr("style","dispay:inline-block");
+			}
+		});
+	});
+</script>
+
+
+
+
+    
+
+<div id="homeTakeoverContent">
+	<div class="pp">
+		
+	</div>
+</div>
+
+<script>
+	$(window).bind("load", function () {
+
+		// homepage carousel
+		$("#heroBanners").cycle({
+			timeout: 5000,
+			loop: 10,
+			pauseOnHover: true,
+			slides: 'a.slide',
+			pager: "#heroBannersNav",
+			pagerTemplate: "<span></span>",
+			pagerActiveClass: "currentSlide",
+			swipe: true,
+			log: false
+		});
+
+		// vehicle accordion
+		var accordionLinks = null;
+		if ($('#hpmRhsVehicleAccordion h3 a').length > 0)
+			accordionLinks = $('#hpmRhsVehicleAccordion h3 a');
+
+		if (accordionLinks != null) {
+			accordionLinks.click(function () {
+				$('#hpmRhsVehicleAccordion div.category').slideUp();
+				$(this).parent("h3").next("div.category").slideDown();
+				accordionLinks.removeClass("current");
+				$(this).addClass("current");
+				return false;
+			});
+		}
+
+		// [tablet up] javascript
+		enquire.register("screen and (min-width: 581px)", {
+
+			setup: function () {
+
+				// vehicle lineup b
+				$("#vehicleLineupB").cycle({
+					fx: "carousel",
+					timeout: 0,
+					slides: "a",
+					carouselVisible: 6,
+					carouselFluid: true,
+					allowWrap: false,
+					swipe: true,
+					log: false,
+					next: "#vehicleLineupNextB",
+					prev: "#vehicleLineupPrevB"
+				});
+
+				// homepage takeover
+				function DoNotShow() {
+					var expires = new Date();
+					expires.setDate(expires.getDate() + 14);
+					document.cookie = "brian-hilton-toyota-takeover-00000000-0000-0000-0000-000000000000=true; expires=" + expires.toUTCString();
+					$(this).colorbox.close();
+				};
+
+				if ($('#heroBannersContainer').length > 0) {
+					if ("False" == "True") {
+						if (document.cookie.indexOf("brian-hilton-toyota-takeover-00000000-0000-0000-0000-000000000000=true") == -1) {
+
+							var $form = $("#homeTakeoverContent");
+
+							$.colorbox({
+								inline: true,
+								href: $form,
+								open: true,
+								className: "homeTakeover",
+								speed: 240,
+								width: "80%",
+								maxWidth: "860px",
+								onComplete: function () {
+
+									$("#cboxContent").ready(function () {
+										$("#cboxContent").append("<button id='btnDoNotShow' type='button'>Close &amp; Don&rsquo;t Show Again</button>");
+										$("#btnDoNotShow").click(function () {
+											DoNotShow();
+										});
+									});
+
+									$.colorbox.resize();
+								}
+							});
+						};
+					};
+				}
+
+			},
+			deferSetup: true
+		})
+
+		$('#aspnetForm').append($('#colorbox'));
+	});
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "url": "//www.brianhiltontoyota.com.au/",
+	
+		"sameAs": [ 
+			"http://www.facebook.com/brianhiltonmotorgroup","http://www.youtube.com/brianhiltonmg"
+		],
+	
+	"potentialAction": {
+    "@type": "SearchAction",
+    "target": "//www.brianhiltontoyota.com.au/search/?q={search_term_string}/",
+    "query-input": "required name=search_term_string"
+  }
+}
+</script>
+
+
+
+<script>    
+    
+
+	if ($("#txtKeyword").length > 0) {
+		var txtKeyword = $("#txtKeyword");
+		var vehicleType = "all";
+		  
+	    //Vehicle List
+		$('.btnSearchForVehiclesByKeyword').click(function (e) {
+			e.preventDefault();
+		    $.ajax({
+		        type: "GET",
+		        url: '/webapi/api/1.0/search-box/get-product-category-singular',
+		        data: "{}",
+		        contentType: "application/json; charset=utf-8",
+		        dataType: "json",
+		        success: function (data, status) {
+		            var SingularCleaned = data;
+		            var link = "";
+		            var param = "";
+		            var linkPrefix = "/" + vehicleType + "-" + SingularCleaned + "/search";
+
+		            link = linkPrefix;
+		            window.location = link.toLowerCase() + "/" + encodeURIComponent(txtKeyword.val().toLowerCase()) + "/";
+		            return false;
+		        }
+		    });
+
+		});
+
+		$('#txtKeyword').keydown("keypress", function (e) {
+		    $.ajax({
+		        type: "GET",
+		        url: '/webapi/api/1.0/search-box/get-product-category-singular',
+		        data: "{}",
+		        contentType: "application/json; charset=utf-8",
+		        dataType: "json",
+		        success: function (data, status) {
+		            var SingularCleaned = data;
+
+		            if (e.keyCode == 13) {
+		                var link = "";
+		                var param = "";
+		                var linkPrefix = "/" + vehicleType + "-" + SingularCleaned + "/search";
+
+		                link = linkPrefix;
+
+		                window.location = link.toLowerCase() + "/" + encodeURIComponent(txtKeyword.val().toLowerCase()) + "/";
+		                return false;
+		            }
+		        }
+		    });
+		});
+	}
+	
+    if ($("#ddlMake").length > 0 && $("#ddlModel").length > 0) {
+
+		//Get selected value
+        var ddlMake = $("#ddlMake");
+        var ddlModel = $("#ddlModel");
+		var ddlBodyType = $("#ddlBodyType");
+		var ddlBadge = $("#ddlBadge");
+		var ddlPriceFrom = $("#ddlPriceFrom");
+		var ddlPriceTo = $("#ddlPriceTo");
+		var ddlYearFrom = $("#ddlYearFrom");
+		var ddlYearTo = $("#ddlYearTo");
+		var ddlVehicleType = $("#ddlVehicleType");
+		var ddlLocation = $("#ddlLocation");
+
+		function loadModels(make, location, vehicleType) {
+
+			ddlModel.empty();
+			var locationString = "";
+			if (location != null)
+				locationString = location;
+			else
+				locationString = "";
+
+			var vehicleTypeString = "";
+			if (vehicleType != null)
+				vehicleTypeString = vehicleType;
+			else
+				vehicleTypeString = "";
+
+			$.ajax({
+				type: "GET",
+				url: "/includes/handlers/inventory.ashx",
+				data: "t=dmd&sdmk=" + encodeURIComponent(make) + "&vt=" + vehicleTypeString + "&l=" + locationString,
+				dataType: "json",
+				success: function (response) {
+					var countItem = 0;
+					var isToyotaInventoryEnable = 'True';
+					var vehicleType = getVehicleType();
+
+					ddlModel.append("<option value='' selected>Any Model</option>");
+					$.each(response, function (index, model) {
+						ddlModel.append($("<option></option>").val(model.ModelId).text(model.Title + " (" + model.Count + ")"));
+						countItem++;
+					});
+
+					if (countItem == 0 && isToyotaInventoryEnable == 'True' && vehicleType == "new") {	
+						AppendToyotaNviModels();
+					} 
+					else {
+						if (response.length == 0)
+							ddlModel.prop("disabled", true);
+						else
+							ddlModel.prop("disabled", false);
+
+						if (countItem == 1) {
+							$('#ddlModel option:eq(1)').attr('selected', 'selected');
+						}
+					}
+				}
+			});
+			return this;
+		};
+
+		function getLocation() {
+
+			if ($("#ddlLocation").length > 0) {
+				return $("#ddlLocation").val();
+			}
+			else {
+				return "";
+			}
+		}
+
+		function getVehicleType() {
+
+			if ($("#ddlVehicleType").length > 0) {
+				return $("#ddlVehicleType").val();
+			}
+			else {
+				return "";
+			}
+		}
+
+		function AppendToyotaNviModels() {
+			var toyotaNviModelLines = '86,Camry,Camry Hybrid,C-HR,Coaster,Corolla,Corolla Hybrid,Corolla Sedan,Fortuner,GR Supra,HiAce,HiLux,Kluger,LandCruiser 200,LandCruiser 70,Prado,Prius,Prius c,Prius v,RAV4,RAV4 Hybrid,Tarago,Yaris';
+			var toyotaNviModelsLineUrls = '86,camry,camry,c-hr,coaster,corolla,corolla,Corolla,fortuner,gr-supra,hiace,hilux,kluger,landcruiser-200,landcruiser-70,prado,prius,prius-c,prius-v,rav4,rav4,tarago,yaris';
+			var modelLinesArr = toyotaNviModelLines.split(',')
+			var modelLinesUrlArr = toyotaNviModelsLineUrls.split(',')
+
+			if (modelLinesArr.length == modelLinesUrlArr.length) {
+				$("#ddlModel").empty();
+				ddlModel.append("<option value='' selected>Any Model</option>");
+				for (var i = 0; i < modelLinesArr.length; i++) {
+					$("#ddlModel").append($("<option></option>").val(modelLinesUrlArr[i]).text(modelLinesArr[i]));
+				}
+			}
+		}
+
+		$(document).ready(function () {
+
+			if ($("#ddlLocation").length > 0) {
+				ddlLocation.empty();
+			}
+
+			$.ajax({
+				type: "GET",
+				url: "/includes/handlers/inventory.ashx",
+				data: "t=dl",
+				dataType: "json",
+				success: function (response) {
+
+					if ($("#ddlLocation").length > 0) {
+						var countItem = 0;
+						ddlLocation.append("<option value='' selected>Any Location</option>");
+						$.each(response, function (index, location) {
+							ddlLocation.append($("<option></option>").val(location.LocationId).text(location.Title + " (" + location.Count + ")"));
+							countItem++;
+						});
+					}
+
+					ddlVehicleType.empty();
+
+					$.ajax({
+						type: "GET",
+						url: "/includes/handlers/inventory.ashx",
+						data: "t=dvt&l=" + getLocation(),
+						dataType: "json",
+						success: function (response) {
+							var countItem = 0;
+							var isToyotaInventoryEnable = 'True';
+							var countNewStocks = 0;
+							var countDemoStocks = 7;
+
+							$.each(response, function (index, vehicleType) {
+								var typeItemText = vehicleType.Title;
+								if (isToyotaInventoryEnable == 'True') {
+									if (vehicleType.VehicleTypeId == 'used'|| (vehicleType.VehicleTypeId == 'demo' && countDemoStocks > 0) || (vehicleType.VehicleTypeId == 'new' && countNewStocks > 0)) {
+										typeItemText += " (" + vehicleType.Count + ")";
+									}									
+								} 
+								else 
+								{
+									typeItemText += " (" + vehicleType.Count + ")";
+								}
+								ddlVehicleType.append($("<option></option>").val(vehicleType.VehicleTypeId).text(typeItemText));
+								countItem++;
+							});
+
+							// add New/Demo Vehicle Types to dropdown if either is not returned by 
+							if (isToyotaInventoryEnable == 'True') {
+								if(countNewStocks == 0 && !ddlVehicleType.find("option:contains('new')").length){
+									ddlVehicleType.append($("<option></option>").val('new').text('New Cars'));
+								}
+								if(countDemoStocks == 0 && !ddlVehicleType.find("option:contains('demo')").length){
+									ddlVehicleType.append($("<option></option>").val('demo').text('Demo Cars'));
+								}
+							}
+
+
+							
+
+							ddlMake.empty();
+
+							$.ajax({
+								type: "GET",
+								url: "/includes/handlers/inventory.ashx",
+								data: "t=dmk&vt=" + getVehicleType() + "&l=" + getLocation(),
+								dataType: "json",
+								success: function (response) {
+									var countItem = 0;
+									var isToyotaInventoryEnable = 'True';
+									var countNewStocks = 0;
+									var countDemoStocks = 7;
+									var vehicleType = getVehicleType();
+
+									ddlMake.append("<option value='' selected>Any Make</option>");
+									$.each(response, function (index, make) {
+										var makeItemText = make.Title;
+										if (isToyotaInventoryEnable == 'True') {
+											if (vehicleType == "used" || (vehicleType == "new" && countNewStocks > 0) || (vehicleType == "demo" && countDemoStocks > 0)) {
+												makeItemText += " (" + make.Count + ")";
+											}
+										}	
+										else
+										{
+											makeItemText += " (" + make.Count + ")";
+										}
+										ddlMake.append($("<option></option>").val(make.MakeId).text(makeItemText));
+										countItem++;
+									});
+
+									if (countItem == 1) {
+										$('#ddlMake option:eq(1)').attr('selected', 'selected');
+									}
+
+									ddlModel.empty();
+									$.ajax({
+										type: "GET",
+										url: "/includes/handlers/inventory.ashx",
+										data: "t=dmd&sdmk=" + encodeURIComponent(ddlMake.val()) + "&vt=" + getVehicleType() + "&l=" + getLocation(),
+										dataType: "json",
+										success: function (response) {
+											var countItem = 0;
+											var isToyotaInventoryEnable = 'True';
+											var vehicleType = getVehicleType();
+
+											ddlModel.append("<option value='' selected>Any Model</option>");
+											$.each(response, function (index, model) {
+												ddlModel.append($("<option></option>").val(model.ModelId).text(model.Title + " (" + model.Count + ")"));
+												countItem++;
+											});
+
+											if (countItem == 0 && isToyotaInventoryEnable == 'True' && vehicleType == "new") {		
+												AppendToyotaNviModels();
+											} 
+											else {
+												if (response.length == 0)
+													ddlModel.prop("disabled", true);
+												else
+													ddlModel.prop("disabled", false);
+
+												if (countItem == 1) {
+													$('#ddlModel option:eq(1)').attr('selected', 'selected');
+												}
+											}
+										}
+									});
+								}
+							});
+
+							ddlBodyType.empty();
+
+							$.ajax({
+								type: "GET",
+								url: "/includes/handlers/inventory.ashx",
+								data: "t=dbt&vt=" + getVehicleType() + "&l=" + getLocation(),
+								contentType: "application/json; charset=utf-8",
+								dataType: "json",
+								success: function (response) {
+									var countItem = 0;
+									ddlBodyType.append("<option value=''>Any Body Type</option>");
+									$.each(response, function (index, bodyType) {
+										ddlBodyType.append($("<option></option>").val(bodyType.BodyTypeId).text(bodyType.Title + " (" + bodyType.Count + ")"));
+										countItem++;
+									});
+
+									if (countItem == 1) {
+										$('#ddlBodyType option:eq(1)').attr('selected', 'selected');
+									}
+								}
+							});
+						}
+					});
+				}
+			});
+
+		});
+		//Year
+		ddlYearFrom.append("<option value='' selected>From</option>");
+		ddlYearTo.append("<option value='' selected>To</option>");
+		for (i = 0; i < 10; i++) {
+			var yearValue = new Date().getFullYear() + 1 - i;
+			ddlYearFrom.append($('<option />').val(yearValue).text(yearValue));
+			ddlYearTo.append($('<option />').val(yearValue).text(yearValue));
+		}
+
+		$("#ddlMake").change(function () {
+			ddlModel.empty();
+
+			ddlModel.append("<option value='' selected>Any Model</option>");
+			if ($(this).val() != "") {
+				loadModels(ddlMake.val(), ddlLocation.val(), ddlVehicleType.val());
+			}
+		});
+
+		$("#ddlVehicleType").change(function () {
+			ddlMake.empty();
+
+			$.ajax({
+				type: "GET",
+				url: "/includes/handlers/inventory.ashx",
+				data: "t=dmk&vt=" + getVehicleType() + "&l=" + getLocation(),
+				dataType: "json",
+				success: function (response) {					
+					var countItem = 0;
+					var isToyotaInventoryEnable = 'True';
+					var manufacturerNameToyota = 'Toyota';					
+					var countNewStocks = 0;
+					var countDemoStocks = 7;
+					var vehicleType = getVehicleType();
+
+					ddlMake.append("<option value='' selected>Any Make</option>");
+					$.each(response, function (index, make) {
+						var makeItemText = make.Title;
+						if (isToyotaInventoryEnable == 'True') {
+							if (vehicleType == "used" || (vehicleType == "new" && countNewStocks > 0) || (vehicleType == "demo" && countDemoStocks > 0)) {
+								makeItemText += " (" + make.Count + ")";
+							}
+						}	
+						else
+						{
+							makeItemText += " (" + make.Count + ")";
+						}
+						ddlMake.append($("<option></option>").val(make.MakeId).text(makeItemText));
+						countItem++;
+					});
+
+					if (countItem == 1) {
+						$('#ddlMake option:eq(1)').attr('selected', 'selected');
+					}
+					
+					$('#divMake').show();
+					$('#divModel').show();
+					$('#divBody').show();
+					$('#divPrices').show();
+					$('#divYears').show();
+
+					if (isToyotaInventoryEnable == 'True') {
+						if (vehicleType == "new" && countNewStocks == 0) {
+							ddlMake.val(manufacturerNameToyota).change();
+							$('#divMake').hide();
+							$('#divModel').show();
+							$('#divBody').hide();
+							$('#divPrices').hide();
+							$('#divYears').hide();
+						} else if (vehicleType == "demo" && countDemoStocks == 0) {
+							$('#divMake').hide();
+							$('#divModel').hide();
+							$('#divBody').hide();
+							$('#divPrices').hide();
+							$('#divYears').hide();
+						}
+					} 		
+
+					ddlModel.empty();
+					$.ajax({
+						type: "GET",
+						url: "/includes/handlers/inventory.ashx",
+						data: "t=dmd&sdmk=" + encodeURIComponent(ddlMake.val()) + "&vt=" + getVehicleType() + "&l=" + getLocation(),
+						dataType: "json",
+						success: function (response) {
+							var countItem = 0;
+							var isToyotaInventoryEnable = 'True';
+							var countNewStocks = 0;
+							var countDemoStocks = 7;
+							var vehicleType = getVehicleType();
+							ddlModel.append("<option value='' selected>Any Model</option>");
+
+							$.each(response, function (index, model) {
+								var modelItemText = model.Title;
+								if (isToyotaInventoryEnable == 'True') {
+									if (vehicleType == "used" || (vehicleType == "new" && countNewStocks > 0) || (vehicleType == "demo" && countDemoStocks > 0)) {
+										modelItemText += " (" + model.Count + ")";
+									}
+								}	
+								else
+								{
+									modelItemText += " (" + model.Count + ")";
+								}
+								ddlModel.append($("<option></option>").val(model.ModelId).text(modelItemText));
+								countItem++;
+							});							
+
+							if (countItem == 0 && isToyotaInventoryEnable == 'True' && vehicleType == "new") {						
+								AppendToyotaNviModels();
+							} 
+							else {
+								if (response.length == 0)
+									ddlModel.prop("disabled", true);
+								else
+									ddlModel.prop("disabled", false);
+
+								if (countItem == 1) {
+									$('#ddlModel option:eq(1)').attr('selected', 'selected');
+								}
+							}
+						}											
+					});			
+
+					
+					
+
+				}
+			});
+
+			ddlBodyType.empty();
+
+			$.ajax({
+				type: "GET",
+				url: "/includes/handlers/inventory.ashx",
+				data: "t=dbt&vt=" + getVehicleType() + "&l=" + getLocation(),
+				contentType: "application/json; charset=utf-8",
+				dataType: "json",
+				success: function (response) {
+					var countItem = 0;
+					ddlBodyType.append("<option value=''>Any Body Type</option>");
+					$.each(response, function (index, bodyType) {
+						ddlBodyType.append($("<option></option>").val(bodyType.BodyTypeId).text(bodyType.Title + " (" + bodyType.Count + ")"));
+						countItem++;
+					});
+
+					if (countItem == 1) {
+						$('#ddlBodyType option:eq(1)').attr('selected', 'selected');
+					}
+				}
+			});
+		});
+
+		$("#ddlLocation").change(function () {
+			ddlVehicleType.empty();
+
+			$.ajax({
+				type: "GET",
+				url: "/includes/handlers/inventory.ashx",
+				data: "t=dvt&l=" + ddlLocation.val(),
+				dataType: "json",
+				success: function (response) {
+					var countItem = 0;
+
+					$.each(response, function (index, vehicleType) {
+						ddlVehicleType.append($("<option></option>").val(vehicleType.VehicleTypeId).text(vehicleType.Title + " (" + vehicleType.Count + ")"));
+						countItem++;
+					});
+
+					ddlBodyType.empty();
+
+					$.ajax({
+						type: "GET",
+						url: "/includes/handlers/inventory.ashx",
+						data: "t=dbt&vt=" + ddlVehicleType.val() + "&l=" + ddlLocation.val(),
+						contentType: "application/json; charset=utf-8",
+						dataType: "json",
+						success: function (response) {
+							var countItem = 0;
+							ddlBodyType.append("<option value=''>Any Body Type</option>");
+							$.each(response, function (index, bodyType) {
+								ddlBodyType.append($("<option></option>").val(bodyType.BodyTypeId).text(bodyType.Title + " (" + bodyType.Count + ")"));
+								countItem++;
+							});
+
+							if (countItem == 1) {
+								$('#ddlBodyType option:eq(1)').attr('selected', 'selected');
+							}
+						}
+					});
+
+					ddlMake.empty();
+
+					$.ajax({
+						type: "GET",
+						url: "/includes/handlers/inventory.ashx",
+						data: "t=dmk&vt=" + ddlVehicleType.val() + "&l=" + ddlLocation.val(),
+						dataType: "json",
+						success: function (response) {
+							var countItem = 0;
+							var isToyotaInventoryEnable = 'True';
+							var countNewStocks = 0;
+							var countDemoStocks = 7;
+							var vehicleType = getVehicleType();
+
+							ddlMake.append("<option value='' selected>Any Make</option>");
+							$.each(response, function (index, make) {
+								var makeItemText = make.Title;
+								if (isToyotaInventoryEnable == 'True') {
+									if (vehicleType == "used" || (vehicleType == "new" && countNewStocks > 0) || (vehicleType == "demo" && countDemoStocks > 0)) {
+										makeItemText += " (" + make.Count + ")";
+									}
+								}	
+								else
+								{
+									makeItemText += " (" + make.Count + ")";
+								}
+								ddlMake.append($("<option></option>").val(make.MakeId).text(makeItemText));
+								countItem++;
+							});
+
+							if (countItem == 1) {
+								$('#ddlMake option:eq(1)').attr('selected', 'selected');
+							}
+
+							ddlModel.empty();
+							$.ajax({
+								type: "GET",
+								url: "/includes/handlers/inventory.ashx",
+								data: "t=dmd&sdmk=" + encodeURIComponent(ddlMake.val()) + "&vt=" + ddlVehicleType.val() + "&l=" + ddlLocation.val(),
+								dataType: "json",
+								success: function (response) {
+									var countItem = 0;
+									var isToyotaInventoryEnable = 'True';
+									var vehicleType = getVehicleType();
+
+									ddlModel.append("<option value='' selected>Any Model</option>");
+									$.each(response, function (index, model) {
+										ddlModel.append($("<option></option>").val(model.ModelId).text(model.Title + " (" + model.Count + ")"));
+										countItem++;
+									});
+
+									if (countItem == 0 && isToyotaInventoryEnable == 'True' && vehicleType == "new") {						
+										AppendToyotaNviModels();
+									} 
+									else {
+										if (response.length == 0)
+											ddlModel.prop("disabled", true);
+										else
+											ddlModel.prop("disabled", false);
+
+										if (countItem == 1) {
+											$('#ddlModel option:eq(1)').attr('selected', 'selected');
+										}
+									}
+								}
+							});
+						}
+					});
+				}
+			});
+		});
+
+		$('.btnSearchForVehiclesByOptions').click(function (e) {
+			e.preventDefault();
+		    $.ajax({
+		        type: "GET",
+		        url: '/webapi/api/1.0/search-box/get-product-category-singular',
+		        data: "{}",
+		        contentType: "application/json; charset=utf-8",
+		        dataType: "json",
+		        success: function (data, status) {
+		        	var SingularCleaned = data;
+		           
+		            var link = "";
+		            var param = "";
+		            var vehicleType = "";
+
+
+		            if (ddlVehicleType.val() != null && ddlVehicleType.val().length > 0) {
+		                vehicleType = ddlVehicleType.val();
+		            }
+		            else {
+		                vehicleType = "all";
+		            }
+
+
+					// begin Toyota New/Demo NVI redirects
+		            var isToyotaInventoryEnable = 'True';		        	
+		        	var toyotaNVIRoot = 'https://brianhiltontoyota.dealer.toyota.com.au/';
+		        	var toyotaNVIUrlNew = 'https://brianhiltontoyota.dealer.toyota.com.au//new-vehicles/';
+		        	var toyotaNVIUrlDemo = 'https://brianhiltontoyota.dealer.toyota.com.au//demonstrators/';		        	
+					var countNewStocks = 0;
+		        	var countDemoStocks = 7;
+		        	if (isToyotaInventoryEnable == 'True') {
+		        		if (vehicleType == "demo" && countDemoStocks == 0) {
+		        			window.location = toyotaNVIUrlDemo;
+		        			return false;
+		        		} 
+		        		if (vehicleType == "new" && countNewStocks == 0) {
+		        			if (ddlModel.val() != '') {
+		        				window.location = toyotaNVIUrlNew + ddlModel.val();
+		        			} 
+		        			else {
+		        				window.location = toyotaNVIRoot;
+		        			}
+		        			return false;
+		        		} 
+					}
+		        	// end Toyota New/Demo NVI redirects
+
+
+		            var linkPrefix = "/" + vehicleType + "-" + SingularCleaned + "/";
+		            var searchType = "All";
+
+		            if (ddlMake.val() != null && ddlMake.val().length > 0) {
+		                searchType = "MakeAndModel";
+		            }
+
+		            if (ddlBodyType.val() != null && ddlBodyType.val().length > 0) {
+		                searchType = "BodyType";
+		                linkPrefix = "/" + vehicleType + "-" + SingularCleaned + "/body-type/";
+		            }
+
+		            if (searchType == "All") {
+		                linkPrefix = "/" + vehicleType + "-" + SingularCleaned + "/list";
+		            }
+
+		            if (searchType == "MakeAndModel") {
+		                link = linkPrefix;
+
+		                if (ddlMake.val() != null && ddlMake.val().length > 0) {
+		                    link = link + ddlMake.val();
+		                }
+
+		                if (ddlModel.val() != null && ddlModel.val().length > 0) {
+		                    link = link + "/" + ddlModel.val();
+		                }
+
+		                if (ddlBadge.val() != null && ddlBadge.val().length > 0) {
+		                    link = link + "/" + ddlBadge.val();
+		                }
+
+		                link = link + "/";
+		            }
+		            else if (searchType == "BodyType") {
+		                link = linkPrefix;
+
+		                link = link + ddlBodyType.val() + "/";
+		            }
+		            else {
+		                link = linkPrefix + "/";
+		            }
+
+		            var paramArray = [];
+
+		            //Add filter
+		            if (ddlPriceFrom.val() != null && ddlPriceFrom.val().length > 0) {
+		                paramArray.push("pricefrom=" + ddlPriceFrom.val());
+		            }
+
+		            if (ddlPriceTo.val() != null && ddlPriceTo.val().length > 0) {
+		                paramArray.push("priceto=" + ddlPriceTo.val());
+		            }
+
+		            if (ddlYearFrom.val() != null && ddlYearFrom.val().length > 0) {
+		                paramArray.push("yearfrom=" + ddlYearFrom.val());
+		            }
+
+		            if (ddlYearTo.val() != null && ddlYearTo.val().length > 0) {
+		                paramArray.push("yearto=" + ddlYearTo.val());
+		            }
+
+		            if (ddlLocation.val() != null && ddlLocation.val().length > 0) {
+		                paramArray.push("location=" + ddlLocation.val());
+		            }
+
+		            if (paramArray.length > 0)
+		                param = "?" + paramArray.join("&")
+
+		            window.location = link.toLowerCase() + param.toLowerCase();
+		            return false;
+
+		        },
+		        error: function (requeset, status, error) {
+		            alert("error:"+error);
+		        }
+		    });
+
+		    //var SingularCleaned = SearchScripts.GetProductCategory();
+
+            
+			
+		});
+	}
+	
+</script>
+<script type="text/javascript" src="/includes/scripts/search-script.js"></script>
+
+
+    <script>
+        $(document).ready(function () {
+                $('a[href*="/wholesale/"]').parent().each(function() {
+                        var attr = $(this).attr('class');
+                        if (typeof attr !== typeof undefined && attr !== false) {
+                                if (attr == 'actions')                        
+                                        $(this).attr ('style','display:none');
+                        }        
+                }); 
+                        
+                $('a[href*="/wholesale/"]').attr('href', '#').attr ('style','display:none');
+                
+                var quickSpecText = $('.invQuickSpecs dd').text();
+                if (quickSpecText.indexOf('Clearance Cars Lisarow') >= 0 ) {
+                        $('.department').text("Brian Hilton Clearance Cars Lisarow");
+                        $('.department').next('p').html("900 Pacific Highway<br/>Lisarow, NSW 2250<br/>Contact Brett Oakes: 0448 838 839 ");
+                        
+                        $('.invContactBox:nth-of-type(2)').hide();
+                        $('.invContactDetails').hide();
+                }
+        });        
+</script>
+
+
+</body>
+</html>
