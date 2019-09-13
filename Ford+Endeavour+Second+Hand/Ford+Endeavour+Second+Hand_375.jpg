@@ -1,0 +1,1438 @@
+<!doctype html >
+<!--[if IE 8]>    <html class="ie8" lang="en"> <![endif]-->
+<!--[if IE 9]>    <html class="ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html lang="en-US" prefix="og: http://ogp.me/ns#"> <!--<![endif]-->
+<head>
+    <title>Gaadiwaadi.com</title>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="pingback" href="https://gaadiwaadi.com/xmlrpc.php" />
+    <link rel="icon" type="image/png" href="https://gaadiwaadi.com/wp-content/uploads/2015/05/Gaadiwaadi-Favicon-76.png"><link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://gaadiwaadi.com/wp-content/uploads/2015/05/Gaadiwaadi-Favicon-76.png"/><link rel="apple-touch-icon-precomposed" sizes="120x120" href="https://gaadiwaadi.com/wp-content/uploads/2015/05/Gaadiwaadi-Favicon-120.png"/><link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://gaadiwaadi.com/wp-content/uploads/2015/05/Gaadiwaadi-Favicon-152.png"/><link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://gaadiwaadi.com/wp-content/uploads/2015/05/Gaadiwaadi-Favicon-114.png"/><link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://gaadiwaadi.com/wp-content/uploads/2015/05/Gaadiwaadi-Favicon-144.png"/>
+<!-- This site is optimized with the Yoast SEO Premium plugin v9.5 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="GaadiWaadi.com is India’s no.1 source for latest automotive news with boot loads of scoops, reviews and trivia written by motoring experts and enthusiasts"/>
+<link rel="canonical" href="https://gaadiwaadi.com/" />
+<link rel="next" href="https://gaadiwaadi.com/page/2/" />
+<link rel="publisher" href="https://plus.google.com/+Gaadiwaadidotcom"/>
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Gaadiwaadi.com" />
+<meta property="og:description" content="GaadiWaadi.com is India’s no.1 source for latest automotive news with boot loads of scoops, reviews and trivia written by motoring experts and enthusiasts" />
+<meta property="og:url" content="https://gaadiwaadi.com/" />
+<meta property="og:site_name" content="Gaadiwaadi.com" />
+<meta property="fb:app_id" content="878496185544769" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content="GaadiWaadi.com is India’s no.1 source for latest automotive news with boot loads of scoops, reviews and trivia written by motoring experts and enthusiasts" />
+<meta name="twitter:title" content="Gaadiwaadi.com" />
+<meta name="twitter:site" content="@gaadiwaadi" />
+<script type='application/ld+json'>{"@context":"https://schema.org","@type":"WebSite","@id":"https://gaadiwaadi.com/#website","url":"https://gaadiwaadi.com/","name":"Gaadiwaadi.com","potentialAction":{"@type":"SearchAction","target":"https://gaadiwaadi.com/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<script type='application/ld+json'>{"@context":"https://schema.org","@type":"Organization","url":"https://gaadiwaadi.com/","sameAs":["https://www.facebook.com/gaadiwaadi","https://www.instagram.com/gaadiwaadi","https://www.linkedin.com/company/gaadiwaadi-com","https://plus.google.com/+Gaadiwaadidotcom","https://www.youtube.com/user/gaadiwaadidotcom","https://twitter.com/gaadiwaadi"],"@id":"https://gaadiwaadi.com/#organization","name":"Gaadiwaadi.com","logo":"https://gaadiwaadi.com/wp-content/uploads/2016/02/GW-Final-logo.png"}</script>
+<meta name="msvalidate.01" content="C5B9084E1C4BE52BE474048FC3A64298" />
+<meta name="p:domain_verify" content="e4ce6648a01c28faf6ba18555c0b9801" />
+<!-- / Yoast SEO Premium plugin. -->
+
+<link rel="amphtml" href="https://gaadiwaadi.com/amp/" /><meta name="generator" content="AMP for WP 0.9.97.58"/><link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Gaadiwaadi.com &raquo; Feed" href="https://gaadiwaadi.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Gaadiwaadi.com &raquo; Comments Feed" href="https://gaadiwaadi.com/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/gaadiwaadi.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.11"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<!-- managing ads with Advanced Ads – https://wpadvancedads.com/ --><script>
+					advanced_ads_ready=function(){var fns=[],listener,doc=typeof document==="object"&&document,hack=doc&&doc.documentElement.doScroll,domContentLoaded="DOMContentLoaded",loaded=doc&&(hack?/^loaded|^c/:/^loaded|^i|^c/).test(doc.readyState);if(!loaded&&doc){listener=function(){doc.removeEventListener(domContentLoaded,listener);window.removeEventListener("load",listener);loaded=1;while(listener=fns.shift())listener()};doc.addEventListener(domContentLoaded,listener);window.addEventListener("load",listener)}return function(fn){loaded?setTimeout(fn,0):fns.push(fn)}}();
+			</script><style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='svc-next-post-css-css'  href='https://gaadiwaadi.com/wp-content/plugins/wp-next-post/inc/../assets/css/front.css?ver=4.9.11' type='text/css' media='all' />
+<link rel='stylesheet' id='vcfti-font-awesome-css-css'  href='https://gaadiwaadi.com/wp-content/plugins/wp-next-post/inc/../assets/css/font-awesome.min.css?ver=4.9.11' type='text/css' media='all' />
+<link rel='stylesheet' id='svc-next-owl-css-css'  href='https://gaadiwaadi.com/wp-content/plugins/wp-next-post/inc/../assets/css/owl.carousel.css?ver=4.9.11' type='text/css' media='all' />
+<link rel='stylesheet' id='vcfti-font-stroke-css-css'  href='https://gaadiwaadi.com/wp-content/plugins/wp-next-post/inc/../assets/css/pe-icon-7-stroke.css?ver=4.9.11' type='text/css' media='all' />
+<link rel='stylesheet' id='td-plugin-multi-purpose-css'  href='https://gaadiwaadi.com/wp-content/plugins/td-composer/td-multi-purpose/style.css?ver=3593e6198288cd1f8b28dc83dd3b8ada' type='text/css' media='all' />
+<link rel='stylesheet' id='google-fonts-style-css'  href='https://fonts.googleapis.com/css?family=Open+Sans%3A300italic%2C400%2C400italic%2C600%2C600italic%2C700%7CRoboto%3A300%2C400%2C400italic%2C500%2C500italic%2C700%2C900&#038;subset=devanagari&#038;ver=8.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='td-theme-css'  href='https://gaadiwaadi.com/wp-content/themes/Newspaper8/style.css?ver=8.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='https://gaadiwaadi.com/wp-content/plugins/jetpack/css/jetpack.css?ver=7.1.1' type='text/css' media='all' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var append_link = {"read_more":"Read more at: %link%","prepend_break":"2","use_title":"false","add_site_name":"true","site_name":"Gaadiwaadi.com","site_url":"https:\/\/gaadiwaadi.com","always_link_site":"false"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://gaadiwaadi.com/wp-content/plugins/append-link-on-copy/js/append_link.js?ver=4.9.11'></script>
+<script type='text/javascript' src='https://gaadiwaadi.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://gaadiwaadi.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='https://gaadiwaadi.com/wp-content/plugins/wp-next-post/inc/../assets/js/owl.carousel.min.js?ver=4.9.11'></script>
+<link rel='https://api.w.org/' href='https://gaadiwaadi.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://gaadiwaadi.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://gaadiwaadi.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.9.11" />
+<!-- Start Alexa Certify Javascript -->
+<script type="text/javascript">
+_atrk_opts = { atrk_acct:"faY2n1aMp410WR", domain:"gaadiwaadi.com",dynamic: true};
+(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+</script>
+<noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=faY2n1aMp410WR" style="display:none" height="1" width="1" alt="" /></noscript>
+<!-- End Alexa Certify Javascript -->  
+		<script>
+			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+			})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+			ga('create', 'UA-49260806-1', 'auto');
+			
+			ga('set', 'forceSSL', true);
+			ga('send', 'pageview');
+		</script>
+
+	  <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><script>  (adsbygoogle = window.adsbygoogle || []).push({    google_ad_client: "ca-pub-9822732038633821",    enable_page_level_ads: true  });</script> 			<style type="text/css">
+				.svc_pre_container_after .svc_next_content{display:none;}
+.svc_pre_container_after .svc_next_ref::before{border-top: 10px solid #000;}
+.svc_pre_container_after .svc_next_ref{border-top: 4px solid #000;}					.svc_next_content{ text-align:center;}
+								.svc_infinite_container.svc_next_artical_div .td-post-next-prev{display:none; !important;}
+								.svc_infinite_container.svc_next_artical_div .author-box-wrap{display:none; !important;}
+								.svc_infinite_container.svc_next_artical_div .td_block_related_posts{display:none; !important;}
+								.svc_infinite_container.svc_next_artical_div #comments{display:none; !important;}
+							</style>
+			<style type='text/css'>img#wpstats{display:none}</style>			<script>
+				window.tdwGlobal = {"adminUrl":"https:\/\/gaadiwaadi.com\/wp-admin\/","wpRestNonce":"92bd45c418","wpRestUrl":"https:\/\/gaadiwaadi.com\/wp-json\/","permalinkStructure":"\/%postname%\/"};
+			</script>
+			<!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script><![endif]-->
+    
+<!-- Schema & Structured Data For WP v1.9.4 - -->
+<script type="application/ld+json" class="saswp-schema-markup-output">
+[{"@context":"https:\/\/schema.org","@graph":[{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","@id":"https:\/\/gaadiwaadi.com\/top-menu","name":"Cars News","url":"https:\/\/gaadiwaadi.com\/cars-news\/"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","@id":"https:\/\/gaadiwaadi.com\/top-menu","name":"Bikes News","url":"https:\/\/gaadiwaadi.com\/bikes-news\/"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","@id":"https:\/\/gaadiwaadi.com\/top-menu","name":"Reviews","url":"https:\/\/gaadiwaadi.com\/reviews\/"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","@id":"https:\/\/gaadiwaadi.com\/top-menu","name":"More","url":"https:\/\/gaadiwaadi.com\/auto-industry-news\/"}]},
+
+{"@context":"https:\/\/schema.org","@type":"WebSite","@id":"https:\/\/gaadiwaadi.com#website","headline":"Gaadiwaadi.com","name":"Gaadiwaadi.com","description":"India&#039;s No.1 Blog for Car News, Bikes News, Reviews, Videos","url":"https:\/\/gaadiwaadi.com","potentialAction":{"@type":"SearchAction","target":"https:\/\/gaadiwaadi.com\/?s={search_term_string}","query-input":"required name=search_term_string"}},
+
+{"@context":"https:\/\/schema.org","@type":"BlogPosting","@id":"https:\/\/gaadiwaadi.com\/maruti-suzuki-swift-and-dzire-offered-with-huge-discounts-details-inside\/#blogposting","mainEntityOfPage":"https:\/\/gaadiwaadi.com\/maruti-suzuki-swift-and-dzire-offered-with-huge-discounts-details-inside\/","headline":"Maruti Suzuki Swift And Dzire Offered With Huge Discounts &#8211; Details Inside","description":"The diesel versions of both the Maruti Suzuki Swift and Dzire come with five-year warranty amongst other attractive offers Maruti Suzuki India Limited (MSIL) has been offering huge discounts across its entire domestic range and this month is more lucrative than ever. We informed you of the more than Rs. 1 lakh discounts available on","articleBody":"The diesel versions of both the Maruti Suzuki Swift and Dzire come with five-year warranty amongst other attractive offers\r\nMaruti Suzuki India Limited (MSIL) has been offering huge discounts across its entire domestic range and this month is more lucrative than ever. We informed you of the more than Rs. 1 lakh discounts available on the Vitara Brezza and S-Cross in September 2019 while explaining you of the offers in other entry-level models and here is two more that really catch attention.\r\n\r\nThe popular Swift hatchback and its sedan sibling, the Dzire are also offered with limited period discounts available till the end of this month on September 30. The petrol version of the country's top-selling sedan comes with Rs. 30,000 cash discount, Rs. 20,000 exchange bonus and Rs. 5,000 corporate bonus taking the total to Rs. 55,000.\r\n\r\nThe 1.3-litre diesel engine equipped variants get more attractive discounts as Rs. 30,000 cash discount is accompanied by Rs. 20,000 exchange bonus and Rs. 10,000 corporate discount along with Rs. 19,100 worth warranty taking the period to a total of five years for the new customers. Thus, the overall discount rate stands at Rs. 84,100.\r\n\r\n\r\n\r\nModels\r\nDiscounts In September 2019\r\n\r\n\r\nMaruti Suzuki Swift Petrol\r\nRs. 25,000 + Rs. 20,000 + Rs. 5,000\r\n\r\n\r\nMaruti Suzuki Swift Diesel\r\nRs. 30,000 + 5-year warranty + Rs. 20,000 + Rs. 10,000\r\n\r\n\r\nMaruti Suzuki Dzire Petrol\r\nRs. 30,000 + Rs. 20,000 + Rs. 5,000\r\n\r\n\r\nMaruti Suzuki Dzire Diesel\r\nRs. 35,000 + 5-year warranty + Rs. 20,000 + Rs. 10,000\r\n\r\n\r\n\r\nThe Swift, on the other hand, is retailed with Rs. 25,000 cash discount, Rs. 20,000 exchange bonus and Rs. 5,000 corporate offer taking the total to Rs. 50,000 for the petrol variant. Both the Swift and Dzire use the same powertrains with identical performance outputs and since Maruti Suzuki is not keen on keeping the diesel motors alive in the BSVI era commencing in April 2020, the hatchback's diesel trims are also getting big discounts.\r\n\r\nWith a cash discount of Rs. 30,000, exchange bonus of Rs. 20,000 and corporate offer of Rs. 10,000, the diesel-spec Maruti Suzuki Swift also gains Rs. 17,700 worth extended warranty of three years taking the period to a total of five years. The cumulative discount of Rs. 77,700 is highly appealing for the Swift enthusiasts.\r\n\r\n\r\n\r\nThe hatchback is currently priced between Rs. 5.14 lakh and Rs. 8.89 lakh (ex-showroom) while the sedan costs from Rs. 5.82 lakh for the base LXi petrol and goes all the way up to Rs. 9.57 lakh for the range-topping ZDi Plus AMT (both prices, ex-showroom).","keywords":"","name":"Maruti Suzuki Swift And Dzire Offered With Huge Discounts &#8211; Details Inside","url":"https:\/\/gaadiwaadi.com\/maruti-suzuki-swift-and-dzire-offered-with-huge-discounts-details-inside\/","datePublished":"2019-09-06T20:52:17Z","dateModified":"2019-09-06T20:52:17Z","author":{"@type":"Person","name":"Surendhar M","description":"An ardent motoring and motorsport enthusiast with huge devotion towards writing. As a Mechanical Engineer by education and Assistant Editor of GaadiWaadi, I rant about anything that has appetite for speed. I idolize Ayrton Senna and as the great man once said I thrive to be competitive in whatever environment that I\u2019m being put in and persevere to be the best at what I do with passion and commitment.","image":{"@type":"ImageObject","url":"https:\/\/secure.gravatar.com\/avatar\/908c0f631b4146da761953829e7ec2f5?s=96&d=mm&r=g","height":96,"width":96}},"publisher":{"@type":"Organization","name":"GaadiWaadi.com","logo":{"@type":"ImageObject","url":"https:\/\/gaadiwaadi.com\/wp-content\/uploads\/2018\/06\/GW-logo.png","width":"300","height":"89"}},"speakable":{"@type":"SpeakableSpecification","xpath":["\/html\/head\/title","\/html\/head\/meta[@name='description']\/@content"]},"image":[{"@type":"ImageObject","@id":"https:\/\/gaadiwaadi.com\/maruti-suzuki-swift-and-dzire-offered-with-huge-discounts-details-inside\/#primaryimage","url":"https:\/\/gaadiwaadi.com\/wp-content\/uploads\/2019\/09\/maruti-suzuki-dzire-discount-september-2019.jpg","width":"1200","height":"680"},{"@type":"ImageObject","url":"https:\/\/gaadiwaadi.com\/wp-content\/uploads\/2019\/09\/maruti-suzuki-dzire-discount-september-2019-1021x579.jpg","width":"696","height":"395"},{"@type":"ImageObject","url":"https:\/\/gaadiwaadi.com\/wp-content\/uploads\/2019\/09\/maruti-suzuki-dzire-discount-september-2019-640x363.jpg","width":"640","height":"363"},{"@type":"ImageObject","url":"https:\/\/gaadiwaadi.com\/wp-content\/uploads\/2019\/09\/maruti-suzuki-dzire-discount-september-2019-100x57.jpg","width":"100","height":"57"},{"@type":"ImageObject","url":"https:\/\/gaadiwaadi.com\/wp-content\/uploads\/2019\/09\/maruti-suzuki-swift-discount-september-2019-1021x579.jpg","width":"1021","height":"579"}]},
+
+{"@context":"https:\/\/schema.org","@type":"NewsArticle","@id":"https:\/\/gaadiwaadi.com\/maruti-suzuki-swift-and-dzire-offered-with-huge-discounts-details-inside\/#newsarticle","url":"https:\/\/gaadiwaadi.com\/maruti-suzuki-swift-and-dzire-offered-with-huge-discounts-details-inside\/","headline":"Maruti Suzuki Swift And Dzire Offered With Huge Discounts &#8211; Details Inside","mainEntityOfPage":"https:\/\/gaadiwaadi.com\/maruti-suzuki-swift-and-dzire-offered-with-huge-discounts-details-inside\/","datePublished":"2019-09-06T20:52:17Z","dateModified":"2019-09-06T20:52:17Z","description":"The diesel versions of both the Maruti Suzuki Swift and Dzire come with five-year warranty amongst other attractive offers Maruti Suzuki India Limited (MSIL) has been offering huge discounts across its entire domestic range and this month is more lucrative than ever. We informed you of the more than Rs. 1 lakh discounts available on","articleSection":"Maruti Suzuki","articleBody":"The diesel versions of both the Maruti Suzuki Swift and Dzire come with five-year warranty amongst other attractive offers\r\nMaruti Suzuki India Limited (MSIL) has been offering huge discounts across its entire domestic range and this month is more lucrative than ever. We informed you of the more than Rs. 1 lakh discounts available on the Vitara Brezza and S-Cross in September 2019 while explaining you of the offers in other entry-level models and here is two more that really catch attention.\r\n\r\nThe popular Swift hatchback and its sedan sibling, the Dzire are also offered with limited period discounts available till the end of this month on September 30. The petrol version of the country's top-selling sedan comes with Rs. 30,000 cash discount, Rs. 20,000 exchange bonus and Rs. 5,000 corporate bonus taking the total to Rs. 55,000.\r\n\r\nThe 1.3-litre diesel engine equipped variants get more attractive discounts as Rs. 30,000 cash discount is accompanied by Rs. 20,000 exchange bonus and Rs. 10,000 corporate discount along with Rs. 19,100 worth warranty taking the period to a total of five years for the new customers. Thus, the overall discount rate stands at Rs. 84,100.\r\n\r\n\r\n\r\nModels\r\nDiscounts In September 2019\r\n\r\n\r\nMaruti Suzuki Swift Petrol\r\nRs. 25,000 + Rs. 20,000 + Rs. 5,000\r\n\r\n\r\nMaruti Suzuki Swift Diesel\r\nRs. 30,000 + 5-year warranty + Rs. 20,000 + Rs. 10,000\r\n\r\n\r\nMaruti Suzuki Dzire Petrol\r\nRs. 30,000 + Rs. 20,000 + Rs. 5,000\r\n\r\n\r\nMaruti Suzuki Dzire Diesel\r\nRs. 35,000 + 5-year warranty + Rs. 20,000 + Rs. 10,000\r\n\r\n\r\n\r\nThe Swift, on the other hand, is retailed with Rs. 25,000 cash discount, Rs. 20,000 exchange bonus and Rs. 5,000 corporate offer taking the total to Rs. 50,000 for the petrol variant. Both the Swift and Dzire use the same powertrains with identical performance outputs and since Maruti Suzuki is not keen on keeping the diesel motors alive in the BSVI era commencing in April 2020, the hatchback's diesel trims are also getting big discounts.\r\n\r\nWith a cash discount of Rs. 30,000, exchange bonus of Rs. 20,000 and corporate offer of Rs. 10,000, the diesel-spec Maruti Suzuki Swift also gains Rs. 17,700 worth extended warranty of three years taking the period to a total of five years. The cumulative discount of Rs. 77,700 is highly appealing for the Swift enthusiasts.\r\n\r\n\r\n\r\nThe hatchback is currently priced between Rs. 5.14 lakh and Rs. 8.89 lakh (ex-showroom) while the sedan costs from Rs. 5.82 lakh for the base LXi petrol and goes all the way up to Rs. 9.57 lakh for the range-topping ZDi Plus AMT (both prices, ex-showroom).","keywords":"","name":"Maruti Suzuki Swift And Dzire Offered With Huge Discounts &#8211; Details Inside","thumbnailUrl":"https:\/\/gaadiwaadi.com\/wp-content\/uploads\/2019\/09\/maruti-suzuki-dzire-discount-september-2019.jpg","wordCount":"412","timeRequired":"109","mainEntity":{"@type":"WebPage","@id":"https:\/\/gaadiwaadi.com\/maruti-suzuki-swift-and-dzire-offered-with-huge-discounts-details-inside\/"},"author":{"@type":"Person","name":"Surendhar M","description":"An ardent motoring and motorsport enthusiast with huge devotion towards writing. As a Mechanical Engineer by education and Assistant Editor of GaadiWaadi, I rant about anything that has appetite for speed. I idolize Ayrton Senna and as the great man once said I thrive to be competitive in whatever environment that I\u2019m being put in and persevere to be the best at what I do with passion and commitment.","image":{"@type":"ImageObject","url":"https:\/\/secure.gravatar.com\/avatar\/908c0f631b4146da761953829e7ec2f5?s=96&d=mm&r=g","height":96,"width":96}},"publisher":{"@type":"Organization","name":"GaadiWaadi.com","logo":{"@type":"ImageObject","url":"https:\/\/gaadiwaadi.com\/wp-content\/uploads\/2018\/06\/GW-logo.png","width":"300","height":"89"}},"image":[{"@type":"ImageObject","@id":"https:\/\/gaadiwaadi.com\/maruti-suzuki-swift-and-dzire-offered-with-huge-discounts-details-inside\/#primaryimage","url":"https:\/\/gaadiwaadi.com\/wp-content\/uploads\/2019\/09\/maruti-suzuki-dzire-discount-september-2019.jpg","width":"1200","height":"680"},{"@type":"ImageObject","url":"https:\/\/gaadiwaadi.com\/wp-content\/uploads\/2019\/09\/maruti-suzuki-dzire-discount-september-2019-1021x579.jpg","width":"696","height":"395"},{"@type":"ImageObject","url":"https:\/\/gaadiwaadi.com\/wp-content\/uploads\/2019\/09\/maruti-suzuki-dzire-discount-september-2019-640x363.jpg","width":"640","height":"363"},{"@type":"ImageObject","url":"https:\/\/gaadiwaadi.com\/wp-content\/uploads\/2019\/09\/maruti-suzuki-dzire-discount-september-2019-100x57.jpg","width":"100","height":"57"},{"@type":"ImageObject","url":"https:\/\/gaadiwaadi.com\/wp-content\/uploads\/2019\/09\/maruti-suzuki-swift-discount-september-2019-1021x579.jpg","width":"1021","height":"579"}]},
+
+{"@context":"https:\/\/schema.org","@type":"Organization","@id":"https:\/\/gaadiwaadi.com#Organization","name":"GaadiWaadi.com","url":"https:\/\/gaadiwaadi.com\/","sameAs":[["http:\/\/facebook.com\/gaadiwaaditimes"],["https:\/\/twitter.com\/gaadiwaadi"],["https:\/\/www.instagram.com\/gaadiwaadi"],["https:\/\/www.youtube.com\/channel\/UCuQpcZjy4i6IUy88kvkVd2A"]],"logo":{"@type":"ImageObject","url":"https:\/\/gaadiwaadi.com\/wp-content\/uploads\/2018\/06\/GW-logo.png","width":"300","height":"89"},"contactPoint":{"@type":"ContactPoint","contactType":"customer support","telephone":"+919999454677","url":""}}]
+</script>
+
+
+<!-- JS generated by theme -->
+
+<script>
+    
+    
+
+	    var tdBlocksArray = []; //here we store all the items for the current page
+
+	    //td_block class - each ajax block uses a object of this class for requests
+	    function tdBlock() {
+		    this.id = '';
+		    this.block_type = 1; //block type id (1-234 etc)
+		    this.atts = '';
+		    this.td_column_number = '';
+		    this.td_current_page = 1; //
+		    this.post_count = 0; //from wp
+		    this.found_posts = 0; //from wp
+		    this.max_num_pages = 0; //from wp
+		    this.td_filter_value = ''; //current live filter value
+		    this.is_ajax_running = false;
+		    this.td_user_action = ''; // load more or infinite loader (used by the animation)
+		    this.header_color = '';
+		    this.ajax_pagination_infinite_stop = ''; //show load more at page x
+	    }
+
+
+        // td_js_generator - mini detector
+        (function(){
+            var htmlTag = document.getElementsByTagName("html")[0];
+
+	        if ( navigator.userAgent.indexOf("MSIE 10.0") > -1 ) {
+                htmlTag.className += ' ie10';
+            }
+
+            if ( !!navigator.userAgent.match(/Trident.*rv\:11\./) ) {
+                htmlTag.className += ' ie11';
+            }
+
+	        if ( navigator.userAgent.indexOf("Edge") > -1 ) {
+                htmlTag.className += ' ieEdge';
+            }
+
+            if ( /(iPad|iPhone|iPod)/g.test(navigator.userAgent) ) {
+                htmlTag.className += ' td-md-is-ios';
+            }
+
+            var user_agent = navigator.userAgent.toLowerCase();
+            if ( user_agent.indexOf("android") > -1 ) {
+                htmlTag.className += ' td-md-is-android';
+            }
+
+            if ( -1 !== navigator.userAgent.indexOf('Mac OS X')  ) {
+                htmlTag.className += ' td-md-is-os-x';
+            }
+
+            if ( /chrom(e|ium)/.test(navigator.userAgent.toLowerCase()) ) {
+               htmlTag.className += ' td-md-is-chrome';
+            }
+
+            if ( -1 !== navigator.userAgent.indexOf('Firefox') ) {
+                htmlTag.className += ' td-md-is-firefox';
+            }
+
+            if ( -1 !== navigator.userAgent.indexOf('Safari') && -1 === navigator.userAgent.indexOf('Chrome') ) {
+                htmlTag.className += ' td-md-is-safari';
+            }
+
+            if( -1 !== navigator.userAgent.indexOf('IEMobile') ){
+                htmlTag.className += ' td-md-is-iemobile';
+            }
+
+        })();
+
+
+
+
+        var tdLocalCache = {};
+
+        ( function () {
+            "use strict";
+
+            tdLocalCache = {
+                data: {},
+                remove: function (resource_id) {
+                    delete tdLocalCache.data[resource_id];
+                },
+                exist: function (resource_id) {
+                    return tdLocalCache.data.hasOwnProperty(resource_id) && tdLocalCache.data[resource_id] !== null;
+                },
+                get: function (resource_id) {
+                    return tdLocalCache.data[resource_id];
+                },
+                set: function (resource_id, cachedData) {
+                    tdLocalCache.remove(resource_id);
+                    tdLocalCache.data[resource_id] = cachedData;
+                }
+            };
+        })();
+
+    
+    
+var td_viewport_interval_list=[{"limitBottom":767,"sidebarWidth":228},{"limitBottom":1018,"sidebarWidth":300},{"limitBottom":1140,"sidebarWidth":324}];
+var td_animation_stack_effect="type0";
+var tds_animation_stack=true;
+var td_animation_stack_specific_selectors=".entry-thumb, img";
+var td_animation_stack_general_selectors=".td-animation-stack img, .td-animation-stack .entry-thumb, .post img";
+var tds_general_modal_image="yes";
+var td_ajax_url="https:\/\/gaadiwaadi.com\/wp-admin\/admin-ajax.php?td_theme_name=Newspaper&v=8.8.2";
+var td_get_template_directory_uri="https:\/\/gaadiwaadi.com\/wp-content\/themes\/Newspaper8";
+var tds_snap_menu="";
+var tds_logo_on_sticky="";
+var tds_header_style="tdm_header_style_1";
+var td_please_wait="Please wait...";
+var td_email_user_pass_incorrect="User or password incorrect!";
+var td_email_user_incorrect="Email or username incorrect!";
+var td_email_incorrect="Email incorrect!";
+var tds_more_articles_on_post_enable="";
+var tds_more_articles_on_post_time_to_wait="1";
+var tds_more_articles_on_post_pages_distance_from_top=1300;
+var tds_theme_color_site_wide="#4db2ec";
+var tds_smart_sidebar="enabled";
+var tdThemeName="Newspaper";
+var td_magnific_popup_translation_tPrev="Previous (Left arrow key)";
+var td_magnific_popup_translation_tNext="Next (Right arrow key)";
+var td_magnific_popup_translation_tCounter="%curr% of %total%";
+var td_magnific_popup_translation_ajax_tError="The content from %url% could not be loaded.";
+var td_magnific_popup_translation_image_tError="The image #%curr% could not be loaded.";
+var tdDateNamesI18n={"month_names":["January","February","March","April","May","June","July","August","September","October","November","December"],"month_names_short":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"day_names":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"day_names_short":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"]};
+var td_ad_background_click_link="";
+var td_ad_background_click_target="_blank";
+</script>
+
+
+<!-- Header style compiled by theme -->
+
+<style>
+    
+.td-header-wrap .td-header-sp-top-widget .td-icon-font,
+    .td-header-style-7 .td-header-top-menu .td-social-icon-wrap .td-icon-font {
+        color: #7f7f7f;
+    }
+
+    
+    .td-header-wrap .td-header-menu-wrap-full,
+    .td-header-menu-wrap.td-affix,
+    .td-header-style-3 .td-header-main-menu,
+    .td-header-style-3 .td-affix .td-header-main-menu,
+    .td-header-style-4 .td-header-main-menu,
+    .td-header-style-4 .td-affix .td-header-main-menu,
+    .td-header-style-8 .td-header-menu-wrap.td-affix,
+    .td-header-style-8 .td-header-top-menu-full {
+		background-color: #f4f4f4;
+    }
+
+
+    .td-boxed-layout .td-header-style-3 .td-header-menu-wrap,
+    .td-boxed-layout .td-header-style-4 .td-header-menu-wrap,
+    .td-header-style-3 .td_stretch_content .td-header-menu-wrap,
+    .td-header-style-4 .td_stretch_content .td-header-menu-wrap {
+    	background-color: #f4f4f4 !important;
+    }
+
+
+    @media (min-width: 1019px) {
+        .td-header-style-1 .td-header-sp-recs,
+        .td-header-style-1 .td-header-sp-logo {
+            margin-bottom: 28px;
+        }
+    }
+
+    @media (min-width: 768px) and (max-width: 1018px) {
+        .td-header-style-1 .td-header-sp-recs,
+        .td-header-style-1 .td-header-sp-logo {
+            margin-bottom: 14px;
+        }
+    }
+
+    .td-header-style-7 .td-header-top-menu {
+        border-bottom: none;
+    }
+    
+    
+    
+    .td-banner-wrap-full,
+    .td-header-style-11 .td-logo-wrap-full {
+        background-color: #ffffff;
+    }
+
+    .td-header-style-11 .td-logo-wrap-full {
+        border-bottom: 0;
+    }
+
+    @media (min-width: 1019px) {
+        .td-header-style-2 .td-header-sp-recs,
+        .td-header-style-5 .td-a-rec-id-header > div,
+        .td-header-style-5 .td-g-rec-id-header > .adsbygoogle,
+        .td-header-style-6 .td-a-rec-id-header > div,
+        .td-header-style-6 .td-g-rec-id-header > .adsbygoogle,
+        .td-header-style-7 .td-a-rec-id-header > div,
+        .td-header-style-7 .td-g-rec-id-header > .adsbygoogle,
+        .td-header-style-8 .td-a-rec-id-header > div,
+        .td-header-style-8 .td-g-rec-id-header > .adsbygoogle,
+        .td-header-style-12 .td-a-rec-id-header > div,
+        .td-header-style-12 .td-g-rec-id-header > .adsbygoogle {
+            margin-bottom: 24px !important;
+        }
+    }
+
+    @media (min-width: 768px) and (max-width: 1018px) {
+        .td-header-style-2 .td-header-sp-recs,
+        .td-header-style-5 .td-a-rec-id-header > div,
+        .td-header-style-5 .td-g-rec-id-header > .adsbygoogle,
+        .td-header-style-6 .td-a-rec-id-header > div,
+        .td-header-style-6 .td-g-rec-id-header > .adsbygoogle,
+        .td-header-style-7 .td-a-rec-id-header > div,
+        .td-header-style-7 .td-g-rec-id-header > .adsbygoogle,
+        .td-header-style-8 .td-a-rec-id-header > div,
+        .td-header-style-8 .td-g-rec-id-header > .adsbygoogle,
+        .td-header-style-12 .td-a-rec-id-header > div,
+        .td-header-style-12 .td-g-rec-id-header > .adsbygoogle {
+            margin-bottom: 14px !important;
+        }
+    }
+
+     
+    .td-footer-wrapper,
+    .td-footer-wrapper .td_block_template_7 .td-block-title > *,
+    .td-footer-wrapper .td_block_template_17 .td-block-title,
+    .td-footer-wrapper .td-block-title-wrap .td-wrapper-pulldown-filter {
+        background-color: #d6d6d6;
+    }
+
+    
+    .td-footer-wrapper,
+    .td-footer-wrapper a,
+    .td-footer-wrapper .block-title a,
+    .td-footer-wrapper .block-title span,
+    .td-footer-wrapper .block-title label,
+    .td-footer-wrapper .td-excerpt,
+    .td-footer-wrapper .td-post-author-name span,
+    .td-footer-wrapper .td-post-date,
+    .td-footer-wrapper .td-social-style3 .td_social_type a,
+    .td-footer-wrapper .td-social-style3,
+    .td-footer-wrapper .td-social-style4 .td_social_type a,
+    .td-footer-wrapper .td-social-style4,
+    .td-footer-wrapper .td-social-style9,
+    .td-footer-wrapper .td-social-style10,
+    .td-footer-wrapper .td-social-style2 .td_social_type a,
+    .td-footer-wrapper .td-social-style8 .td_social_type a,
+    .td-footer-wrapper .td-social-style2 .td_social_type,
+    .td-footer-wrapper .td-social-style8 .td_social_type,
+    .td-footer-template-13 .td-social-name,
+    .td-footer-wrapper .td_block_template_7 .td-block-title > * {
+        color: #3d3d3d;
+    }
+
+    .td-footer-wrapper .widget_calendar th,
+    .td-footer-wrapper .widget_calendar td,
+    .td-footer-wrapper .td-social-style2 .td_social_type .td-social-box,
+    .td-footer-wrapper .td-social-style8 .td_social_type .td-social-box,
+    .td-social-style-2 .td-icon-font:after {
+        border-color: #3d3d3d;
+    }
+
+    .td-footer-wrapper .td-module-comments a,
+    .td-footer-wrapper .td-post-category,
+    .td-footer-wrapper .td-slide-meta .td-post-author-name span,
+    .td-footer-wrapper .td-slide-meta .td-post-date {
+        color: #fff;
+    }
+
+    
+    .td-footer-bottom-full .td-container::before {
+        background-color: rgba(61, 61, 61, 0.1);
+    }
+
+    
+    .td-sub-footer-container,
+    .td-subfooter-menu li a {
+        color: #d1d1d1;
+    }
+
+    
+    .post blockquote p,
+    .page blockquote p {
+    	color: #769cbf;
+    }
+    .post .td_quote_box,
+    .page .td_quote_box {
+        border-color: #769cbf;
+    }
+
+
+    
+    .td-page-content p,
+    .td-page-content li,
+    .td-page-content .td_block_text_with_title,
+    .woocommerce-page .page-description > p,
+    .wpb_text_column p {
+    	font-size:17px;
+	
+    }
+</style>
+
+<link rel="icon" href="https://gaadiwaadi.com/wp-content/uploads/2015/05/Gaadiwaadi-Favicon-152-100x100.png" sizes="32x32" />
+<link rel="icon" href="https://gaadiwaadi.com/wp-content/uploads/2015/05/Gaadiwaadi-Favicon-152.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://gaadiwaadi.com/wp-content/uploads/2015/05/Gaadiwaadi-Favicon-152.png" />
+<meta name="msapplication-TileImage" content="https://gaadiwaadi.com/wp-content/uploads/2015/05/Gaadiwaadi-Favicon-152.png" />
+		<style type="text/css" id="wp-custom-css">
+			.td-container, .tdc-row {
+	width: 860px;
+}
+body.td-animation-stack-type0 .td-animation-stack .entry-thumb, body.td-animation-stack-type0 .post img {
+    opacity: 1 !important;
+}
+@media(max-width:920px){
+.td-container, .tdc-row {
+	width: 100% !important;
+	padding: 0px 15px;
+}
+}		</style>
+	
+<!-- Button style compiled by theme -->
+
+<style>
+    
+</style>
+
+	<style id="tdw-css-placeholder"></style></head>
+
+<body class="home global-block-template-1 td-animation-stack-type0 td-full-layout" itemscope="itemscope" itemtype="https://schema.org/WebPage">
+
+        <div class="td-scroll-up"><i class="td-icon-menu-up"></i></div>
+    
+    <div class="td-menu-background"></div>
+<div id="td-mobile-nav">
+    <div class="td-mobile-container">
+        <!-- mobile menu top section -->
+        <div class="td-menu-socials-wrap">
+            <!-- socials -->
+            <div class="td-menu-socials">
+                
+        <span class="td-social-icon-wrap">
+            <a target="_blank" href="http://facebook.com/gaadiwaaditimes" title="Facebook">
+                <i class="td-icon-font td-icon-facebook"></i>
+            </a>
+        </span>
+        <span class="td-social-icon-wrap">
+            <a target="_blank" href="https://plus.google.com/+Gaadiwaadidotcom" title="Google+">
+                <i class="td-icon-font td-icon-googleplus"></i>
+            </a>
+        </span>
+        <span class="td-social-icon-wrap">
+            <a target="_blank" href="https://www.instagram.com/gaadiwaadi" title="Instagram">
+                <i class="td-icon-font td-icon-instagram"></i>
+            </a>
+        </span>
+        <span class="td-social-icon-wrap">
+            <a target="_blank" href="https://twitter.com/gaadiwaadi" title="Twitter">
+                <i class="td-icon-font td-icon-twitter"></i>
+            </a>
+        </span>
+        <span class="td-social-icon-wrap">
+            <a target="_blank" href="https://www.youtube.com/gaadiwaadidotcom" title="Youtube">
+                <i class="td-icon-font td-icon-youtube"></i>
+            </a>
+        </span>            </div>
+            <!-- close button -->
+            <div class="td-mobile-close">
+                <a href="#"><i class="td-icon-close-mobile"></i></a>
+            </div>
+        </div>
+
+        <!-- login section -->
+        
+        <!-- menu section -->
+        <div class="td-mobile-content">
+            <div class="menu-main-container"><ul id="menu-main" class="td-mobile-main-menu"><li id="menu-item-14906" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-first menu-item-has-children menu-item-14906"><a href="https://gaadiwaadi.com/cars-news/">Cars News<i class="td-icon-menu-right td-element-after"></i></a>
+<ul class="sub-menu">
+	<li id="menu-item-0" class="menu-item-0"><a href="https://gaadiwaadi.com/cars-news/aston-martin/">Aston Martin</a></li>
+	<li class="menu-item-0"><a href="https://gaadiwaadi.com/cars-news/audi/">Audi</a></li>
+	<li class="menu-item-0"><a href="https://gaadiwaadi.com/cars-news/bentley/">Bentley</a></li>
+	<li class="menu-item-0"><a href="https://gaadiwaadi.com/cars-news/bmw/">BMW</a></li>
+	<li class="menu-item-0"><a href="https://gaadiwaadi.com/cars-news/bmw/mini/">Mini</a></li>
+	<li class="menu-item-0"><a href="https://gaadiwaadi.com/cars-news/bugatti/">Bugatti</a></li>
+	<li class="menu-item-0"><a href="https://gaadiwaadi.com/cars-news/chevrolet/">Chevrolet</a></li>
+	<li class="menu-item-0"><a href="https://gaadiwaadi.com/cars-news/chevrolet/blazer-suv/">Blazer SUV</a></li>
+	<li class="menu-item-0"><a href="https://gaadiwaadi.com/cars-news/chevrolet/chevrolet-cruze/">Chevrolet Cruze</a></li>
+	<li class="menu-item-0"><a href="https://gaadiwaadi.com/cars-news/chevrolet/chevrolet-sail/">Chevrolet Sail</a></li>
+	<li class="menu-item-0"><a href="https://gaadiwaadi.com/cars-news/citroen-cars-news/">Citroen</a></li>
+	<li class="menu-item-0"><a href="https://gaadiwaadi.com/cars-news/datsun/">Datsun</a></li>
+	<li class="menu-item-0"><a href="https://gaadiwaadi.com/cars-news/datsun/redigo/">RediGo</a></li>
+	<li class="menu-item-0"><a href="https://gaadiwaadi.com/cars-news/dc-avanti/">DC Avanti</a></li>
+	<li class="menu-item-0"><a href="https://gaadiwaadi.com/cars-news/ferrari/">Ferrari</a></li>
+	<li class="menu-item-0"><a href="https://gaadiwaadi.com/cars-news/fiat/">Fiat</a></li>
+	<li class="menu-item-0"><a href="https://gaadiwaadi.com/cars-news/ford/">Ford</a></li>
+	<li class="menu-item-0"><a href="https://gaadiwaadi.com/cars-news/ford/ecosport/">Ecosport</a></li>
+	<li class="menu-item-0"><a href="https://gaadiwaadi.com/cars-news/ford/ford-endeavour/">Ford Endeavour</a></li>
+	<li class="menu-item-0"><a href="https://gaadiwaadi.com/cars-news/ford/ford-figo/">Ford Figo</a></li>
+	<li class="menu-item-0"><a href="https://gaadiwaadi.com/cars-news/ford/ford-figo-aspire/">Ford Figo Aspire</a></li>
+	<li class="menu-item-0"><a href="https://gaadiwaadi.com/cars-news/honda-cars/">Honda</a></li>
+	<li class="menu-item-0"><a href="https://gaadiwaadi.com/cars-news/honda-cars/br-v/">BR-V</a></li>
+	<li class="menu-item-0"><a href="https://gaadiwaadi.com/cars-news/honda-cars/brio/">Brio</a></li>
+	<li class="menu-item-0"><a href="https://gaadiwaadi.com/cars-news/honda-cars/honda-accord/">Honda Accord</a></li>
+	<li class="menu-item-0"><a href="https://gaadiwaadi.com/cars-news/honda-cars/honda-amaze/">Honda Amaze</a></li>
+	<li class="menu-item-0"><a href="https://gaadiwaadi.com/cars-news/honda-cars/honda-city/">Honda City</a></li>
+	<li class="menu-item-0"><a href="https://gaadiwaadi.com/cars-news/honda-cars/honda-civic/">Honda Civic</a></li>
+	<li class="menu-item-0"><a href="https://gaadiwaadi.com/cars-news/honda-cars/honda-jazz/">Honda Jazz</a></li>
+	<li class="menu-item-0"><a href="https://gaadiwaadi.com/cars-news/hyundai/">Hyundai</a></li>
+</ul>
+</li>
+<li id="menu-item-14907" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-14907"><a href="https://gaadiwaadi.com/bikes-news/">Bikes News<i class="td-icon-menu-right td-element-after"></i></a>
+<ul class="sub-menu">
+	<li class="menu-item-0"><a href="https://gaadiwaadi.com/bikes-news/2016-intermot/">2016 Intermot</a></li>
+	<li class="menu-item-0"><a href="https://gaadiwaadi.com/bikes-news/bajaj/">Bajaj</a></li>
+	<li class="menu-item-0"><a href="https://gaadiwaadi.com/bikes-news/bajaj/avenger/">Avenger</a></li>
+	<li class="menu-item-0"><a href="https://gaadiwaadi.com/bikes-news/bajaj/pulsar/">Pulsar</a></li>
+	<li class="menu-item-0"><a href="https://gaadiwaadi.com/bikes-news/bmw-motorrad-bikes/">BMW Motorrad</a></li>
+	<li class="menu-item-0"><a href="https://gaadiwaadi.com/bikes-news/dsk-benelli/">DSK Benelli</a></li>
+	<li class="menu-item-0"><a href="https://gaadiwaadi.com/bikes-news/dsk-hyosung/">DSK Hyosung</a></li>
+	<li class="menu-item-0"><a href="https://gaadiwaadi.com/bikes-news/ducati/">Ducati</a></li>
+	<li class="menu-item-0"><a href="https://gaadiwaadi.com/bikes-news/eicma/">EICMA</a></li>
+	<li class="menu-item-0"><a href="https://gaadiwaadi.com/bikes-news/harley-davidson/">Harley Davidson</a></li>
+	<li class="menu-item-0"><a href="https://gaadiwaadi.com/bikes-news/hero-motocorp/">Hero MotoCorp</a></li>
+	<li class="menu-item-0"><a href="https://gaadiwaadi.com/bikes-news/honda-2w/">Honda 2W</a></li>
+	<li class="menu-item-0"><a href="https://gaadiwaadi.com/bikes-news/honda-2w/cb-hornet-160r/">CB Hornet 160R</a></li>
+	<li class="menu-item-0"><a href="https://gaadiwaadi.com/bikes-news/honda-2w/cb-shine-sp-125/">CB Shine SP 125</a></li>
+	<li class="menu-item-0"><a href="https://gaadiwaadi.com/bikes-news/honda-2w/cbr-650/">CBR 650</a></li>
+	<li class="menu-item-0"><a href="https://gaadiwaadi.com/bikes-news/indian/">Indian</a></li>
+	<li class="menu-item-0"><a href="https://gaadiwaadi.com/bikes-news/jawa/">Jawa</a></li>
+	<li class="menu-item-0"><a href="https://gaadiwaadi.com/bikes-news/kawasaki/">Kawasaki</a></li>
+	<li class="menu-item-0"><a href="https://gaadiwaadi.com/bikes-news/ktm/">KTM</a></li>
+	<li class="menu-item-0"><a href="https://gaadiwaadi.com/bikes-news/mahindra-mojo/">Mahindra Mojo</a></li>
+	<li class="menu-item-0"><a href="https://gaadiwaadi.com/bikes-news/mahindra2wheelers/">Mahindra2Wheelers</a></li>
+	<li class="menu-item-0"><a href="https://gaadiwaadi.com/bikes-news/moto-guzzi/">Moto Guzzi</a></li>
+	<li class="menu-item-0"><a href="https://gaadiwaadi.com/bikes-news/mv-agusta/">MV Agusta</a></li>
+	<li class="menu-item-0"><a href="https://gaadiwaadi.com/bikes-news/piaggio/">Piaggio</a></li>
+	<li class="menu-item-0"><a href="https://gaadiwaadi.com/bikes-news/royal-enfield/">Royal Enfield</a></li>
+	<li class="menu-item-0"><a href="https://gaadiwaadi.com/bikes-news/royal-enfield/royal-enfield-himalayan/">Royal Enfield Himalayan</a></li>
+	<li class="menu-item-0"><a href="https://gaadiwaadi.com/bikes-news/suzuki/">Suzuki</a></li>
+	<li class="menu-item-0"><a href="https://gaadiwaadi.com/bikes-news/suzuki/gixxer/">Gixxer</a></li>
+	<li class="menu-item-0"><a href="https://gaadiwaadi.com/bikes-news/suzuki/gixxer-sf-250/">Gixxer SF 250</a></li>
+	<li class="menu-item-0"><a href="https://gaadiwaadi.com/bikes-news/triumph/">Triumph</a></li>
+</ul>
+</li>
+<li id="menu-item-3150" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-3150"><a href="https://gaadiwaadi.com/reviews/">Reviews<i class="td-icon-menu-right td-element-after"></i></a>
+<ul class="sub-menu">
+	<li class="menu-item-0"><a href="https://gaadiwaadi.com/reviews/bike-review/">Bike Review</a></li>
+	<li class="menu-item-0"><a href="https://gaadiwaadi.com/reviews/car-review/">Car Review</a></li>
+	<li class="menu-item-0"><a href="https://gaadiwaadi.com/reviews/shootout-comparison/">Shootout Comparison</a></li>
+	<li class="menu-item-0"><a href="https://gaadiwaadi.com/reviews/comparison/">Specs Comparison</a></li>
+</ul>
+</li>
+<li id="menu-item-72320" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-72320"><a href="https://gaadiwaadi.com/auto-industry-news/">More<i class="td-icon-menu-right td-element-after"></i></a>
+<ul class="sub-menu">
+	<li class="menu-item-0"><a href="https://gaadiwaadi.com/auto-industry-news/sales-analysis/">Sales Analysis</a></li>
+</ul>
+</li>
+</ul></div>        </div>
+    </div>
+
+    <!-- register/login section -->
+    </div>    <div class="td-search-background"></div>
+<div class="td-search-wrap-mob">
+	<div class="td-drop-down-search" aria-labelledby="td-header-search-button">
+		<form method="get" class="td-search-form" action="https://gaadiwaadi.com/">
+			<!-- close button -->
+			<div class="td-search-close">
+				<a href="#"><i class="td-icon-close-mobile"></i></a>
+			</div>
+			<div role="search" class="td-search-input">
+				<span>Search</span>
+				<input id="td-header-search-mob" type="text" value="" name="s" autocomplete="off" />
+			</div>
+		</form>
+		<div id="td-aj-search-mob"></div>
+	</div>
+</div>    
+    
+    <div id="td-outer-wrap" class="td-theme-wrap">
+    
+        <!--
+Header style multipurpose 1
+-->
+
+
+<div class="td-header-wrap tdm-header tdm-header-style-1 ">
+    
+    <div class="td-header-top-menu-full td-container-wrap ">
+        <div class="td-container td-header-row td-header-top-menu">
+            <!-- LOGIN MODAL -->
+        </div>
+    </div>
+
+    <div class="td-header-menu-wrap-full td-container-wrap ">
+        <div class="td-header-menu-wrap td-header-gradient td-header-menu-no-search">
+            <div class="td-container td-header-row td-header-main-menu">
+                <div class="tdm-menu-btns-socials">
+            <div class="header-search-wrap">
+            <div class="td-search-btns-wrap">
+                <a id="td-header-search-button" href="#" role="button" class="dropdown-toggle " data-toggle="dropdown"><i class="td-icon-search"></i></a>
+                <a id="td-header-search-button-mob" href="#" role="button" class="dropdown-toggle " data-toggle="dropdown"><i class="td-icon-search"></i></a>
+            </div>
+
+            <div class="td-drop-down-search" aria-labelledby="td-header-search-button">
+                <form method="get" class="td-search-form" action="https://gaadiwaadi.com/">
+                    <div role="search" class="td-head-form-search-wrap">
+                        <input id="td-header-search" type="text" value="" name="s" autocomplete="off" /><input class="wpb_button wpb_btn-inverse btn" type="submit" id="td-header-search-top" value="Search" />
+                    </div>
+                </form>
+                <div id="td-aj-search"></div>
+            </div>
+        </div>
+    
+    
+    </div>
+
+<div id="td-header-menu" role="navigation">
+    <div id="td-top-mobile-toggle"><a href="#"><i class="td-icon-font td-icon-mobile"></i></a></div>
+    <div class="td-main-menu-logo td-logo-in-menu">
+        		<a class="td-mobile-logo td-sticky-disable" href="https://gaadiwaadi.com/">
+			<img src="https://gaadiwaadi.com/wp-content/uploads/2018/06/GW-logo.png" alt="Gaadiwaadi-logo"/>
+		</a>
+	<h1 class="td-logo">			<a class="td-header-logo td-sticky-disable" href="https://gaadiwaadi.com/">
+				<img src="https://gaadiwaadi.com/wp-content/uploads/2018/06/GW-logo.png" alt="Gaadiwaadi-logo"/>
+				<span class="td-visual-hidden">Gaadiwaadi.com</span>
+			</a>
+		</h1>    </div>
+    <div class="menu-main-container"><ul id="menu-main-1" class="sf-menu"><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-first td-menu-item td-mega-menu menu-item-14906"><a href="https://gaadiwaadi.com/cars-news/">Cars News</a>
+<ul class="sub-menu">
+	<li class="menu-item-0"><div class="td-container-border"><div class="td-mega-grid"><div class="td_block_wrap td_block_mega_menu td_uid_1_5d7296c8e9df1_rand td_with_ajax_pagination td-pb-border-top td_block_template_1"  data-td-block-uid="td_uid_1_5d7296c8e9df1" ><script>var block_td_uid_1_5d7296c8e9df1 = new tdBlock();
+block_td_uid_1_5d7296c8e9df1.id = "td_uid_1_5d7296c8e9df1";
+block_td_uid_1_5d7296c8e9df1.atts = '{"limit":4,"td_column_number":3,"ajax_pagination":"next_prev","category_id":"1120","show_child_cat":30,"td_ajax_filter_type":"td_category_ids_filter","td_ajax_preloading":"","block_template_id":"","header_color":"","ajax_pagination_infinite_stop":"","offset":"","td_filter_default_txt":"","td_ajax_filter_ids":"","el_class":"","color_preset":"","border_top":"","css":"","tdc_css":"","class":"td_uid_1_5d7296c8e9df1_rand","tdc_css_class":"td_uid_1_5d7296c8e9df1_rand","tdc_css_class_style":"td_uid_1_5d7296c8e9df1_rand_style"}';
+block_td_uid_1_5d7296c8e9df1.td_column_number = "3";
+block_td_uid_1_5d7296c8e9df1.block_type = "td_block_mega_menu";
+block_td_uid_1_5d7296c8e9df1.post_count = "4";
+block_td_uid_1_5d7296c8e9df1.found_posts = "8320";
+block_td_uid_1_5d7296c8e9df1.header_color = "";
+block_td_uid_1_5d7296c8e9df1.ajax_pagination_infinite_stop = "";
+block_td_uid_1_5d7296c8e9df1.max_num_pages = "2080";
+tdBlocksArray.push(block_td_uid_1_5d7296c8e9df1);
+</script><div class="td_mega_menu_sub_cats"><div class="block-mega-child-cats"><a class="cur-sub-cat mega-menu-sub-cat-td_uid_1_5d7296c8e9df1" id="td_uid_2_5d7296c8eab9b" data-td_block_id="td_uid_1_5d7296c8e9df1" data-td_filter_value="" href="https://gaadiwaadi.com/cars-news/">All</a><a class="mega-menu-sub-cat-td_uid_1_5d7296c8e9df1"  id="td_uid_3_5d7296c8eac21" data-td_block_id="td_uid_1_5d7296c8e9df1" data-td_filter_value="1190" href="https://gaadiwaadi.com/cars-news/aston-martin/">Aston Martin</a><a class="mega-menu-sub-cat-td_uid_1_5d7296c8e9df1"  id="td_uid_4_5d7296c8eaca5" data-td_block_id="td_uid_1_5d7296c8e9df1" data-td_filter_value="1162" href="https://gaadiwaadi.com/cars-news/audi/">Audi</a><a class="mega-menu-sub-cat-td_uid_1_5d7296c8e9df1"  id="td_uid_5_5d7296c8ead1f" data-td_block_id="td_uid_1_5d7296c8e9df1" data-td_filter_value="2007" href="https://gaadiwaadi.com/cars-news/bentley/">Bentley</a><a class="mega-menu-sub-cat-td_uid_1_5d7296c8e9df1"  id="td_uid_6_5d7296c8ead8b" data-td_block_id="td_uid_1_5d7296c8e9df1" data-td_filter_value="1131" href="https://gaadiwaadi.com/cars-news/bmw/">BMW</a><a class="mega-menu-sub-cat-td_uid_1_5d7296c8e9df1"  id="td_uid_7_5d7296c8eae7c" data-td_block_id="td_uid_1_5d7296c8e9df1" data-td_filter_value="1766" href="https://gaadiwaadi.com/cars-news/bmw/mini/">Mini</a><a class="mega-menu-sub-cat-td_uid_1_5d7296c8e9df1"  id="td_uid_8_5d7296c8eaf60" data-td_block_id="td_uid_1_5d7296c8e9df1" data-td_filter_value="2328" href="https://gaadiwaadi.com/cars-news/bugatti/">Bugatti</a><a class="mega-menu-sub-cat-td_uid_1_5d7296c8e9df1"  id="td_uid_9_5d7296c8eaff6" data-td_block_id="td_uid_1_5d7296c8e9df1" data-td_filter_value="1178" href="https://gaadiwaadi.com/cars-news/chevrolet/">Chevrolet</a><a class="mega-menu-sub-cat-td_uid_1_5d7296c8e9df1"  id="td_uid_10_5d7296c8eb086" data-td_block_id="td_uid_1_5d7296c8e9df1" data-td_filter_value="2451" href="https://gaadiwaadi.com/cars-news/chevrolet/blazer-suv/">Blazer SUV</a><a class="mega-menu-sub-cat-td_uid_1_5d7296c8e9df1"  id="td_uid_11_5d7296c8eb145" data-td_block_id="td_uid_1_5d7296c8e9df1" data-td_filter_value="1133" href="https://gaadiwaadi.com/cars-news/chevrolet/chevrolet-cruze/">Chevrolet Cruze</a><a class="mega-menu-sub-cat-td_uid_1_5d7296c8e9df1"  id="td_uid_12_5d7296c8eb209" data-td_block_id="td_uid_1_5d7296c8e9df1" data-td_filter_value="1137" href="https://gaadiwaadi.com/cars-news/chevrolet/chevrolet-sail/">Chevrolet Sail</a><a class="mega-menu-sub-cat-td_uid_1_5d7296c8e9df1"  id="td_uid_13_5d7296c8eb2ac" data-td_block_id="td_uid_1_5d7296c8e9df1" data-td_filter_value="30821" href="https://gaadiwaadi.com/cars-news/citroen-cars-news/">Citroen</a><a class="mega-menu-sub-cat-td_uid_1_5d7296c8e9df1"  id="td_uid_14_5d7296c8eb339" data-td_block_id="td_uid_1_5d7296c8e9df1" data-td_filter_value="1424" href="https://gaadiwaadi.com/cars-news/datsun/">Datsun</a><a class="mega-menu-sub-cat-td_uid_1_5d7296c8e9df1"  id="td_uid_15_5d7296c8eb3c3" data-td_block_id="td_uid_1_5d7296c8e9df1" data-td_filter_value="2472" href="https://gaadiwaadi.com/cars-news/datsun/redigo/">RediGo</a><a class="mega-menu-sub-cat-td_uid_1_5d7296c8e9df1"  id="td_uid_16_5d7296c8eb461" data-td_block_id="td_uid_1_5d7296c8e9df1" data-td_filter_value="1135" href="https://gaadiwaadi.com/cars-news/dc-avanti/">DC Avanti</a><a class="mega-menu-sub-cat-td_uid_1_5d7296c8e9df1"  id="td_uid_17_5d7296c8eb4ea" data-td_block_id="td_uid_1_5d7296c8e9df1" data-td_filter_value="2172" href="https://gaadiwaadi.com/cars-news/ferrari/">Ferrari</a><a class="mega-menu-sub-cat-td_uid_1_5d7296c8e9df1"  id="td_uid_18_5d7296c8eb55f" data-td_block_id="td_uid_1_5d7296c8e9df1" data-td_filter_value="1126" href="https://gaadiwaadi.com/cars-news/fiat/">Fiat</a><a class="mega-menu-sub-cat-td_uid_1_5d7296c8e9df1"  id="td_uid_19_5d7296c8eb5ea" data-td_block_id="td_uid_1_5d7296c8e9df1" data-td_filter_value="1383" href="https://gaadiwaadi.com/cars-news/ford/">Ford</a><a class="mega-menu-sub-cat-td_uid_1_5d7296c8e9df1"  id="td_uid_20_5d7296c8eb674" data-td_block_id="td_uid_1_5d7296c8e9df1" data-td_filter_value="1513" href="https://gaadiwaadi.com/cars-news/ford/ecosport/">Ecosport</a><a class="mega-menu-sub-cat-td_uid_1_5d7296c8e9df1"  id="td_uid_21_5d7296c8eb72e" data-td_block_id="td_uid_1_5d7296c8e9df1" data-td_filter_value="1163" href="https://gaadiwaadi.com/cars-news/ford/ford-endeavour/">Ford Endeavour</a><a class="mega-menu-sub-cat-td_uid_1_5d7296c8e9df1"  id="td_uid_22_5d7296c8eb7cc" data-td_block_id="td_uid_1_5d7296c8e9df1" data-td_filter_value="1143" href="https://gaadiwaadi.com/cars-news/ford/ford-figo/">Ford Figo</a><a class="mega-menu-sub-cat-td_uid_1_5d7296c8e9df1"  id="td_uid_23_5d7296c8eb867" data-td_block_id="td_uid_1_5d7296c8e9df1" data-td_filter_value="1144" href="https://gaadiwaadi.com/cars-news/ford/ford-figo-aspire/">Ford Figo Aspire</a><a class="mega-menu-sub-cat-td_uid_1_5d7296c8e9df1"  id="td_uid_24_5d7296c8eb902" data-td_block_id="td_uid_1_5d7296c8e9df1" data-td_filter_value="1492" href="https://gaadiwaadi.com/cars-news/honda-cars/">Honda</a><a class="mega-menu-sub-cat-td_uid_1_5d7296c8e9df1"  id="td_uid_25_5d7296c8eb991" data-td_block_id="td_uid_1_5d7296c8e9df1" data-td_filter_value="2442" href="https://gaadiwaadi.com/cars-news/honda-cars/br-v/">BR-V</a><a class="mega-menu-sub-cat-td_uid_1_5d7296c8e9df1"  id="td_uid_26_5d7296c8eba2e" data-td_block_id="td_uid_1_5d7296c8e9df1" data-td_filter_value="2039" href="https://gaadiwaadi.com/cars-news/honda-cars/brio/">Brio</a><a class="mega-menu-sub-cat-td_uid_1_5d7296c8e9df1"  id="td_uid_27_5d7296c8ebaca" data-td_block_id="td_uid_1_5d7296c8e9df1" data-td_filter_value="1146" href="https://gaadiwaadi.com/cars-news/honda-cars/honda-accord/">Honda Accord</a><a class="mega-menu-sub-cat-td_uid_1_5d7296c8e9df1"  id="td_uid_28_5d7296c8ebb65" data-td_block_id="td_uid_1_5d7296c8e9df1" data-td_filter_value="1834" href="https://gaadiwaadi.com/cars-news/honda-cars/honda-amaze/">Honda Amaze</a><a class="mega-menu-sub-cat-td_uid_1_5d7296c8e9df1"  id="td_uid_29_5d7296c8ebc00" data-td_block_id="td_uid_1_5d7296c8e9df1" data-td_filter_value="1407" href="https://gaadiwaadi.com/cars-news/honda-cars/honda-city/">Honda City</a><a class="mega-menu-sub-cat-td_uid_1_5d7296c8e9df1"  id="td_uid_30_5d7296c8ebc9a" data-td_block_id="td_uid_1_5d7296c8e9df1" data-td_filter_value="1129" href="https://gaadiwaadi.com/cars-news/honda-cars/honda-civic/">Honda Civic</a><a class="mega-menu-sub-cat-td_uid_1_5d7296c8e9df1"  id="td_uid_31_5d7296c8ebd2e" data-td_block_id="td_uid_1_5d7296c8e9df1" data-td_filter_value="1142" href="https://gaadiwaadi.com/cars-news/honda-cars/honda-jazz/">Honda Jazz</a><a class="mega-menu-sub-cat-td_uid_1_5d7296c8e9df1"  id="td_uid_32_5d7296c8ebdcb" data-td_block_id="td_uid_1_5d7296c8e9df1" data-td_filter_value="1594" href="https://gaadiwaadi.com/cars-news/hyundai/">Hyundai</a></div></div><div id=td_uid_1_5d7296c8e9df1 class="td_block_inner"><div class="td-mega-row"><div class="td-mega-span">
+        <div class="td_module_mega_menu td_mod_mega_menu">
+            <div class="td-module-image">
+                <div class="td-module-thumb"><a href="https://gaadiwaadi.com/maruti-suzuki-swift-and-dzire-offered-with-huge-discounts-details-inside/" rel="bookmark" class="td-image-wrap" title="Maruti Suzuki Swift And Dzire Offered With Huge Discounts &#8211; Details Inside"><img width="218" height="150" class="entry-thumb" src="https://gaadiwaadi.com/wp-content/uploads/2019/09/maruti-suzuki-dzire-discount-september-2019-218x150.jpg" srcset="https://gaadiwaadi.com/wp-content/uploads/2019/09/maruti-suzuki-dzire-discount-september-2019-218x150.jpg 218w, https://gaadiwaadi.com/wp-content/uploads/2019/09/maruti-suzuki-dzire-discount-september-2019-100x70.jpg 100w" sizes="(max-width: 218px) 100vw, 218px" alt="maruti suzuki dzire discount september 2019" title="Maruti Suzuki Swift And Dzire Offered With Huge Discounts &#8211; Details Inside"/></a></div>                            </div>
+
+            <div class="item-details">
+                <h3 class="entry-title td-module-title"><a href="https://gaadiwaadi.com/maruti-suzuki-swift-and-dzire-offered-with-huge-discounts-details-inside/" rel="bookmark" title="Maruti Suzuki Swift And Dzire Offered With Huge Discounts &#8211; Details Inside">Maruti Suzuki Swift And Dzire Offered With Huge Discounts &#8211; Details&#8230;</a></h3>            </div>
+        </div>
+        </div><div class="td-mega-span">
+        <div class="td_module_mega_menu td_mod_mega_menu">
+            <div class="td-module-image">
+                <div class="td-module-thumb"><a href="https://gaadiwaadi.com/india-bound-audi-q8-launched-in-china-at-7-7-lakh-yuan-rs-77-lakh/" rel="bookmark" class="td-image-wrap" title="India-bound Audi Q8 Launched in China At 7.7 Lakh Yuan (Rs. 78 Lakh)"><img width="218" height="150" class="entry-thumb" src="https://gaadiwaadi.com/wp-content/uploads/2019/09/chengdu-motor-shoiw-audi-q8-218x150.jpg" srcset="https://gaadiwaadi.com/wp-content/uploads/2019/09/chengdu-motor-shoiw-audi-q8-218x150.jpg 218w, https://gaadiwaadi.com/wp-content/uploads/2019/09/chengdu-motor-shoiw-audi-q8-100x70.jpg 100w" sizes="(max-width: 218px) 100vw, 218px" alt="chengdu motor show audi q8" title="India-bound Audi Q8 Launched in China At 7.7 Lakh Yuan (Rs. 78 Lakh)"/></a></div>                            </div>
+
+            <div class="item-details">
+                <h3 class="entry-title td-module-title"><a href="https://gaadiwaadi.com/india-bound-audi-q8-launched-in-china-at-7-7-lakh-yuan-rs-77-lakh/" rel="bookmark" title="India-bound Audi Q8 Launched in China At 7.7 Lakh Yuan (Rs. 78 Lakh)">India-bound Audi Q8 Launched in China At 7.7 Lakh Yuan (Rs&#8230;.</a></h3>            </div>
+        </div>
+        </div><div class="td-mega-span">
+        <div class="td_module_mega_menu td_mod_mega_menu">
+            <div class="td-module-image">
+                <div class="td-module-thumb"><a href="https://gaadiwaadi.com/2020-renault-captur-facelift-rendered-taking-influence-from-european-model/" rel="bookmark" class="td-image-wrap" title="2020 Renault Captur Facelift Rendered Taking Influence From European Model"><img width="218" height="150" class="entry-thumb" src="https://gaadiwaadi.com/wp-content/uploads/2019/09/2020-renault-captur-facelift-rendered-218x150.jpg" srcset="https://gaadiwaadi.com/wp-content/uploads/2019/09/2020-renault-captur-facelift-rendered-218x150.jpg 218w, https://gaadiwaadi.com/wp-content/uploads/2019/09/2020-renault-captur-facelift-rendered-100x70.jpg 100w" sizes="(max-width: 218px) 100vw, 218px" alt="2020 renault captur facelift rendered" title="2020 Renault Captur Facelift Rendered Taking Influence From European Model"/></a></div>                            </div>
+
+            <div class="item-details">
+                <h3 class="entry-title td-module-title"><a href="https://gaadiwaadi.com/2020-renault-captur-facelift-rendered-taking-influence-from-european-model/" rel="bookmark" title="2020 Renault Captur Facelift Rendered Taking Influence From European Model">2020 Renault Captur Facelift Rendered Taking Influence From European Model</a></h3>            </div>
+        </div>
+        </div><div class="td-mega-span">
+        <div class="td_module_mega_menu td_mod_mega_menu">
+            <div class="td-module-image">
+                <div class="td-module-thumb"><a href="https://gaadiwaadi.com/upcoming-maruti-suzuki-s-presso-fully-revealed-in-spy-image/" rel="bookmark" class="td-image-wrap" title="Upcoming Maruti Suzuki S-Presso Fully Revealed In Spy Image"><img width="218" height="150" class="entry-thumb" src="https://gaadiwaadi.com/wp-content/uploads/2019/09/Maruti-Suzuki-S-Presso-218x150.jpg" srcset="https://gaadiwaadi.com/wp-content/uploads/2019/09/Maruti-Suzuki-S-Presso-218x150.jpg 218w, https://gaadiwaadi.com/wp-content/uploads/2019/09/Maruti-Suzuki-S-Presso-100x70.jpg 100w" sizes="(max-width: 218px) 100vw, 218px" alt="Maruti Suzuki S-Presso" title="Upcoming Maruti Suzuki S-Presso Fully Revealed In Spy Image"/></a></div>                            </div>
+
+            <div class="item-details">
+                <h3 class="entry-title td-module-title"><a href="https://gaadiwaadi.com/upcoming-maruti-suzuki-s-presso-fully-revealed-in-spy-image/" rel="bookmark" title="Upcoming Maruti Suzuki S-Presso Fully Revealed In Spy Image">Upcoming Maruti Suzuki S-Presso Fully Revealed In Spy Image</a></h3>            </div>
+        </div>
+        </div></div></div><div class="td-next-prev-wrap"><a href="#" class="td-ajax-prev-page ajax-page-disabled" id="prev-page-td_uid_1_5d7296c8e9df1" data-td_block_id="td_uid_1_5d7296c8e9df1"><i class="td-icon-font td-icon-menu-left"></i></a><a href="#"  class="td-ajax-next-page" id="next-page-td_uid_1_5d7296c8e9df1" data-td_block_id="td_uid_1_5d7296c8e9df1"><i class="td-icon-font td-icon-menu-right"></i></a></div><div class="clearfix"></div></div> <!-- ./block1 --></div></div></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-mega-menu menu-item-14907"><a href="https://gaadiwaadi.com/bikes-news/">Bikes News</a>
+<ul class="sub-menu">
+	<li class="menu-item-0"><div class="td-container-border"><div class="td-mega-grid"><div class="td_block_wrap td_block_mega_menu td_uid_33_5d7296c8edd12_rand td_with_ajax_pagination td-pb-border-top td_block_template_1"  data-td-block-uid="td_uid_33_5d7296c8edd12" ><script>var block_td_uid_33_5d7296c8edd12 = new tdBlock();
+block_td_uid_33_5d7296c8edd12.id = "td_uid_33_5d7296c8edd12";
+block_td_uid_33_5d7296c8edd12.atts = '{"limit":4,"td_column_number":3,"ajax_pagination":"next_prev","category_id":"1121","show_child_cat":30,"td_ajax_filter_type":"td_category_ids_filter","td_ajax_preloading":"","block_template_id":"","header_color":"","ajax_pagination_infinite_stop":"","offset":"","td_filter_default_txt":"","td_ajax_filter_ids":"","el_class":"","color_preset":"","border_top":"","css":"","tdc_css":"","class":"td_uid_33_5d7296c8edd12_rand","tdc_css_class":"td_uid_33_5d7296c8edd12_rand","tdc_css_class_style":"td_uid_33_5d7296c8edd12_rand_style"}';
+block_td_uid_33_5d7296c8edd12.td_column_number = "3";
+block_td_uid_33_5d7296c8edd12.block_type = "td_block_mega_menu";
+block_td_uid_33_5d7296c8edd12.post_count = "4";
+block_td_uid_33_5d7296c8edd12.found_posts = "3181";
+block_td_uid_33_5d7296c8edd12.header_color = "";
+block_td_uid_33_5d7296c8edd12.ajax_pagination_infinite_stop = "";
+block_td_uid_33_5d7296c8edd12.max_num_pages = "796";
+tdBlocksArray.push(block_td_uid_33_5d7296c8edd12);
+</script><div class="td_mega_menu_sub_cats"><div class="block-mega-child-cats"><a class="cur-sub-cat mega-menu-sub-cat-td_uid_33_5d7296c8edd12" id="td_uid_34_5d7296c8ef12a" data-td_block_id="td_uid_33_5d7296c8edd12" data-td_filter_value="" href="https://gaadiwaadi.com/bikes-news/">All</a><a class="mega-menu-sub-cat-td_uid_33_5d7296c8edd12"  id="td_uid_35_5d7296c8ef1c8" data-td_block_id="td_uid_33_5d7296c8edd12" data-td_filter_value="2587" href="https://gaadiwaadi.com/bikes-news/2016-intermot/">2016 Intermot</a><a class="mega-menu-sub-cat-td_uid_33_5d7296c8edd12"  id="td_uid_36_5d7296c8ef26a" data-td_block_id="td_uid_33_5d7296c8edd12" data-td_filter_value="1174" href="https://gaadiwaadi.com/bikes-news/bajaj/">Bajaj</a><a class="mega-menu-sub-cat-td_uid_33_5d7296c8edd12"  id="td_uid_37_5d7296c8ef2f6" data-td_block_id="td_uid_33_5d7296c8edd12" data-td_filter_value="2424" href="https://gaadiwaadi.com/bikes-news/bajaj/avenger/">Avenger</a><a class="mega-menu-sub-cat-td_uid_33_5d7296c8edd12"  id="td_uid_38_5d7296c8ef391" data-td_block_id="td_uid_33_5d7296c8edd12" data-td_filter_value="1449" href="https://gaadiwaadi.com/bikes-news/bajaj/pulsar/">Pulsar</a><a class="mega-menu-sub-cat-td_uid_33_5d7296c8edd12"  id="td_uid_39_5d7296c8ef434" data-td_block_id="td_uid_33_5d7296c8edd12" data-td_filter_value="1203" href="https://gaadiwaadi.com/bikes-news/bmw-motorrad-bikes/">BMW Motorrad</a><a class="mega-menu-sub-cat-td_uid_33_5d7296c8edd12"  id="td_uid_40_5d7296c8ef4b7" data-td_block_id="td_uid_33_5d7296c8edd12" data-td_filter_value="1315" href="https://gaadiwaadi.com/bikes-news/dsk-benelli/">DSK Benelli</a><a class="mega-menu-sub-cat-td_uid_33_5d7296c8edd12"  id="td_uid_41_5d7296c8ef539" data-td_block_id="td_uid_33_5d7296c8edd12" data-td_filter_value="1561" href="https://gaadiwaadi.com/bikes-news/dsk-hyosung/">DSK Hyosung</a><a class="mega-menu-sub-cat-td_uid_33_5d7296c8edd12"  id="td_uid_42_5d7296c8ef5ca" data-td_block_id="td_uid_33_5d7296c8edd12" data-td_filter_value="1426" href="https://gaadiwaadi.com/bikes-news/ducati/">Ducati</a><a class="mega-menu-sub-cat-td_uid_33_5d7296c8edd12"  id="td_uid_43_5d7296c8ef652" data-td_block_id="td_uid_33_5d7296c8edd12" data-td_filter_value="40596" href="https://gaadiwaadi.com/bikes-news/eicma/">EICMA</a><a class="mega-menu-sub-cat-td_uid_33_5d7296c8edd12"  id="td_uid_44_5d7296c8ef6d4" data-td_block_id="td_uid_33_5d7296c8edd12" data-td_filter_value="1221" href="https://gaadiwaadi.com/bikes-news/harley-davidson/">Harley Davidson</a><a class="mega-menu-sub-cat-td_uid_33_5d7296c8edd12"  id="td_uid_45_5d7296c8ef754" data-td_block_id="td_uid_33_5d7296c8edd12" data-td_filter_value="1171" href="https://gaadiwaadi.com/bikes-news/hero-motocorp/">Hero MotoCorp</a><a class="mega-menu-sub-cat-td_uid_33_5d7296c8edd12"  id="td_uid_46_5d7296c8ef7c6" data-td_block_id="td_uid_33_5d7296c8edd12" data-td_filter_value="1170" href="https://gaadiwaadi.com/bikes-news/honda-2w/">Honda 2W</a><a class="mega-menu-sub-cat-td_uid_33_5d7296c8edd12"  id="td_uid_47_5d7296c8ef846" data-td_block_id="td_uid_33_5d7296c8edd12" data-td_filter_value="1739" href="https://gaadiwaadi.com/bikes-news/honda-2w/cb-hornet-160r/">CB Hornet 160R</a><a class="mega-menu-sub-cat-td_uid_33_5d7296c8edd12"  id="td_uid_48_5d7296c8ef8d9" data-td_block_id="td_uid_33_5d7296c8edd12" data-td_filter_value="2413" href="https://gaadiwaadi.com/bikes-news/honda-2w/cb-shine-sp-125/">CB Shine SP 125</a><a class="mega-menu-sub-cat-td_uid_33_5d7296c8edd12"  id="td_uid_49_5d7296c8ef96b" data-td_block_id="td_uid_33_5d7296c8edd12" data-td_filter_value="1624" href="https://gaadiwaadi.com/bikes-news/honda-2w/cbr-650/">CBR 650</a><a class="mega-menu-sub-cat-td_uid_33_5d7296c8edd12"  id="td_uid_50_5d7296c8ef9fb" data-td_block_id="td_uid_33_5d7296c8edd12" data-td_filter_value="2416" href="https://gaadiwaadi.com/bikes-news/indian/">Indian</a><a class="mega-menu-sub-cat-td_uid_33_5d7296c8edd12"  id="td_uid_51_5d7296c8efa7a" data-td_block_id="td_uid_33_5d7296c8edd12" data-td_filter_value="38766" href="https://gaadiwaadi.com/bikes-news/jawa/">Jawa</a><a class="mega-menu-sub-cat-td_uid_33_5d7296c8edd12"  id="td_uid_52_5d7296c8efafb" data-td_block_id="td_uid_33_5d7296c8edd12" data-td_filter_value="1527" href="https://gaadiwaadi.com/bikes-news/kawasaki/">Kawasaki</a><a class="mega-menu-sub-cat-td_uid_33_5d7296c8edd12"  id="td_uid_53_5d7296c8efb7a" data-td_block_id="td_uid_33_5d7296c8edd12" data-td_filter_value="1892" href="https://gaadiwaadi.com/bikes-news/ktm/">KTM</a><a class="mega-menu-sub-cat-td_uid_33_5d7296c8edd12"  id="td_uid_54_5d7296c8efc02" data-td_block_id="td_uid_33_5d7296c8edd12" data-td_filter_value="1482" href="https://gaadiwaadi.com/bikes-news/mahindra-mojo/">Mahindra Mojo</a><a class="mega-menu-sub-cat-td_uid_33_5d7296c8edd12"  id="td_uid_55_5d7296c8efc83" data-td_block_id="td_uid_33_5d7296c8edd12" data-td_filter_value="2214" href="https://gaadiwaadi.com/bikes-news/mahindra2wheelers/">Mahindra2Wheelers</a><a class="mega-menu-sub-cat-td_uid_33_5d7296c8edd12"  id="td_uid_56_5d7296c8efd03" data-td_block_id="td_uid_33_5d7296c8edd12" data-td_filter_value="2408" href="https://gaadiwaadi.com/bikes-news/moto-guzzi/">Moto Guzzi</a><a class="mega-menu-sub-cat-td_uid_33_5d7296c8edd12"  id="td_uid_57_5d7296c8efd83" data-td_block_id="td_uid_33_5d7296c8edd12" data-td_filter_value="2215" href="https://gaadiwaadi.com/bikes-news/mv-agusta/">MV Agusta</a><a class="mega-menu-sub-cat-td_uid_33_5d7296c8edd12"  id="td_uid_58_5d7296c8efe01" data-td_block_id="td_uid_33_5d7296c8edd12" data-td_filter_value="2337" href="https://gaadiwaadi.com/bikes-news/piaggio/">Piaggio</a><a class="mega-menu-sub-cat-td_uid_33_5d7296c8edd12"  id="td_uid_59_5d7296c8efe81" data-td_block_id="td_uid_33_5d7296c8edd12" data-td_filter_value="1172" href="https://gaadiwaadi.com/bikes-news/royal-enfield/">Royal Enfield</a><a class="mega-menu-sub-cat-td_uid_33_5d7296c8edd12"  id="td_uid_60_5d7296c8eff00" data-td_block_id="td_uid_33_5d7296c8edd12" data-td_filter_value="2457" href="https://gaadiwaadi.com/bikes-news/royal-enfield/royal-enfield-himalayan/">Royal Enfield Himalayan</a><a class="mega-menu-sub-cat-td_uid_33_5d7296c8edd12"  id="td_uid_61_5d7296c8eff94" data-td_block_id="td_uid_33_5d7296c8edd12" data-td_filter_value="1169" href="https://gaadiwaadi.com/bikes-news/suzuki/">Suzuki</a><a class="mega-menu-sub-cat-td_uid_33_5d7296c8edd12"  id="td_uid_62_5d7296c8f0014" data-td_block_id="td_uid_33_5d7296c8edd12" data-td_filter_value="1168" href="https://gaadiwaadi.com/bikes-news/suzuki/gixxer/">Gixxer</a><a class="mega-menu-sub-cat-td_uid_33_5d7296c8edd12"  id="td_uid_63_5d7296c8f00a6" data-td_block_id="td_uid_33_5d7296c8edd12" data-td_filter_value="2452" href="https://gaadiwaadi.com/bikes-news/suzuki/gixxer-sf-250/">Gixxer SF 250</a><a class="mega-menu-sub-cat-td_uid_33_5d7296c8edd12"  id="td_uid_64_5d7296c8f0136" data-td_block_id="td_uid_33_5d7296c8edd12" data-td_filter_value="1305" href="https://gaadiwaadi.com/bikes-news/triumph/">Triumph</a></div></div><div id=td_uid_33_5d7296c8edd12 class="td_block_inner"><div class="td-mega-row"><div class="td-mega-span">
+        <div class="td_module_mega_menu td_mod_mega_menu">
+            <div class="td-module-image">
+                <div class="td-module-thumb"><a href="https://gaadiwaadi.com/top-seven-150cc-motorcycles-to-buy-in-india-in-2019/" rel="bookmark" class="td-image-wrap" title="Top Seven 150cc Motorcycles To Buy In India In 2019"><img width="218" height="150" class="entry-thumb" src="https://gaadiwaadi.com/wp-content/uploads/2017/01/2017-Yamaha-R15-V3.0-India-3-218x150.jpg" srcset="https://gaadiwaadi.com/wp-content/uploads/2017/01/2017-Yamaha-R15-V3.0-India-3-218x150.jpg 218w, https://gaadiwaadi.com/wp-content/uploads/2017/01/2017-Yamaha-R15-V3.0-India-3-100x70.jpg 100w" sizes="(max-width: 218px) 100vw, 218px" alt="2017 Yamaha R15 V3.0 India 3" title="Top Seven 150cc Motorcycles To Buy In India In 2019"/></a></div>                            </div>
+
+            <div class="item-details">
+                <h3 class="entry-title td-module-title"><a href="https://gaadiwaadi.com/top-seven-150cc-motorcycles-to-buy-in-india-in-2019/" rel="bookmark" title="Top Seven 150cc Motorcycles To Buy In India In 2019">Top Seven 150cc Motorcycles To Buy In India In 2019</a></h3>            </div>
+        </div>
+        </div><div class="td-mega-span">
+        <div class="td_module_mega_menu td_mod_mega_menu">
+            <div class="td-module-image">
+                <div class="td-module-thumb"><a href="https://gaadiwaadi.com/this-customised-re-classic-500-can-out-race-re-650-twin-details/" rel="bookmark" class="td-image-wrap" title="This Customised RE Classic 500 Can Outrace RE 650 Twin &#8211; Details"><img width="218" height="150" class="entry-thumb" src="https://gaadiwaadi.com/wp-content/uploads/2019/09/royal-enfield-classic-500-customised-most-powerful-9-218x150.jpg" srcset="https://gaadiwaadi.com/wp-content/uploads/2019/09/royal-enfield-classic-500-customised-most-powerful-9-218x150.jpg 218w, https://gaadiwaadi.com/wp-content/uploads/2019/09/royal-enfield-classic-500-customised-most-powerful-9-100x70.jpg 100w" sizes="(max-width: 218px) 100vw, 218px" alt="royal enfield classic 500 customised most powerful-9" title="This Customised RE Classic 500 Can Outrace RE 650 Twin &#8211; Details"/></a></div>                            </div>
+
+            <div class="item-details">
+                <h3 class="entry-title td-module-title"><a href="https://gaadiwaadi.com/this-customised-re-classic-500-can-out-race-re-650-twin-details/" rel="bookmark" title="This Customised RE Classic 500 Can Outrace RE 650 Twin &#8211; Details">This Customised RE Classic 500 Can Outrace RE 650 Twin &#8211;&#8230;</a></h3>            </div>
+        </div>
+        </div><div class="td-mega-span">
+        <div class="td_module_mega_menu td_mod_mega_menu">
+            <div class="td-module-image">
+                <div class="td-module-thumb"><a href="https://gaadiwaadi.com/bajaj-pulsar-125-classic-with-split-seat-launching-soon-spied/" rel="bookmark" class="td-image-wrap" title="Bajaj Pulsar 125 Classic With Split Seat Launching Soon, Spied"><img width="218" height="150" class="entry-thumb" src="https://gaadiwaadi.com/wp-content/uploads/2019/09/bajaj-pulsar-125-classic-side-218x150.jpg" srcset="https://gaadiwaadi.com/wp-content/uploads/2019/09/bajaj-pulsar-125-classic-side-218x150.jpg 218w, https://gaadiwaadi.com/wp-content/uploads/2019/09/bajaj-pulsar-125-classic-side-100x70.jpg 100w" sizes="(max-width: 218px) 100vw, 218px" alt="bajaj pulsar 125 classic side" title="Bajaj Pulsar 125 Classic With Split Seat Launching Soon, Spied"/></a></div>                            </div>
+
+            <div class="item-details">
+                <h3 class="entry-title td-module-title"><a href="https://gaadiwaadi.com/bajaj-pulsar-125-classic-with-split-seat-launching-soon-spied/" rel="bookmark" title="Bajaj Pulsar 125 Classic With Split Seat Launching Soon, Spied">Bajaj Pulsar 125 Classic With Split Seat Launching Soon, Spied</a></h3>            </div>
+        </div>
+        </div><div class="td-mega-span">
+        <div class="td_module_mega_menu td_mod_mega_menu">
+            <div class="td-module-image">
+                <div class="td-module-thumb"><a href="https://gaadiwaadi.com/royal-enfield-interceptor-650-gt650-prices-hiked-by-upto-rs-6400/" rel="bookmark" class="td-image-wrap" title="Royal Enfield Interceptor 650 &#038; GT650 Prices Hiked By Upto Rs. 6,400"><img width="218" height="150" class="entry-thumb" src="https://gaadiwaadi.com/wp-content/uploads/2018/09/2.5-Million-Existing-Royal-Enfield-Customers-In-Upcoming-650-Twins’-Radar-218x150.jpg" srcset="https://gaadiwaadi.com/wp-content/uploads/2018/09/2.5-Million-Existing-Royal-Enfield-Customers-In-Upcoming-650-Twins’-Radar-218x150.jpg 218w, https://gaadiwaadi.com/wp-content/uploads/2018/09/2.5-Million-Existing-Royal-Enfield-Customers-In-Upcoming-650-Twins’-Radar-100x70.jpg 100w" sizes="(max-width: 218px) 100vw, 218px" alt="2.5 Million Existing Royal Enfield Customers In Upcoming 650 Twins’ Radar" title="Royal Enfield Interceptor 650 &#038; GT650 Prices Hiked By Upto Rs. 6,400"/></a></div>                            </div>
+
+            <div class="item-details">
+                <h3 class="entry-title td-module-title"><a href="https://gaadiwaadi.com/royal-enfield-interceptor-650-gt650-prices-hiked-by-upto-rs-6400/" rel="bookmark" title="Royal Enfield Interceptor 650 &#038; GT650 Prices Hiked By Upto Rs. 6,400">Royal Enfield Interceptor 650 &#038; GT650 Prices Hiked By Upto Rs&#8230;.</a></h3>            </div>
+        </div>
+        </div></div></div><div class="td-next-prev-wrap"><a href="#" class="td-ajax-prev-page ajax-page-disabled" id="prev-page-td_uid_33_5d7296c8edd12" data-td_block_id="td_uid_33_5d7296c8edd12"><i class="td-icon-font td-icon-menu-left"></i></a><a href="#"  class="td-ajax-next-page" id="next-page-td_uid_33_5d7296c8edd12" data-td_block_id="td_uid_33_5d7296c8edd12"><i class="td-icon-font td-icon-menu-right"></i></a></div><div class="clearfix"></div></div> <!-- ./block1 --></div></div></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-mega-menu menu-item-3150"><a href="https://gaadiwaadi.com/reviews/">Reviews</a>
+<ul class="sub-menu">
+	<li class="menu-item-0"><div class="td-container-border"><div class="td-mega-grid"><div class="td_block_wrap td_block_mega_menu td_uid_65_5d7296c8f1c77_rand td_with_ajax_pagination td-pb-border-top td_block_template_1"  data-td-block-uid="td_uid_65_5d7296c8f1c77" ><script>var block_td_uid_65_5d7296c8f1c77 = new tdBlock();
+block_td_uid_65_5d7296c8f1c77.id = "td_uid_65_5d7296c8f1c77";
+block_td_uid_65_5d7296c8f1c77.atts = '{"limit":4,"td_column_number":3,"ajax_pagination":"next_prev","category_id":"1180","show_child_cat":30,"td_ajax_filter_type":"td_category_ids_filter","td_ajax_preloading":"","block_template_id":"","header_color":"","ajax_pagination_infinite_stop":"","offset":"","td_filter_default_txt":"","td_ajax_filter_ids":"","el_class":"","color_preset":"","border_top":"","css":"","tdc_css":"","class":"td_uid_65_5d7296c8f1c77_rand","tdc_css_class":"td_uid_65_5d7296c8f1c77_rand","tdc_css_class_style":"td_uid_65_5d7296c8f1c77_rand_style"}';
+block_td_uid_65_5d7296c8f1c77.td_column_number = "3";
+block_td_uid_65_5d7296c8f1c77.block_type = "td_block_mega_menu";
+block_td_uid_65_5d7296c8f1c77.post_count = "4";
+block_td_uid_65_5d7296c8f1c77.found_posts = "209";
+block_td_uid_65_5d7296c8f1c77.header_color = "";
+block_td_uid_65_5d7296c8f1c77.ajax_pagination_infinite_stop = "";
+block_td_uid_65_5d7296c8f1c77.max_num_pages = "53";
+tdBlocksArray.push(block_td_uid_65_5d7296c8f1c77);
+</script><div class="td_mega_menu_sub_cats"><div class="block-mega-child-cats"><a class="cur-sub-cat mega-menu-sub-cat-td_uid_65_5d7296c8f1c77" id="td_uid_66_5d7296c8f2cbc" data-td_block_id="td_uid_65_5d7296c8f1c77" data-td_filter_value="" href="https://gaadiwaadi.com/reviews/">All</a><a class="mega-menu-sub-cat-td_uid_65_5d7296c8f1c77"  id="td_uid_67_5d7296c8f2d4d" data-td_block_id="td_uid_65_5d7296c8f1c77" data-td_filter_value="1470" href="https://gaadiwaadi.com/reviews/bike-review/">Bike Review</a><a class="mega-menu-sub-cat-td_uid_65_5d7296c8f1c77"  id="td_uid_68_5d7296c8f2dd9" data-td_block_id="td_uid_65_5d7296c8f1c77" data-td_filter_value="1478" href="https://gaadiwaadi.com/reviews/car-review/">Car Review</a><a class="mega-menu-sub-cat-td_uid_65_5d7296c8f1c77"  id="td_uid_69_5d7296c8f2e5b" data-td_block_id="td_uid_65_5d7296c8f1c77" data-td_filter_value="2482" href="https://gaadiwaadi.com/reviews/shootout-comparison/">Shootout Comparison</a><a class="mega-menu-sub-cat-td_uid_65_5d7296c8f1c77"  id="td_uid_70_5d7296c8f2ee2" data-td_block_id="td_uid_65_5d7296c8f1c77" data-td_filter_value="2471" href="https://gaadiwaadi.com/reviews/comparison/">Specs Comparison</a></div></div><div id=td_uid_65_5d7296c8f1c77 class="td_block_inner"><div class="td-mega-row"><div class="td-mega-span">
+        <div class="td_module_mega_menu td_mod_mega_menu">
+            <div class="td-module-image">
+                <div class="td-module-thumb"><a href="https://gaadiwaadi.com/mg-hector-suv-review-here-to-draw-attention/" rel="bookmark" class="td-image-wrap" title="MG Hector SUV Review &#8211; Here To Draw Attention"><img width="218" height="150" class="entry-thumb" src="https://gaadiwaadi.com/wp-content/uploads/2019/06/mg-hector-review-1-2-218x150.jpg" srcset="https://gaadiwaadi.com/wp-content/uploads/2019/06/mg-hector-review-1-2-218x150.jpg 218w, https://gaadiwaadi.com/wp-content/uploads/2019/06/mg-hector-review-1-2-100x70.jpg 100w" sizes="(max-width: 218px) 100vw, 218px" alt="mg hector review-1-2" title="MG Hector SUV Review &#8211; Here To Draw Attention"/></a></div>                            </div>
+
+            <div class="item-details">
+                <h3 class="entry-title td-module-title"><a href="https://gaadiwaadi.com/mg-hector-suv-review-here-to-draw-attention/" rel="bookmark" title="MG Hector SUV Review &#8211; Here To Draw Attention">MG Hector SUV Review &#8211; Here To Draw Attention</a></h3>            </div>
+        </div>
+        </div><div class="td-mega-span">
+        <div class="td_module_mega_menu td_mod_mega_menu">
+            <div class="td-module-image">
+                <div class="td-module-thumb"><a href="https://gaadiwaadi.com/hyundai-venue-vs-tata-nexon-dimensions-and-engine-comparison/" rel="bookmark" class="td-image-wrap" title="Hyundai Venue Vs Tata Nexon: Dimensions And Engine Comparison"><img width="218" height="150" class="entry-thumb" src="https://gaadiwaadi.com/wp-content/uploads/2019/06/hyunda-venue-vs-tata-nexon-218x150.jpg" srcset="https://gaadiwaadi.com/wp-content/uploads/2019/06/hyunda-venue-vs-tata-nexon-218x150.jpg 218w, https://gaadiwaadi.com/wp-content/uploads/2019/06/hyunda-venue-vs-tata-nexon-100x70.jpg 100w" sizes="(max-width: 218px) 100vw, 218px" alt="hyundai venue vs tata nexon" title="Hyundai Venue Vs Tata Nexon: Dimensions And Engine Comparison"/></a></div>                            </div>
+
+            <div class="item-details">
+                <h3 class="entry-title td-module-title"><a href="https://gaadiwaadi.com/hyundai-venue-vs-tata-nexon-dimensions-and-engine-comparison/" rel="bookmark" title="Hyundai Venue Vs Tata Nexon: Dimensions And Engine Comparison">Hyundai Venue Vs Tata Nexon: Dimensions And Engine Comparison</a></h3>            </div>
+        </div>
+        </div><div class="td-mega-span">
+        <div class="td_module_mega_menu td_mod_mega_menu">
+            <div class="td-module-image">
+                <div class="td-module-thumb"><a href="https://gaadiwaadi.com/upcoming-honda-hr-v-vs-hyundai-creta-india-specs-comparison/" rel="bookmark" class="td-image-wrap" title="Upcoming Honda HR-V Vs Hyundai Creta &#8211; Specs Comparison"><img width="218" height="150" class="entry-thumb" src="https://gaadiwaadi.com/wp-content/uploads/2019/05/Honda-HR-V-Vs-Hyundai-Creta-218x150.jpg" srcset="https://gaadiwaadi.com/wp-content/uploads/2019/05/Honda-HR-V-Vs-Hyundai-Creta-218x150.jpg 218w, https://gaadiwaadi.com/wp-content/uploads/2019/05/Honda-HR-V-Vs-Hyundai-Creta-100x70.jpg 100w" sizes="(max-width: 218px) 100vw, 218px" alt="Honda HR-V Vs Hyundai Creta" title="Upcoming Honda HR-V Vs Hyundai Creta &#8211; Specs Comparison"/></a></div>                            </div>
+
+            <div class="item-details">
+                <h3 class="entry-title td-module-title"><a href="https://gaadiwaadi.com/upcoming-honda-hr-v-vs-hyundai-creta-india-specs-comparison/" rel="bookmark" title="Upcoming Honda HR-V Vs Hyundai Creta &#8211; Specs Comparison">Upcoming Honda HR-V Vs Hyundai Creta &#8211; Specs Comparison</a></h3>            </div>
+        </div>
+        </div><div class="td-mega-span">
+        <div class="td_module_mega_menu td_mod_mega_menu">
+            <div class="td-module-image">
+                <div class="td-module-thumb"><a href="https://gaadiwaadi.com/hero-maestro-125-vs-honda-grazia-vs-tvs-ntroq-specs-comparison/" rel="bookmark" class="td-image-wrap" title="Hero Maestro 125 vs Honda Grazia vs TVS Ntorq: Specs Comparison"><img width="218" height="150" class="entry-thumb" src="https://gaadiwaadi.com/wp-content/uploads/2019/05/Hero-Maestro-Edge-125-vs-TVS-Ntroq-vs-Honda-Grazia-Spec-Comparo-218x150.jpg" srcset="https://gaadiwaadi.com/wp-content/uploads/2019/05/Hero-Maestro-Edge-125-vs-TVS-Ntroq-vs-Honda-Grazia-Spec-Comparo-218x150.jpg 218w, https://gaadiwaadi.com/wp-content/uploads/2019/05/Hero-Maestro-Edge-125-vs-TVS-Ntroq-vs-Honda-Grazia-Spec-Comparo-100x70.jpg 100w" sizes="(max-width: 218px) 100vw, 218px" alt="Hero Maestro Edge 125 vs TVS Ntroq vs Honda Grazia Spec Comparo" title="Hero Maestro 125 vs Honda Grazia vs TVS Ntorq: Specs Comparison"/></a></div>                            </div>
+
+            <div class="item-details">
+                <h3 class="entry-title td-module-title"><a href="https://gaadiwaadi.com/hero-maestro-125-vs-honda-grazia-vs-tvs-ntroq-specs-comparison/" rel="bookmark" title="Hero Maestro 125 vs Honda Grazia vs TVS Ntorq: Specs Comparison">Hero Maestro 125 vs Honda Grazia vs TVS Ntorq: Specs Comparison</a></h3>            </div>
+        </div>
+        </div></div></div><div class="td-next-prev-wrap"><a href="#" class="td-ajax-prev-page ajax-page-disabled" id="prev-page-td_uid_65_5d7296c8f1c77" data-td_block_id="td_uid_65_5d7296c8f1c77"><i class="td-icon-font td-icon-menu-left"></i></a><a href="#"  class="td-ajax-next-page" id="next-page-td_uid_65_5d7296c8f1c77" data-td_block_id="td_uid_65_5d7296c8f1c77"><i class="td-icon-font td-icon-menu-right"></i></a></div><div class="clearfix"></div></div> <!-- ./block1 --></div></div></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-mega-menu menu-item-72320"><a href="https://gaadiwaadi.com/auto-industry-news/">More</a>
+<ul class="sub-menu">
+	<li class="menu-item-0"><div class="td-container-border"><div class="td-mega-grid"><div class="td_block_wrap td_block_mega_menu td_uid_71_5d7296c90050a_rand td_with_ajax_pagination td-pb-border-top td_block_template_1"  data-td-block-uid="td_uid_71_5d7296c90050a" ><script>var block_td_uid_71_5d7296c90050a = new tdBlock();
+block_td_uid_71_5d7296c90050a.id = "td_uid_71_5d7296c90050a";
+block_td_uid_71_5d7296c90050a.atts = '{"limit":4,"td_column_number":3,"ajax_pagination":"next_prev","category_id":"1347","show_child_cat":30,"td_ajax_filter_type":"td_category_ids_filter","td_ajax_preloading":"","block_template_id":"","header_color":"","ajax_pagination_infinite_stop":"","offset":"","td_filter_default_txt":"","td_ajax_filter_ids":"","el_class":"","color_preset":"","border_top":"","css":"","tdc_css":"","class":"td_uid_71_5d7296c90050a_rand","tdc_css_class":"td_uid_71_5d7296c90050a_rand","tdc_css_class_style":"td_uid_71_5d7296c90050a_rand_style"}';
+block_td_uid_71_5d7296c90050a.td_column_number = "3";
+block_td_uid_71_5d7296c90050a.block_type = "td_block_mega_menu";
+block_td_uid_71_5d7296c90050a.post_count = "4";
+block_td_uid_71_5d7296c90050a.found_posts = "1145";
+block_td_uid_71_5d7296c90050a.header_color = "";
+block_td_uid_71_5d7296c90050a.ajax_pagination_infinite_stop = "";
+block_td_uid_71_5d7296c90050a.max_num_pages = "287";
+tdBlocksArray.push(block_td_uid_71_5d7296c90050a);
+</script><div class="td_mega_menu_sub_cats"><div class="block-mega-child-cats"><a class="cur-sub-cat mega-menu-sub-cat-td_uid_71_5d7296c90050a" id="td_uid_72_5d7296c9012ce" data-td_block_id="td_uid_71_5d7296c90050a" data-td_filter_value="" href="https://gaadiwaadi.com/auto-industry-news/">All</a><a class="mega-menu-sub-cat-td_uid_71_5d7296c90050a"  id="td_uid_73_5d7296c901345" data-td_block_id="td_uid_71_5d7296c90050a" data-td_filter_value="1995" href="https://gaadiwaadi.com/auto-industry-news/sales-analysis/">Sales Analysis</a></div></div><div id=td_uid_71_5d7296c90050a class="td_block_inner"><div class="td-mega-row"><div class="td-mega-span">
+        <div class="td_module_mega_menu td_mod_mega_menu">
+            <div class="td-module-image">
+                <div class="td-module-thumb"><a href="https://gaadiwaadi.com/moonwalk-in-bengaluru-man-dressed-as-astronaut-to-protest-against-potholes/" rel="bookmark" class="td-image-wrap" title="Man Dressed As Astronaut To Protest Against Potholes In India: Video"><img width="218" height="150" class="entry-thumb" src="https://gaadiwaadi.com/wp-content/uploads/2019/09/Moonwalk-in-Bengaluru-218x150.jpg" srcset="https://gaadiwaadi.com/wp-content/uploads/2019/09/Moonwalk-in-Bengaluru-218x150.jpg 218w, https://gaadiwaadi.com/wp-content/uploads/2019/09/Moonwalk-in-Bengaluru-100x70.jpg 100w" sizes="(max-width: 218px) 100vw, 218px" alt="Moonwalk in Bengaluru" title="Man Dressed As Astronaut To Protest Against Potholes In India: Video"/></a></div>                            </div>
+
+            <div class="item-details">
+                <h3 class="entry-title td-module-title"><a href="https://gaadiwaadi.com/moonwalk-in-bengaluru-man-dressed-as-astronaut-to-protest-against-potholes/" rel="bookmark" title="Man Dressed As Astronaut To Protest Against Potholes In India: Video">Man Dressed As Astronaut To Protest Against Potholes In India: Video</a></h3>            </div>
+        </div>
+        </div><div class="td-mega-span">
+        <div class="td_module_mega_menu td_mod_mega_menu">
+            <div class="td-module-image">
+                <div class="td-module-thumb"><a href="https://gaadiwaadi.com/massive-drop-in-tata-motors-sales-down-by-60-in-august-2019/" rel="bookmark" class="td-image-wrap" title="MASSIVE 60% Drop In Tata Motors Sales In August 2019"><img width="218" height="150" class="entry-thumb" src="https://gaadiwaadi.com/wp-content/uploads/2019/08/TATA-3-YEAR-ANNUAL-MAINTENCE-PACKAGE--218x150.jpg" srcset="https://gaadiwaadi.com/wp-content/uploads/2019/08/TATA-3-YEAR-ANNUAL-MAINTENCE-PACKAGE--218x150.jpg 218w, https://gaadiwaadi.com/wp-content/uploads/2019/08/TATA-3-YEAR-ANNUAL-MAINTENCE-PACKAGE--100x70.jpg 100w" sizes="(max-width: 218px) 100vw, 218px" alt="TATA 3 YEAR ANNUAL MAINTENCE PACKAGE" title="MASSIVE 60% Drop In Tata Motors Sales In August 2019"/></a></div>                            </div>
+
+            <div class="item-details">
+                <h3 class="entry-title td-module-title"><a href="https://gaadiwaadi.com/massive-drop-in-tata-motors-sales-down-by-60-in-august-2019/" rel="bookmark" title="MASSIVE 60% Drop In Tata Motors Sales In August 2019">MASSIVE 60% Drop In Tata Motors Sales In August 2019</a></h3>            </div>
+        </div>
+        </div><div class="td-mega-span">
+        <div class="td_module_mega_menu td_mod_mega_menu">
+            <div class="td-module-image">
+                <div class="td-module-thumb"><a href="https://gaadiwaadi.com/maruti-suzuki-sales-down-by-34-3-in-august-2019-big-drop-in-alto-ciaz-sales/" rel="bookmark" class="td-image-wrap" title="Maruti Suzuki August 2019 Sales Down By 36%, Big Drop In Alto, Ciaz Sales"><img width="218" height="150" class="entry-thumb" src="https://gaadiwaadi.com/wp-content/uploads/2019/09/alto-ciaz-218x150.jpg" srcset="https://gaadiwaadi.com/wp-content/uploads/2019/09/alto-ciaz-218x150.jpg 218w, https://gaadiwaadi.com/wp-content/uploads/2019/09/alto-ciaz-100x70.jpg 100w" sizes="(max-width: 218px) 100vw, 218px" alt="alto ciaz" title="Maruti Suzuki August 2019 Sales Down By 36%, Big Drop In Alto, Ciaz Sales"/></a></div>                            </div>
+
+            <div class="item-details">
+                <h3 class="entry-title td-module-title"><a href="https://gaadiwaadi.com/maruti-suzuki-sales-down-by-34-3-in-august-2019-big-drop-in-alto-ciaz-sales/" rel="bookmark" title="Maruti Suzuki August 2019 Sales Down By 36%, Big Drop In Alto, Ciaz Sales">Maruti Suzuki August 2019 Sales Down By 36%, Big Drop In&#8230;</a></h3>            </div>
+        </div>
+        </div><div class="td-mega-span">
+        <div class="td_module_mega_menu td_mod_mega_menu">
+            <div class="td-module-image">
+                <div class="td-module-thumb"><a href="https://gaadiwaadi.com/royal-enfield-to-face-hurdles-due-to-patent-infringement-case-against-bs-vi-motorcycles/" rel="bookmark" class="td-image-wrap" title="Royal Enfield To Face Hurdles Due To Patent Infringement Case Of BS-VI Motorcycles"><img width="218" height="150" class="entry-thumb" src="https://gaadiwaadi.com/wp-content/uploads/2017/10/royal-enfield-interceptor-4-e1510071566639-218x150.jpg" srcset="https://gaadiwaadi.com/wp-content/uploads/2017/10/royal-enfield-interceptor-4-e1510071566639-218x150.jpg 218w, https://gaadiwaadi.com/wp-content/uploads/2017/10/royal-enfield-interceptor-4-e1510071566639-100x70.jpg 100w" sizes="(max-width: 218px) 100vw, 218px" alt="royal enfield interceptor 4" title="Royal Enfield To Face Hurdles Due To Patent Infringement Case Of BS-VI Motorcycles"/></a></div>                            </div>
+
+            <div class="item-details">
+                <h3 class="entry-title td-module-title"><a href="https://gaadiwaadi.com/royal-enfield-to-face-hurdles-due-to-patent-infringement-case-against-bs-vi-motorcycles/" rel="bookmark" title="Royal Enfield To Face Hurdles Due To Patent Infringement Case Of BS-VI Motorcycles">Royal Enfield To Face Hurdles Due To Patent Infringement Case Of&#8230;</a></h3>            </div>
+        </div>
+        </div></div></div><div class="td-next-prev-wrap"><a href="#" class="td-ajax-prev-page ajax-page-disabled" id="prev-page-td_uid_71_5d7296c90050a" data-td_block_id="td_uid_71_5d7296c90050a"><i class="td-icon-font td-icon-menu-left"></i></a><a href="#"  class="td-ajax-next-page" id="next-page-td_uid_71_5d7296c90050a" data-td_block_id="td_uid_71_5d7296c90050a"><i class="td-icon-font td-icon-menu-right"></i></a></div><div class="clearfix"></div></div> <!-- ./block1 --></div></div></li>
+</ul>
+</li>
+</ul></div></div>
+            </div>
+        </div>
+    </div>
+
+            <div class="td-banner-wrap-full td-container-wrap ">
+            <div class="td-container-header td-header-row td-header-header">
+                <div class="td-header-sp-recs">
+                    <div class="td-header-rec-wrap">
+    
+ <!-- A generated by theme --> 
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><div class="td-g-rec td-g-rec-id-header td_uid_74_5d7296c902e52_rand td_block_template_1 ">
+<script type="text/javascript">
+var td_screen_width = window.innerWidth;
+
+                    if ( td_screen_width >= 1140 ) {
+                        /* large monitors */
+                        document.write('<ins class="adsbygoogle" style="display:inline-block;width:970px;height:250px" data-ad-client="ca-pub-9822732038633821" data-ad-slot="5470427769"></ins>');
+                        (adsbygoogle = window.adsbygoogle || []).push({});
+                    }
+            
+	                    if ( td_screen_width >= 1019  && td_screen_width < 1140 ) {
+	                        /* landscape tablets */
+                        document.write('<ins class="adsbygoogle" style="display:inline-block;width:970px;height:250px" data-ad-client="ca-pub-9822732038633821" data-ad-slot="5470427769"></ins>');
+	                        (adsbygoogle = window.adsbygoogle || []).push({});
+	                    }
+	                
+                    if ( td_screen_width >= 768  && td_screen_width < 1019 ) {
+                        /* portrait tablets */
+                        document.write('<ins class="adsbygoogle" style="display:inline-block;width:468px;height:60px" data-ad-client="ca-pub-9822732038633821" data-ad-slot="5470427769"></ins>');
+                        (adsbygoogle = window.adsbygoogle || []).push({});
+                    }
+                
+                    if ( td_screen_width < 768 ) {
+                        /* Phones */
+                        document.write('<ins class="adsbygoogle" style="display:inline-block;width:320px;height:50px" data-ad-client="ca-pub-9822732038633821" data-ad-slot="5470427769"></ins>');
+                        (adsbygoogle = window.adsbygoogle || []).push({});
+                    }
+                </script>
+</div>
+
+ <!-- end A --> 
+
+
+</div>                </div>
+            </div>
+        </div>
+    </div>
+<div class="td-main-content-wrap td-container-wrap">
+
+    <div class="td-container td-blog-index ">
+        <div class="td-crumb-container">
+            <div class="entry-crumbs"><span><a title="" class="entry-crumb" href="https://gaadiwaadi.com/">Home</a></span> <i class="td-icon-right td-bread-sep td-bred-no-url-last"></i> <span class="td-bred-no-url-last">Blog</span></div>        </div>
+        <div class="td-pb-row">
+                                <div class="td-pb-span12 td-main-content">
+                        <div class="td-ss-main-content">
+                            
+        <div class="td_module_10 td_module_wrap td-animation-stack">
+            <div class="td-module-thumb"><a href="https://gaadiwaadi.com/maruti-suzuki-swift-and-dzire-offered-with-huge-discounts-details-inside/" rel="bookmark" class="td-image-wrap" title="Maruti Suzuki Swift And Dzire Offered With Huge Discounts &#8211; Details Inside"><img width="218" height="150" class="entry-thumb" src="https://gaadiwaadi.com/wp-content/uploads/2019/09/maruti-suzuki-dzire-discount-september-2019-218x150.jpg" srcset="https://gaadiwaadi.com/wp-content/uploads/2019/09/maruti-suzuki-dzire-discount-september-2019-218x150.jpg 218w, https://gaadiwaadi.com/wp-content/uploads/2019/09/maruti-suzuki-dzire-discount-september-2019-100x70.jpg 100w" sizes="(max-width: 218px) 100vw, 218px" alt="maruti suzuki dzire discount september 2019" title="Maruti Suzuki Swift And Dzire Offered With Huge Discounts &#8211; Details Inside"/></a></div>
+            <div class="item-details">
+            <h3 class="entry-title td-module-title"><a href="https://gaadiwaadi.com/maruti-suzuki-swift-and-dzire-offered-with-huge-discounts-details-inside/" rel="bookmark" title="Maruti Suzuki Swift And Dzire Offered With Huge Discounts &#8211; Details Inside">Maruti Suzuki Swift And Dzire Offered With Huge Discounts &#8211; Details Inside</a></h3>
+                <div class="td-module-meta-info">
+                    <a href="https://gaadiwaadi.com/cars-news/" class="td-post-category">Cars News</a>                        <span class="td-post-author-name"><a href="https://gaadiwaadi.com/author/surendharm/">Surendhar M</a> <span>-</span> </span>                        <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2019-09-06T20:52:17+00:00" >Sep 6, 2019</time></span>                        <div class="td-module-comments"><a href="https://gaadiwaadi.com/maruti-suzuki-swift-and-dzire-offered-with-huge-discounts-details-inside/#respond">0</a></div>                </div>
+
+                <div class="td-excerpt">
+                    The diesel versions of both the Maruti Suzuki Swift and Dzire come with five-year warranty amongst other attractive offers
+Maruti Suzuki India Limited (MSIL) has...                </div>
+            </div>
+
+        </div>
+
+        
+        <div class="td_module_10 td_module_wrap td-animation-stack">
+            <div class="td-module-thumb"><a href="https://gaadiwaadi.com/india-bound-audi-q8-launched-in-china-at-7-7-lakh-yuan-rs-77-lakh/" rel="bookmark" class="td-image-wrap" title="India-bound Audi Q8 Launched in China At 7.7 Lakh Yuan (Rs. 78 Lakh)"><img width="218" height="150" class="entry-thumb" src="https://gaadiwaadi.com/wp-content/uploads/2019/09/chengdu-motor-shoiw-audi-q8-218x150.jpg" srcset="https://gaadiwaadi.com/wp-content/uploads/2019/09/chengdu-motor-shoiw-audi-q8-218x150.jpg 218w, https://gaadiwaadi.com/wp-content/uploads/2019/09/chengdu-motor-shoiw-audi-q8-100x70.jpg 100w" sizes="(max-width: 218px) 100vw, 218px" alt="chengdu motor show audi q8" title="India-bound Audi Q8 Launched in China At 7.7 Lakh Yuan (Rs. 78 Lakh)"/></a></div>
+            <div class="item-details">
+            <h3 class="entry-title td-module-title"><a href="https://gaadiwaadi.com/india-bound-audi-q8-launched-in-china-at-7-7-lakh-yuan-rs-77-lakh/" rel="bookmark" title="India-bound Audi Q8 Launched in China At 7.7 Lakh Yuan (Rs. 78 Lakh)">India-bound Audi Q8 Launched in China At 7.7 Lakh Yuan (Rs. 78 Lakh)</a></h3>
+                <div class="td-module-meta-info">
+                    <a href="https://gaadiwaadi.com/cars-news/audi/" class="td-post-category">Audi</a>                        <span class="td-post-author-name"><a href="https://gaadiwaadi.com/author/pranavsiddharth0303/">Team GaadiWaadi</a> <span>-</span> </span>                        <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2019-09-06T19:21:50+00:00" >Sep 6, 2019</time></span>                        <div class="td-module-comments"><a href="https://gaadiwaadi.com/india-bound-audi-q8-launched-in-china-at-7-7-lakh-yuan-rs-77-lakh/#respond">0</a></div>                </div>
+
+                <div class="td-excerpt">
+                    Audi has launched the Q8 Coupe SUV in China, Indian launch planned for December 2019
+Audi has launched its flagship Q8 coupe SUV in China...                </div>
+            </div>
+
+        </div>
+
+        
+        <div class="td_module_10 td_module_wrap td-animation-stack">
+            <div class="td-module-thumb"><a href="https://gaadiwaadi.com/2020-renault-captur-facelift-rendered-taking-influence-from-european-model/" rel="bookmark" class="td-image-wrap" title="2020 Renault Captur Facelift Rendered Taking Influence From European Model"><img width="218" height="150" class="entry-thumb" src="https://gaadiwaadi.com/wp-content/uploads/2019/09/2020-renault-captur-facelift-rendered-218x150.jpg" srcset="https://gaadiwaadi.com/wp-content/uploads/2019/09/2020-renault-captur-facelift-rendered-218x150.jpg 218w, https://gaadiwaadi.com/wp-content/uploads/2019/09/2020-renault-captur-facelift-rendered-100x70.jpg 100w" sizes="(max-width: 218px) 100vw, 218px" alt="2020 renault captur facelift rendered" title="2020 Renault Captur Facelift Rendered Taking Influence From European Model"/></a></div>
+            <div class="item-details">
+            <h3 class="entry-title td-module-title"><a href="https://gaadiwaadi.com/2020-renault-captur-facelift-rendered-taking-influence-from-european-model/" rel="bookmark" title="2020 Renault Captur Facelift Rendered Taking Influence From European Model">2020 Renault Captur Facelift Rendered Taking Influence From European Model</a></h3>
+                <div class="td-module-meta-info">
+                    <a href="https://gaadiwaadi.com/cars-news/" class="td-post-category">Cars News</a>                        <span class="td-post-author-name"><a href="https://gaadiwaadi.com/author/surendharm/">Surendhar M</a> <span>-</span> </span>                        <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2019-09-06T17:51:57+00:00" >Sep 6, 2019</time></span>                        <div class="td-module-comments"><a href="https://gaadiwaadi.com/2020-renault-captur-facelift-rendered-taking-influence-from-european-model/#respond">0</a></div>                </div>
+
+                <div class="td-excerpt">
+                    2020 Renault Captur Facelift takes design inspiration from the upcoming Euro-spec model and it looks more appealing
+The Captur Concept showcased at the 2011 Geneva...                </div>
+            </div>
+
+        </div>
+
+        
+        <div class="td_module_10 td_module_wrap td-animation-stack">
+            <div class="td-module-thumb"><a href="https://gaadiwaadi.com/upcoming-maruti-suzuki-s-presso-fully-revealed-in-spy-image/" rel="bookmark" class="td-image-wrap" title="Upcoming Maruti Suzuki S-Presso Fully Revealed In Spy Image"><img width="218" height="150" class="entry-thumb" src="https://gaadiwaadi.com/wp-content/uploads/2019/09/Maruti-Suzuki-S-Presso-218x150.jpg" srcset="https://gaadiwaadi.com/wp-content/uploads/2019/09/Maruti-Suzuki-S-Presso-218x150.jpg 218w, https://gaadiwaadi.com/wp-content/uploads/2019/09/Maruti-Suzuki-S-Presso-100x70.jpg 100w" sizes="(max-width: 218px) 100vw, 218px" alt="Maruti Suzuki S-Presso" title="Upcoming Maruti Suzuki S-Presso Fully Revealed In Spy Image"/></a></div>
+            <div class="item-details">
+            <h3 class="entry-title td-module-title"><a href="https://gaadiwaadi.com/upcoming-maruti-suzuki-s-presso-fully-revealed-in-spy-image/" rel="bookmark" title="Upcoming Maruti Suzuki S-Presso Fully Revealed In Spy Image">Upcoming Maruti Suzuki S-Presso Fully Revealed In Spy Image</a></h3>
+                <div class="td-module-meta-info">
+                    <a href="https://gaadiwaadi.com/cars-news/" class="td-post-category">Cars News</a>                        <span class="td-post-author-name"><a href="https://gaadiwaadi.com/author/surendharm/">Surendhar M</a> <span>-</span> </span>                        <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2019-09-06T16:20:08+00:00" >Sep 6, 2019</time></span>                        <div class="td-module-comments"><a href="https://gaadiwaadi.com/upcoming-maruti-suzuki-s-presso-fully-revealed-in-spy-image/#respond">0</a></div>                </div>
+
+                <div class="td-excerpt">
+                    Maruti Suzuki S-Presso will go on sale at the end of this month and it will be powered by a 1.0-litre BSVI petrol engine
+Apart...                </div>
+            </div>
+
+        </div>
+
+        
+        <div class="td_module_10 td_module_wrap td-animation-stack">
+            <div class="td-module-thumb"><a href="https://gaadiwaadi.com/india-bound-2020-hyundai-tucson-rendered-with-sharper-design-cues/" rel="bookmark" class="td-image-wrap" title="India-Bound 2020 Hyundai Tucson Rendered With Sharper Design Cues"><img width="218" height="150" class="entry-thumb" src="https://gaadiwaadi.com/wp-content/uploads/2019/09/2020-Hyundai-Tucson-Render-218x150.jpg" srcset="https://gaadiwaadi.com/wp-content/uploads/2019/09/2020-Hyundai-Tucson-Render-218x150.jpg 218w, https://gaadiwaadi.com/wp-content/uploads/2019/09/2020-Hyundai-Tucson-Render-100x70.jpg 100w" sizes="(max-width: 218px) 100vw, 218px" alt="2020 Hyundai Tucson Render" title="India-Bound 2020 Hyundai Tucson Rendered With Sharper Design Cues"/></a></div>
+            <div class="item-details">
+            <h3 class="entry-title td-module-title"><a href="https://gaadiwaadi.com/india-bound-2020-hyundai-tucson-rendered-with-sharper-design-cues/" rel="bookmark" title="India-Bound 2020 Hyundai Tucson Rendered With Sharper Design Cues">India-Bound 2020 Hyundai Tucson Rendered With Sharper Design Cues</a></h3>
+                <div class="td-module-meta-info">
+                    <a href="https://gaadiwaadi.com/cars-news/" class="td-post-category">Cars News</a>                        <span class="td-post-author-name"><a href="https://gaadiwaadi.com/author/surendharm/">Surendhar M</a> <span>-</span> </span>                        <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2019-09-06T15:25:11+00:00" >Sep 6, 2019</time></span>                        <div class="td-module-comments"><a href="https://gaadiwaadi.com/india-bound-2020-hyundai-tucson-rendered-with-sharper-design-cues/#respond">0</a></div>                </div>
+
+                <div class="td-excerpt">
+                    Next-generation Hyundai Tucson is expected to reach India sometime late next year or in 2021
+Hyundai has commenced testing the next generation Tucson on foreign...                </div>
+            </div>
+
+        </div>
+
+        
+        <div class="td_module_10 td_module_wrap td-animation-stack">
+            <div class="td-module-thumb"><a href="https://gaadiwaadi.com/2019-bmw-x1-facelift-inspired-from-new-x5-unveiled-at-chengdu-auto-show-2019/" rel="bookmark" class="td-image-wrap" title="2019 BMW X1 Facelift Inspired From New X5 Unveiled At Chengdu Auto Show 2019"><img width="218" height="150" class="entry-thumb" src="https://gaadiwaadi.com/wp-content/uploads/2019/09/2019-bmw-x1-facelift1-218x150.jpg" srcset="https://gaadiwaadi.com/wp-content/uploads/2019/09/2019-bmw-x1-facelift1-218x150.jpg 218w, https://gaadiwaadi.com/wp-content/uploads/2019/09/2019-bmw-x1-facelift1-100x70.jpg 100w" sizes="(max-width: 218px) 100vw, 218px" alt="2019 bmw x1 facelift1" title="2019 BMW X1 Facelift Inspired From New X5 Unveiled At Chengdu Auto Show 2019"/></a></div>
+            <div class="item-details">
+            <h3 class="entry-title td-module-title"><a href="https://gaadiwaadi.com/2019-bmw-x1-facelift-inspired-from-new-x5-unveiled-at-chengdu-auto-show-2019/" rel="bookmark" title="2019 BMW X1 Facelift Inspired From New X5 Unveiled At Chengdu Auto Show 2019">2019 BMW X1 Facelift Inspired From New X5 Unveiled At Chengdu Auto Show 2019</a></h3>
+                <div class="td-module-meta-info">
+                    <a href="https://gaadiwaadi.com/cars-news/bmw/" class="td-post-category">BMW</a>                        <span class="td-post-author-name"><a href="https://gaadiwaadi.com/author/pranavsiddharth0303/">Team GaadiWaadi</a> <span>-</span> </span>                        <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2019-09-06T14:27:57+00:00" >Sep 6, 2019</time></span>                        <div class="td-module-comments"><a href="https://gaadiwaadi.com/2019-bmw-x1-facelift-inspired-from-new-x5-unveiled-at-chengdu-auto-show-2019/#respond">0</a></div>                </div>
+
+                <div class="td-excerpt">
+                    At the ongoing Chengdu Motor Show in China, BMW has unveiled the new X1 and X1 plug-in hybrid with design changes
+BMW has unveiled the...                </div>
+            </div>
+
+        </div>
+
+        
+        <div class="td_module_10 td_module_wrap td-animation-stack">
+            <div class="td-module-thumb"><a href="https://gaadiwaadi.com/byd-india-launches-t3-electric-mpv-and-t3-electric-minivan-with-300-km-range/" rel="bookmark" class="td-image-wrap" title="BYD T3 Electric MPV And Minivan With 300 km Range Launched In India"><img width="218" height="150" class="entry-thumb" src="https://gaadiwaadi.com/wp-content/uploads/2019/09/BYD-T3-electric-Mpv-india--218x150.jpg" srcset="https://gaadiwaadi.com/wp-content/uploads/2019/09/BYD-T3-electric-Mpv-india--218x150.jpg 218w, https://gaadiwaadi.com/wp-content/uploads/2019/09/BYD-T3-electric-Mpv-india--100x70.jpg 100w" sizes="(max-width: 218px) 100vw, 218px" alt="BYD T3 electric Mpv india" title="BYD T3 Electric MPV And Minivan With 300 km Range Launched In India"/></a></div>
+            <div class="item-details">
+            <h3 class="entry-title td-module-title"><a href="https://gaadiwaadi.com/byd-india-launches-t3-electric-mpv-and-t3-electric-minivan-with-300-km-range/" rel="bookmark" title="BYD T3 Electric MPV And Minivan With 300 km Range Launched In India">BYD T3 Electric MPV And Minivan With 300 km Range Launched In India</a></h3>
+                <div class="td-module-meta-info">
+                    <a href="https://gaadiwaadi.com/cars-news/" class="td-post-category">Cars News</a>                        <span class="td-post-author-name"><a href="https://gaadiwaadi.com/author/surendharm/">Surendhar M</a> <span>-</span> </span>                        <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2019-09-06T12:45:48+00:00" >Sep 6, 2019</time></span>                        <div class="td-module-comments"><a href="https://gaadiwaadi.com/byd-india-launches-t3-electric-mpv-and-t3-electric-minivan-with-300-km-range/#respond">0</a></div>                </div>
+
+                <div class="td-excerpt">
+                    BYD T3 Electric MPV And Minivan are claimed to have 300 km driving range on a single charge; using DC charging facility, it only...                </div>
+            </div>
+
+        </div>
+
+        
+        <div class="td_module_10 td_module_wrap td-animation-stack">
+            <div class="td-module-thumb"><a href="https://gaadiwaadi.com/7-seat-version-of-volkswagen-tiguan-debuts-at-2019-chengdu-auto-show/" rel="bookmark" class="td-image-wrap" title="7-seat Version of Volkswagen Tiguan Debuts at 2019 Chengdu Auto Show"><img width="218" height="150" class="entry-thumb" src="https://gaadiwaadi.com/wp-content/uploads/2019/09/tiguan-7-seater-L-218x150.jpg" srcset="https://gaadiwaadi.com/wp-content/uploads/2019/09/tiguan-7-seater-L-218x150.jpg 218w, https://gaadiwaadi.com/wp-content/uploads/2019/09/tiguan-7-seater-L-100x70.jpg 100w" sizes="(max-width: 218px) 100vw, 218px" alt="tiguan 7 seater L" title="7-seat Version of Volkswagen Tiguan Debuts at 2019 Chengdu Auto Show"/></a></div>
+            <div class="item-details">
+            <h3 class="entry-title td-module-title"><a href="https://gaadiwaadi.com/7-seat-version-of-volkswagen-tiguan-debuts-at-2019-chengdu-auto-show/" rel="bookmark" title="7-seat Version of Volkswagen Tiguan Debuts at 2019 Chengdu Auto Show">7-seat Version of Volkswagen Tiguan Debuts at 2019 Chengdu Auto Show</a></h3>
+                <div class="td-module-meta-info">
+                    <a href="https://gaadiwaadi.com/cars-news/" class="td-post-category">Cars News</a>                        <span class="td-post-author-name"><a href="https://gaadiwaadi.com/author/pranavsiddharth0303/">Team GaadiWaadi</a> <span>-</span> </span>                        <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2019-09-06T12:03:37+00:00" >Sep 6, 2019</time></span>                        <div class="td-module-comments"><a href="https://gaadiwaadi.com/7-seat-version-of-volkswagen-tiguan-debuts-at-2019-chengdu-auto-show/#respond">0</a></div>                </div>
+
+                <div class="td-excerpt">
+                    Volkswagen has introduced the 7-seater Tiguan SUV at the 2019 Chengdu Motor Show in partnership with SAIC
+Volkswagen that has a partnership with China’s SAIC...                </div>
+            </div>
+
+        </div>
+
+        <div class="page-nav td-pb-padding-side"><span class="current">1</span><a href="https://gaadiwaadi.com/page/2/" class="page" title="2">2</a><a href="https://gaadiwaadi.com/page/3/" class="page" title="3">3</a><span class="extend">...</span><a href="https://gaadiwaadi.com/page/1481/" class="last" title="1,481">1,481</a><a href="https://gaadiwaadi.com/page/2/" ><i class="td-icon-menu-right"></i></a><span class="pages">Page 1 of 1,481</span><div class="clearfix"></div></div>                        </div>
+                    </div>
+                            </div> <!-- /.td-pb-row -->
+    </div> <!-- /.td-container -->
+</div> <!-- /.td-main-content-wrap -->
+
+<!-- Instagram -->
+
+
+
+
+	<!-- Footer -->
+	<div class="td-footer-wrapper td-container-wrap td-footer-template-14 ">
+    <div class="td-container td-footer-bottom-full">
+        <div class="td-pb-row">
+            
+ <!-- A generated by theme --> 
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><div class="td-g-rec td-g-rec-id-footer_top td_uid_75_5d7296c906b03_rand td_block_template_1 ">
+<script type="text/javascript">
+var td_screen_width = window.innerWidth;
+
+                    if ( td_screen_width >= 1140 ) {
+                        /* large monitors */
+                        document.write('<span class="td-adspot-title">Advertisement</span><ins class="adsbygoogle" style="display:inline-block;width:970px;height:250px" data-ad-client="ca-pub-9822732038633821" data-ad-slot="2003277274"></ins>');
+                        (adsbygoogle = window.adsbygoogle || []).push({});
+                    }
+            
+	                    if ( td_screen_width >= 1019  && td_screen_width < 1140 ) {
+	                        /* landscape tablets */
+                        document.write('<span class="td-adspot-title">Advertisement</span><ins class="adsbygoogle" style="display:inline-block;width:728px;height:90px" data-ad-client="ca-pub-9822732038633821" data-ad-slot="2003277274"></ins>');
+	                        (adsbygoogle = window.adsbygoogle || []).push({});
+	                    }
+	                
+                    if ( td_screen_width >= 768  && td_screen_width < 1019 ) {
+                        /* portrait tablets */
+                        document.write('<span class="td-adspot-title">Advertisement</span><ins class="adsbygoogle" style="display:inline-block;width:728px;height:90px" data-ad-client="ca-pub-9822732038633821" data-ad-slot="2003277274"></ins>');
+                        (adsbygoogle = window.adsbygoogle || []).push({});
+                    }
+                
+                    if ( td_screen_width < 768 ) {
+                        /* Phones */
+                        document.write('<span class="td-adspot-title">Advertisement</span><ins class="adsbygoogle" style="display:inline-block;width:300px;height:600px" data-ad-client="ca-pub-9822732038633821" data-ad-slot="2003277274"></ins>');
+                        (adsbygoogle = window.adsbygoogle || []).push({});
+                    }
+                </script>
+</div>
+
+ <!-- end A --> 
+
+<div class="td-pb-span3"><aside class="footer-logo-wrap"><a href="https://gaadiwaadi.com/"><img src="https://gaadiwaadi.com/wp-content/uploads/2018/06/GW-logo.png" alt="Gaadiwaadi-logo" title=""/></a></aside></div><div class="td-pb-span5"><aside class="footer-text-wrap"><div class="block-title"><span>ABOUT US</span></div>GaadiWaadi.com is India’s no. 1 source for latest automotive news managed by Tecnonation Media Pvt Ltd with boot loads of scoops, reviews and trivia written by motoring experts and enthusiasts. Launched in 2013 with the aim of providing unbiased automotive news, views, reviews, comparisons and analysis. We are now the country’s one of the most trusted online automotive news sources.<div class="footer-email-wrap">Contact us: <a href="mailto:contact@gaadiwaadi.com">contact@gaadiwaadi.com</a></div></aside></div><div class="td-pb-span4"><aside class="footer-social-wrap td-social-style-2"><div class="block-title"><span>FOLLOW US</span></div>
+        <span class="td-social-icon-wrap">
+            <a target="_blank" href="http://facebook.com/gaadiwaaditimes" title="Facebook">
+                <i class="td-icon-font td-icon-facebook"></i>
+            </a>
+        </span>
+        <span class="td-social-icon-wrap">
+            <a target="_blank" href="https://plus.google.com/+Gaadiwaadidotcom" title="Google+">
+                <i class="td-icon-font td-icon-googleplus"></i>
+            </a>
+        </span>
+        <span class="td-social-icon-wrap">
+            <a target="_blank" href="https://www.instagram.com/gaadiwaadi" title="Instagram">
+                <i class="td-icon-font td-icon-instagram"></i>
+            </a>
+        </span>
+        <span class="td-social-icon-wrap">
+            <a target="_blank" href="https://twitter.com/gaadiwaadi" title="Twitter">
+                <i class="td-icon-font td-icon-twitter"></i>
+            </a>
+        </span>
+        <span class="td-social-icon-wrap">
+            <a target="_blank" href="https://www.youtube.com/gaadiwaadidotcom" title="Youtube">
+                <i class="td-icon-font td-icon-youtube"></i>
+            </a>
+        </span></aside></div>        </div>
+    </div>
+</div>
+	<!-- Sub Footer -->
+	    <div class="td-sub-footer-container td-container-wrap ">
+        <div class="td-container">
+            <div class="td-pb-row">
+                <div class="td-pb-span td-sub-footer-menu">
+                    <div class="menu-footer-container"><ul id="menu-footer" class="td-subfooter-menu"><li id="menu-item-536" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-first td-menu-item td-normal-menu menu-item-536"><a target="_blank" href="https://gaadiwaadi.com/latest-news/">Latest News</a></li>
+<li id="menu-item-5532" class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-5532"><a href="https://gaadiwaadi.com/reviews/">Reviews</a></li>
+<li id="menu-item-5531" class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-5531"><a href="https://gaadiwaadi.com/about-us/">About us</a></li>
+<li id="menu-item-3691" class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-3691"><a href="https://gaadiwaadi.com/contact/">Contact us</a></li>
+<li id="menu-item-3692" class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-3692"><a href="https://gaadiwaadi.com/visitors-agreement/">Visitors Agreement</a></li>
+<li id="menu-item-3693" class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-3693"><a href="https://gaadiwaadi.com/privacy-policy/">Privacy Policy</a></li>
+<li id="menu-item-39353" class="menu-item menu-item-type-custom menu-item-object-custom td-menu-item td-normal-menu menu-item-39353"><a href="https://gaadiwaadi.com/about-us/">Website managed by Tecnonation Media Pvt Ltd</a></li>
+</ul></div>                </div>
+
+                <div class="td-pb-span td-sub-footer-copy">
+                    &copy; Copyright 2018 GaadiWaadi.com, All Rights Reserved                </div>
+            </div>
+        </div>
+    </div>
+
+
+</div><!--close td-outer-wrap-->
+
+            <style type="text/css">
+						.svc_pre_container_after{
+				margin-top:2px;
+				margin-bottom:2px;
+			}
+			.svc_pre_container_after .svc_next_content{
+				padding:10px 10px 10px 10px;
+				background:#ffffff;
+			}	
+			.svc_pre_container_after .svc_next_ref{border-top: 4px solid #191919;}
+			.svc_pre_container_after .svc_next_ref::before{border-top: 10px solid #191919;}
+			.svc_pre_container_after .svc_next_ref .svc_next_txt{ color:#0769bf; font-size:20px; line-height:20px;}
+			
+			</style>
+            				<input type="hidden" class="svc_next_url" value="https://gaadiwaadi.com/maruti-suzuki-swift-and-dzire-offered-with-huge-discounts-details-inside/">
+				<input type="hidden" class="svc_next_url_set" value="1">
+                                <script>
+											function svc_on_start_callback(){
+							console.log('start_callback');
+													}
+										function svc_on_end_callback(){
+						console.log('end_callback');
+											}
+									</script>
+			
+
+    <!--
+
+        Theme: Newspaper by tagDiv.com 2017
+        Version: 8.8.2 (rara)
+        Deploy mode: deploy
+        
+        uid: 5d7296c914776
+    -->
+
+    
+<!-- Custom css form theme panel -->
+<style type="text/css" media="screen">
+/* custom css theme panel */
+<pre>
+@media (max-width: 767px){
+.td-header-style-8-wrapper.td-menu-placeholder .td-menu-background, .td-header-style-8 .td-menu-wrap {
+  height: 48px !important;
+}
+.header-search-wrap #search-button .td-sp-ico-search {
+  top: 1px !important;
+}
+
+   
+
+}
+             /*  2-jul-15  */
+.td-main-page-wrap {
+  padding-top:10px;
+  /* responsive portrait phone */
+}
+
+.td-header-wrap .td-header-menu-wrap-full, .td-header-wrap .td-header-menu-wrap, .td-header-wrap .td-header-main-menu {
+    background-color: #f4f4f4 !important;
+
+}
+
+#td-top-mobile-toggle i {
+color:#000;
+}
+.header-search-wrap .td-icon-search {
+  color: #000 !important;
+}
+body .td-page-title {
+display:none;
+}
+
+</pre> 
+</style>
+
+<script type='text/javascript' src='https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201936'></script>
+<script type='text/javascript' src='https://gaadiwaadi.com/wp-content/themes/Newspaper8/js/tagdiv_theme.min.js?ver=8.8.2'></script>
+<script type='text/javascript' src='https://gaadiwaadi.com/wp-includes/js/wp-embed.min.js?ver=4.9.11'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var svc_next_ajax_url = {"page_type":"home","enable_history_push":"yes","artical_parent_selector":"","artical_selector":".td-main-content","style":"infinite","ids":[117167,117065,117150,117210,117153,117096,117175,116756,117154,116969,100651,117035,117041,117042,117061,112845,117063,116884,116956,117016,116749,117036,116917,117014,116904,116984,117003,116737,114530,116865,116974,116976,116920,116951,116915,116799,116824,116886,116860,116755,116870,116820,116805,116851,116842,116814,116808,116733,114940,116711],"links":["https:\/\/gaadiwaadi.com\/maruti-suzuki-swift-and-dzire-offered-with-huge-discounts-details-inside\/","https:\/\/gaadiwaadi.com\/india-bound-audi-q8-launched-in-china-at-7-7-lakh-yuan-rs-77-lakh\/","https:\/\/gaadiwaadi.com\/2020-renault-captur-facelift-rendered-taking-influence-from-european-model\/","https:\/\/gaadiwaadi.com\/upcoming-maruti-suzuki-s-presso-fully-revealed-in-spy-image\/","https:\/\/gaadiwaadi.com\/india-bound-2020-hyundai-tucson-rendered-with-sharper-design-cues\/","https:\/\/gaadiwaadi.com\/2019-bmw-x1-facelift-inspired-from-new-x5-unveiled-at-chengdu-auto-show-2019\/","https:\/\/gaadiwaadi.com\/byd-india-launches-t3-electric-mpv-and-t3-electric-minivan-with-300-km-range\/","https:\/\/gaadiwaadi.com\/maruti-alto800-bs6-from-just-rs-2-33-lakh-in-september-2019-details\/","https:\/\/gaadiwaadi.com\/renault-duster-sales-up-by-58-in-august-thanks-to-facelift\/","https:\/\/gaadiwaadi.com\/top-seven-150cc-motorcycles-to-buy-in-india-in-2019\/","https:\/\/gaadiwaadi.com\/tata-altroz-vs-maruti-baleno-comparison\/","https:\/\/gaadiwaadi.com\/2020-hyundai-creta-officially-revealed-completely-india-launch-in-march\/","https:\/\/gaadiwaadi.com\/kia-seltos-become-segment-top-seller-beats-creta-duster-kicks-s-cross\/","https:\/\/gaadiwaadi.com\/mg-hector-no-1-in-segment-mahindra-xuv500-jeep-compass-sales-dropped-by-53\/","https:\/\/gaadiwaadi.com\/after-india-korea-kia-seltos-launched-in-china-as-kx3\/","https:\/\/gaadiwaadi.com\/toyota-fortuner-trd-sportivo-2-launch-in-festive-season\/","https:\/\/gaadiwaadi.com\/renault-kwid-electric-launched-in-china-from-rs-6-2-lakh-61k-yuan\/","https:\/\/gaadiwaadi.com\/upcoming-5-compact-suvs-in-india-vitara-brezza-facelift-to-renault-hbc\/","https:\/\/gaadiwaadi.com\/this-customised-re-classic-500-can-out-race-re-650-twin-details\/","https:\/\/gaadiwaadi.com\/2020-hyundai-i10-vs-grand-i10-nios-comparison\/","https:\/\/gaadiwaadi.com\/up-to-rs-87700-discount-on-maruti-ciaz-in-september-2019-details\/","https:\/\/gaadiwaadi.com\/india-bound-2020-hyundai-verna-facelift-debuts-at-cms-2019\/","https:\/\/gaadiwaadi.com\/toyota-registers-24-degrowth-in-august-as-fortuner-innova-crysta-yaris-sales-down\/","https:\/\/gaadiwaadi.com\/september-2019-discounts-on-honda-amaze-city-civic-cr-v-wr-v\/","https:\/\/gaadiwaadi.com\/mg-hector-gets-all-black-theme-modifications-looks-extremely-sporty\/","https:\/\/gaadiwaadi.com\/huge-discounts-on-mahindra-xuv300-scorpio-bolero-xuv500-marazzo-this-month\/","https:\/\/gaadiwaadi.com\/bajaj-pulsar-125-classic-with-split-seat-launching-soon-spied\/","https:\/\/gaadiwaadi.com\/maruti-vitara-brezza-gets-rs-1-lakh-discount-in-september-hyundai-venue-effect\/","https:\/\/gaadiwaadi.com\/india-bound-hyundai-verna-facelift-spied-undisguised-exterior-revealed\/","https:\/\/gaadiwaadi.com\/renault-hbc-kwid-triber-based-suv-rendered-launch-next-year\/","https:\/\/gaadiwaadi.com\/2020-hyundai-elite-i20-rendered-with-sportier-design-cues\/","https:\/\/gaadiwaadi.com\/2019-volkswagen-polo-and-vento-launched-from-rs-5-82-lakh\/","https:\/\/gaadiwaadi.com\/2020-nissan-juke-unveiled-bigger-bolder-and-quirkier-than-before\/","https:\/\/gaadiwaadi.com\/three-seater-volvo-xc90-excellence-lounge-console-launched-in-india\/","https:\/\/gaadiwaadi.com\/royal-enfield-interceptor-650-gt650-prices-hiked-by-upto-rs-6400\/","https:\/\/gaadiwaadi.com\/september-2019-discount-on-maruti-alto-k10-celerio-wagon-r-eeco\/","https:\/\/gaadiwaadi.com\/pawan-goenka-md-mahindra-buys-xuv300-his-first-car-in-26-years\/","https:\/\/gaadiwaadi.com\/ford-mahindra-c-suv-rendered-taking-design-inspiration-from-kuga-korando\/","https:\/\/gaadiwaadi.com\/tvs-registers-16-5-de-growth-in-august-2019-as-apache-jupiter-ntorq-sales-down\/","https:\/\/gaadiwaadi.com\/honda-registers-51-3-drop-in-august-2019-city-jazz-wr-v-sales-decline\/","https:\/\/gaadiwaadi.com\/renault-discounts-in-september-2019-kwid-duster-captur-and-more\/","https:\/\/gaadiwaadi.com\/2019-toyota-yaris-dual-tone-launched-in-india-priced-at-rs-8-65-lakh\/","https:\/\/gaadiwaadi.com\/2020-tata-nexon-facelift-imagined-in-a-new-speculative-rendering\/","https:\/\/gaadiwaadi.com\/maruti-suzuki-achieves-one-million-uv-sales-milestone-in-india\/","https:\/\/gaadiwaadi.com\/2020-hyundai-i10-unveiled-15-changes-over-grand-i10-nios\/","https:\/\/gaadiwaadi.com\/hyundai-september-2019-discounts-creta-santro-elite-i20-verna-more\/","https:\/\/gaadiwaadi.com\/new-2019-volkswagen-polo-gt-facelift-spied-india-launch-tomorrow\/","https:\/\/gaadiwaadi.com\/car-prices-could-go-down-as-govt-mulls-gst-rate-cut-ahead-of-festive-season\/","https:\/\/gaadiwaadi.com\/royal-enfield-bullet-x-350-vs-bullet-standard-350-specs-comparison\/","https:\/\/gaadiwaadi.com\/2019-honda-cb650r-launch-expected-soon-in-india\/"],"titles":["Maruti Suzuki Swift And Dzire Offered With Huge Discounts &#8211; Details Inside","India-bound Audi Q8 Launched in China At 7.7 Lakh Yuan (Rs. 78 Lakh)","2020 Renault Captur Facelift Rendered Taking Influence From European Model","Upcoming Maruti Suzuki S-Presso Fully Revealed In Spy Image","India-Bound 2020 Hyundai Tucson Rendered With Sharper Design Cues","2019 BMW X1 Facelift Inspired From New X5 Unveiled At Chengdu Auto Show 2019","BYD T3 Electric MPV And Minivan With 300 km Range Launched In India","Maruti Alto800 BS6 From Just Rs. 2.33 Lakh In September 2019 &#8211; Details","Renault Duster Sales Up By 58% In August, Thanks To Facelift","Top Seven 150cc Motorcycles To Buy In India In 2019","Upcoming Tata Altroz vs Maruti Suzuki Baleno &#8211; Comparison","2020 Hyundai Creta Revealed Completely: Video Walkaround","Kia Seltos Beats Hyundai Creta, Becomes Segment Best-Seller In First Month","MG Hector No.1 In Segment, XUV500 &#038; Jeep Compass Sales Dropped By 53%","After India And South Korea, Kia Seltos Launched In China","Toyota Fortuner TRD Sportivo 2 Launch In Festive Season","Renault Kwid Electric Launched From Rs. 6.2 Lakh (61K Yuan) In China","Upcoming 5 Compact SUVs In India &#8211; Vitara Brezza Facelift To Renault HBC","This Customised RE Classic 500 Can Outrace RE 650 Twin &#8211; Details","2020 Hyundai i10 vs Grand i10 Nios: Features &#038; Specs Comparison","Up To Rs 87,700 Discount On Maruti Ciaz In September 2019 &#8211; Details","India-Bound 2020 Hyundai Verna Facelift Officially Unveiled","Toyota Registers 24% Degrowth In August As Fortuner, Innova Crysta, Yaris Sales Down","September 2019 Discounts On Honda Amaze, City, Civic, CR-V, WR-V","MG Hector (XUV500\/Harrier Rival) Gets All-black Theme Modifications; Looks Extremely SPORTY","September 2019 Discounts On Mahindra XUV500, Scorpio, Bolero, Marazzo","Bajaj Pulsar 125 Classic With Split Seat Launching Soon, Spied","Rs. 1 Lakh Discount On Maruti Vitara Brezza In September, Hyundai Venue Effect?","2020 Hyundai Verna Facelift Spied Undisguised, Exterior Revealed","Renault HBC Triber Based Sub-4M SUV Rendered; Launch Next Year","2020 Hyundai Elite i20 Rendered With Sportier Design Cues","2019 Volkswagen Polo And Vento Launched From Rs. 5.82 Lakh","2020 Nissan Juke Is Bigger, Bolder And Quirkier Than Before, Unveiled","3-Seater Volvo XC90 Excellence Lounge Launched At Rs. 1.42 Crores","Royal Enfield Interceptor 650 &#038; GT650 Prices Hiked By Upto Rs. 6,400","September 2019 Discount On Maruti Alto, K10, Celerio, Wagon R, Eeco","Pawan Goenka, MD, Mahindra Buys XUV300, His First Car In 26 Years","Ford-Mahindra C-SUV Rendered Taking Design Inspiration From Korando","TVS Apache, Jupiter, Ntorq Sales Down By 16.5% In August 2019","Honda Registers 51.3% Drop In August 2019, City, Jazz, WR-V Sales Decline","Renault Discounts In September 2019 On Kwid, Duster, Captur &#8211; Details","2019 Toyota Yaris Dual-Tone Launched In India; Priced At Rs. 8.65 Lakh","2020 Tata Nexon Facelift Imagined In A New Rendering","Maruti Suzuki Sold 1 Million UVs In India &#8211; Vitara Brezza, Ertiga, S-Cross","2020 Hyundai i10 Unveiled, 15 Changes Over Grand i10 Nios: Video","Hyundai September 2019 Discounts &#8211; Creta, Santro, Elite i20, Verna &#038; More","New 2019 Volkswagen Polo GT Facelift Spied, India Launch Tomorrow","Car Prices Could Go Down, Govt Mulls GST Rate Cut","New Royal Enfield Bullet X 350 VS Bullet 350: Specs Comparison","2019 Honda CB650R Launch Expected Soon In India"],"first_id":"117057","first_url":"https:\/\/gaadiwaadi.com\/7-seat-version-of-volkswagen-tiguan-debuts-at-2019-chengdu-auto-show\/","first_title":"7-seat Version of Volkswagen Tiguan Debuts at 2019 Chengdu Auto Show","offset":"1300","next_arrow":"0","next_post_text":"NEXT STORY","after_content_enable":"yes","after_content":"","on_start_callback_enable":"yes","on_end_callback_enable":"yes","call_back_end_timeout":"1000"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://gaadiwaadi.com/wp-content/plugins/wp-next-post/inc/../assets/js/next-post-script.js?ver=4.9.11'></script>
+
+<!-- JS generated by theme -->
+
+<script>
+    
+
+	
+
+		(function(){
+			var html_jquery_obj = jQuery('html');
+
+			if (html_jquery_obj.length && (html_jquery_obj.is('.ie8') || html_jquery_obj.is('.ie9'))) {
+
+				var path = 'https://gaadiwaadi.com/wp-content/themes/Newspaper8/style.css';
+
+				jQuery.get(path, function(data) {
+
+					var str_split_separator = '#td_css_split_separator';
+					var arr_splits = data.split(str_split_separator);
+					var arr_length = arr_splits.length;
+
+					if (arr_length > 1) {
+
+						var dir_path = 'https://gaadiwaadi.com/wp-content/themes/Newspaper8';
+						var splited_css = '';
+
+						for (var i = 0; i < arr_length; i++) {
+							if (i > 0) {
+								arr_splits[i] = str_split_separator + ' ' + arr_splits[i];
+							}
+							//jQuery('head').append('<style>' + arr_splits[i] + '</style>');
+
+							var formated_str = arr_splits[i].replace(/\surl\(\'(?!data\:)/gi, function regex_function(str) {
+								return ' url(\'' + dir_path + '/' + str.replace(/url\(\'/gi, '').replace(/^\s+|\s+$/gm,'');
+							});
+
+							splited_css += "<style>" + formated_str + "</style>";
+						}
+
+						var td_theme_css = jQuery('link#td-theme-css');
+
+						if (td_theme_css.length) {
+							td_theme_css.after(splited_css);
+						}
+					}
+				});
+			}
+		})();
+
+	
+	
+</script>
+
+<script type='text/javascript' src='https://stats.wp.com/e-201936.js' async='async' defer='defer'></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:7.1.1',blog:'92957650',post:'0',tz:'5.5',srv:'gaadiwaadi.com'} ]);
+	_stq.push([ 'clickTrackerInit', '92957650', '0' ]);
+</script>
+
+
+			<div id="tdw-css-writer" style="display: none" class="tdw-drag-dialog tdc-window-sidebar">
+				<header>
+
+				
+					<a title="Editor" class="tdw-tab tdc-tab-active" href="#" data-tab-content="tdw-tab-editor">Edit with Live CSS</a>
+					<div class="tdw-less-info" title="This will be red when errors are detected in your CSS and LESS"></div>
+				
+				</header>
+				<div class="tdw-content">
+
+					
+					<div class="tdw-tabs-content tdw-tab-editor tdc-tab-content-active">
+
+
+						<script>
+
+							(function(jQuery, undefined) {
+
+								jQuery(window).ready(function() {
+
+									if ( 'undefined' !== typeof tdcAdminIFrameUI ) {
+										var $liveIframe  = tdcAdminIFrameUI.getLiveIframe();
+
+										if ( $liveIframe.length ) {
+											$liveIframe.load(function() {
+												$liveIframe.contents().find( 'body').append( '<textarea class="tdw-css-writer-editor" style="display: none"></textarea>' );
+											});
+										}
+									}
+
+								});
+
+							})(jQuery);
+
+						</script>
+
+
+						<textarea class="tdw-css-writer-editor td_live_css_uid_1_5d7296c914a81"></textarea>
+						<div id="td_live_css_uid_1_5d7296c914a81" class="td-code-editor"></div>
+
+
+						<script>
+							jQuery(window).load(function (){
+
+								if ( 'undefined' !== typeof tdLiveCssInject ) {
+
+									tdLiveCssInject.init();
+
+
+									var editor_textarea = jQuery('.td_live_css_uid_1_5d7296c914a81');
+									var languageTools = ace.require("ace/ext/language_tools");
+									var tdcCompleter = {
+										getCompletions: function (editor, session, pos, prefix, callback) {
+											if (prefix.length === 0) {
+												callback(null, []);
+												return
+											}
+
+											if ('undefined' !== typeof tdcAdminIFrameUI) {
+
+												var data = {
+													error: undefined,
+													getShortcode: ''
+												};
+
+												tdcIFrameData.getShortcodeFromData(data);
+
+												if (!_.isUndefined(data.error)) {
+													tdcDebug.log(data.error);
+												}
+
+												if (!_.isUndefined(data.getShortcode)) {
+
+													var regex = /el_class=\"([A-Za-z0-9_-]*\s*)+\"/g,
+														results = data.getShortcode.match(regex);
+
+													var elClasses = {};
+
+													for (var i = 0; i < results.length; i++) {
+														var currentClasses = results[i]
+															.replace('el_class="', '')
+															.replace('"', '')
+															.split(' ');
+
+														for (var j = 0; j < currentClasses.length; j++) {
+															if (_.isUndefined(elClasses[currentClasses[j]])) {
+																elClasses[currentClasses[j]] = '';
+															}
+														}
+													}
+
+													var arrElClasses = [];
+
+													for (var prop in elClasses) {
+														arrElClasses.push(prop);
+													}
+
+													callback(null, arrElClasses.map(function (item) {
+														return {
+															name: item,
+															value: item,
+															meta: 'in_page'
+														}
+													}));
+												}
+											}
+										}
+									};
+									languageTools.addCompleter(tdcCompleter);
+
+									window.editor = ace.edit("td_live_css_uid_1_5d7296c914a81");
+
+									// 'change' handler is written as function because it's called by tdc_on_add_css_live_components (of wp_footer hook)
+									// We did it to reattach the existing compiled css to the new content received from server.
+									window.editorChangeHandler = function () {
+										//tdwState.lessWasEdited = true;
+
+										window.onbeforeunload = function () {
+											if (tdwState.lessWasEdited) {
+												return "You have attempted to leave this page. Are you sure?";
+											}
+											return false;
+										};
+
+										var editorValue = editor.getSession().getValue();
+
+										editor_textarea.val(editorValue);
+
+										if ('undefined' !== typeof tdcAdminIFrameUI) {
+											tdcAdminIFrameUI.getLiveIframe().contents().find('.tdw-css-writer-editor:first').val(editorValue);
+
+											// Mark the content as modified
+											// This is important for showing info when composer closes
+                                            tdcMain.setContentModified();
+										}
+
+										tdLiveCssInject.less();
+									};
+
+									editor.getSession().setValue(editor_textarea.val());
+									editor.getSession().on('change', editorChangeHandler);
+
+									editor.setTheme("ace/theme/textmate");
+									editor.setShowPrintMargin(false);
+									editor.getSession().setMode("ace/mode/less");
+									editor.setOptions({
+										enableBasicAutocompletion: true,
+										enableSnippets: true,
+										enableLiveAutocompletion: false
+									});
+
+								}
+
+							});
+						</script>
+
+					</div>
+				</div>
+
+				<footer>
+
+					
+						<a href="#" class="tdw-save-css">Save</a>
+						<div class="tdw-more-info-text">Write CSS OR LESS and hit save. CTRL + SPACE for auto-complete.</div>
+
+					
+					<div class="tdw-resize"></div>
+				</footer>
+			</div>
+			
+</body>
+</html>
